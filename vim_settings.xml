@@ -3,21 +3,52 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/codes/auth0-react-sample/01-Login/.env" timestamp="1490708225002">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1490694855220">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="24" column="52" />
         <mark key="^" line="24" column="52" />
         <mark key="." line="24" column="52" />
       </file>
+      <file name="D:/codes/auth0-react-sample/02-Custom-Login/webpack.config.js" timestamp="1490708139860" />
       <file name="D:/codes/auth0-react-sample/01-Login/src/utils/jwtHelper.js" timestamp="1490695076513" />
+      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/routes.js" timestamp="1490708204857" />
+      <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="0" column="50" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>{</text>
+      </register>
+      <register name="-" type="4">
+        <text>{</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
     <history />
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
