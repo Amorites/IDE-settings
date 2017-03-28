@@ -6,15 +6,7 @@
       <file name="D:/codes/auth0-react-sample/01-Login/.env" timestamp="1490708225002">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1490694855220">
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="24" column="52" />
-        <mark key="^" line="24" column="52" />
-        <mark key="." line="24" column="52" />
-      </file>
-      <file name="D:/codes/auth0-react-sample/05-Linking-Accounts/src/components/LinkedAccount/LinkedAccountItem.js" timestamp="1490716069472" />
-      <file name="D:/codes/auth0-react-sample/02-Custom-Login/src/views/Main/Login/Login.js" timestamp="1490710160372" />
-      <file name="D:/codes/auth0-react-sample/04-User-Profile/src/utils/AuthService.js" timestamp="1490712186344" />
+      <file name="D:/codes/auth0-react-sample/07-Authorization/src/views/Main/routes.js" timestamp="1490718556811" />
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="14" />
@@ -25,6 +17,22 @@
       <file name="/__dummy.as" timestamp="1490712453769">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/codes/auth0-react-sample/05-Linking-Accounts/src/utils/LinkAccountService.js" timestamp="1490718077508">
+        <mark key="[" line="9" column="25" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+      </file>
+      <file name="D:/codes/auth0-react-sample/05-Linking-Accounts/src/components/LinkedAccount/LinkedAccountsList.js" timestamp="1490717896245" />
+      <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1490694855220">
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="52" />
+        <mark key="^" line="24" column="52" />
+        <mark key="." line="24" column="52" />
+      </file>
+      <file name="D:/codes/auth0-react-sample/05-Linking-Accounts/src/components/LinkedAccount/LinkedAccountItem.js" timestamp="1490716069472" />
+      <file name="D:/codes/auth0-react-sample/02-Custom-Login/src/views/Main/Login/Login.js" timestamp="1490710160372" />
+      <file name="D:/codes/auth0-react-sample/04-User-Profile/src/utils/AuthService.js" timestamp="1490712186344" />
     </filemarks>
     <jumps />
     <registers>
