@@ -12,15 +12,14 @@
         <mark key="^" line="24" column="52" />
         <mark key="." line="24" column="52" />
       </file>
-      <file name="D:/codes/auth0-react-sample/02-Custom-Login/webpack.config.js" timestamp="1490708139860" />
-      <file name="D:/codes/auth0-react-sample/01-Login/src/utils/jwtHelper.js" timestamp="1490695076513" />
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/routes.js" timestamp="1490708204857" />
+      <file name="D:/codes/auth0-react-sample/02-Custom-Login/src/views/Main/Login/Login.js" timestamp="1490710160372" />
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
         <mark key="^" line="0" column="50" />
       </file>
+      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Login/Login.js" timestamp="1490710214907" />
     </filemarks>
     <jumps />
     <registers>
@@ -35,7 +34,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
