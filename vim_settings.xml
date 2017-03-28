@@ -2,7 +2,15 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks />
+    <filemarks>
+      <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1490694855220">
+        <mark key="[" line="24" column="37" />
+        <mark key="]" line="24" column="52" />
+        <mark key="^" line="24" column="52" />
+        <mark key="." line="24" column="52" />
+      </file>
+      <file name="D:/codes/auth0-react-sample/01-Login/src/utils/jwtHelper.js" timestamp="1490695076513" />
+    </filemarks>
     <jumps />
     <registers />
     <search>
