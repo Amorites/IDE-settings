@@ -13,6 +13,7 @@
         <mark key="." line="24" column="52" />
       </file>
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/src/views/Main/Login/Login.js" timestamp="1490710160372" />
+      <file name="D:/codes/auth0-react-sample/04-User-Profile/src/utils/AuthService.js" timestamp="1490712186344" />
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="14" />
@@ -20,6 +21,9 @@
         <mark key="^" line="0" column="50" />
       </file>
       <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Login/Login.js" timestamp="1490710214907" />
+      <file name="/__dummy.as" timestamp="1490712453769">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
