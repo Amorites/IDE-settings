@@ -6,16 +6,12 @@
       <file name="D:/codes/auth0-react-sample/01-Login/.env" timestamp="1490708225002">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/codes/auth0-react-sample/08-Calling-Api/src/components/Messages/Messages.js" timestamp="1490720264941" />
-      <file name="D:/codes/auth0-react-sample/07-Authorization/src/views/Main/routes.js" timestamp="1490719758965" />
-      <file name="D:/codes/auth0-react-sample/08-Calling-Api/server.js" timestamp="1490720445964" />
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="14" />
         <mark key="." line="1" column="14" />
         <mark key="^" line="0" column="50" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Login/Login.js" timestamp="1490710214907" />
       <file name="/__dummy.as" timestamp="1490712453769">
         <mark key="[" line="0" column="0" />
       </file>
@@ -25,16 +21,15 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="D:/codes/auth0-react-sample/05-Linking-Accounts/src/components/LinkedAccount/LinkedAccountsList.js" timestamp="1490717896245" />
+      <file name="D:/codes/auth0-react-sample/08-Calling-Api/src/utils/AuthService.js" timestamp="1490836327436" />
+      <file name="D:/codes/Register-Login-module/src/data/models/UserLogin.js" timestamp="1490836383795" />
       <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1490694855220">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="24" column="52" />
         <mark key="^" line="24" column="52" />
         <mark key="." line="24" column="52" />
       </file>
-      <file name="D:/codes/auth0-react-sample/05-Linking-Accounts/src/components/LinkedAccount/LinkedAccountItem.js" timestamp="1490716069472" />
-      <file name="D:/codes/auth0-react-sample/02-Custom-Login/src/views/Main/Login/Login.js" timestamp="1490710160372" />
-      <file name="D:/codes/auth0-react-sample/04-User-Profile/src/utils/AuthService.js" timestamp="1490712186344" />
+      <file name="D:/codes/Register-Login-module/src/server.js" timestamp="1490836526152" />
     </filemarks>
     <jumps />
     <registers>
