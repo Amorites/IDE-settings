@@ -23,6 +23,7 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/controllers/clients.js" timestamp="1491041033578" />
       <file name="D:/codes/oauth2-server-example-mongodb/routes.js" timestamp="1491040051855" />
       <file name="D:/codes/auth0-react-sample/08-Calling-Api/src/utils/AuthService.js" timestamp="1490836327436" />
       <file name="D:/codes/Register-Login-module/src/data/models/UserLogin.js" timestamp="1490836383795" />
@@ -59,7 +60,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed F</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
