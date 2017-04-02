@@ -6,7 +6,6 @@
       <file name="D:/codes/auth0-react-sample/01-Login/.env" timestamp="1490708225002">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/database/User.js" timestamp="1490859084498" />
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="14" />
@@ -28,25 +27,18 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/controllers/clients.js" timestamp="1491041033578" />
-      <file name="D:/codes/oauth2-server-example-mongodb/routes.js" timestamp="1491040051855" />
-      <file name="D:/codes/auth0-react-sample/08-Calling-Api/src/utils/AuthService.js" timestamp="1490836327436" />
-      <file name="D:/codes/Register-Login-module/src/data/models/UserLogin.js" timestamp="1490836383795" />
-      <file name="D:/codes/Register-Login-module/src/config.js" timestamp="1490839825905" />
       <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1490694855220">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="24" column="52" />
         <mark key="^" line="24" column="52" />
         <mark key="." line="24" column="52" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAccessToken.js" timestamp="1491051737559" />
-      <file name="D:/codes/oauth2-server-example-mongodb/oauthServerMiddlewares.js" timestamp="1491052109391">
+      <file name="D:/codes/oauth2-server-example-mongodb/oauthServerMiddlewares.js" timestamp="1491098272774">
+        <mark key="[" line="37" column="36" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/codes/Register-Login-module/src/server.js" timestamp="1490836526152" />
-      <file name="D:/codes/oauth2-server-example-mongodb/package.json" timestamp="1491040078467" />
     </filemarks>
     <jumps />
     <registers>
