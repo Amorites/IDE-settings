@@ -4,15 +4,17 @@
     <globalmarks />
     <filemarks>
       <file name="D:/codes/oauth2-server-example-mongodb/index.js" timestamp="1491100168161" />
-      <file name="D:/codes/auth0-react-sample/01-Login/.env" timestamp="1490708225002">
-        <mark key="[" line="1" column="0" />
-      </file>
       <file name="D:/codes/oauth2orize-examples/db/users.js" timestamp="1491183262830" />
       <file name="D:/codes/oauth2-server-example-mongodb/config/default.js" timestamp="1491100117934">
         <mark key="[" line="1" column="32" />
       </file>
       <file name="D:/codes/oauth2orize-examples/package.json" timestamp="1491144570406" />
-      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthClient.js" timestamp="1491184632567" />
+      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAuthorizationCode.js" timestamp="1491185859671">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthClient.js" timestamp="1491185641042" />
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="14" />
@@ -24,9 +26,6 @@
         <mark key="]" line="9" column="26" />
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
-      </file>
-      <file name="/__dummy.as" timestamp="1490712453769">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/codes/auth0-react-sample/05-Linking-Accounts/src/utils/LinkAccountService.js" timestamp="1490718077508">
         <mark key="[" line="9" column="25" />
@@ -53,8 +52,11 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="4">
+        <text encoding="base64">CmNvbnN0</text>
+      </register>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text encoding="base64">CmNvbnN0</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
