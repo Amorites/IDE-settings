@@ -5,6 +5,7 @@
     <filemarks>
       <file name="D:/codes/oauth2-server-example-mongodb/index.js" timestamp="1491100168161" />
       <file name="D:/codes/oauth2orize-examples/db/users.js" timestamp="1491183262830" />
+      <file name="D:/codes/auth0-react-sample/02-Custom-Login/src/utils/AuthService.js" timestamp="1491223644075" />
       <file name="D:/codes/oauth2-server-example-mongodb/config/default.js" timestamp="1491100117934">
         <mark key="[" line="1" column="32" />
       </file>
@@ -27,6 +28,11 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/codes/auth0-react-sample/01-Login/test.js" timestamp="1491223805639">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/codes/oauth2-server-example-mongodb/model.js" timestamp="1491051444838">
         <mark key="[" line="14" column="29" />
@@ -59,13 +65,18 @@
       </file>
       <file name="D:/codes/oauth2-server-example-mongodb/package.json" timestamp="1491112343116" />
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="3" column="0" filename="D:/codes/auth0-react-sample/01-Login/test.js" />
+    </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">CmNvbnN0</text>
+      <register name="1" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgNzUxODAgb24gMjAxNy80LzMuCiAqLwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgNzUxODAgb24gMjAxNy80LzMuCiAqLwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CmNvbnN0</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -93,6 +104,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
