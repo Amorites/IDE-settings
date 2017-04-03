@@ -9,7 +9,7 @@
         <mark key="[" line="1" column="32" />
       </file>
       <file name="D:/codes/oauth2orize-examples/package.json" timestamp="1491144570406" />
-      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthClient.js" timestamp="1491185641042" />
+      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthClient.js" timestamp="1491197695637" />
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="14" />
@@ -17,7 +17,13 @@
         <mark key="^" line="0" column="50" />
       </file>
       <file name="D:/codes/oauth2-server-example-mongodb/controllers/users.js" timestamp="1491103043958" />
-      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAuthorizationCode.js" timestamp="1491185859671">
+      <file name="D:/codes/oauth2-server-example-mongodb/database/User.js" timestamp="1491197639308">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+      </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAuthorizationCode.js" timestamp="1491197772427">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -34,6 +40,7 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
+      <file name="D:/codes/nodeclub/models/user.js" timestamp="1491197222758" />
       <file name="D:/codes/oauth2-server-example-mongodb/routes.js" timestamp="1491114115263" />
       <file name="D:/codes/oauth2-server-example-mongodb/README.md" timestamp="1491139874739" />
       <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1490694855220">
@@ -57,10 +64,10 @@
         <text encoding="base64">CmNvbnN0</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmNvbnN0</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>,</text>
       </register>
     </registers>
     <search>
