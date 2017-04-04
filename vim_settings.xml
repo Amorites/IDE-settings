@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/codes/oauth2-server-example-mongodb/index.js" timestamp="1491271859477">
+        <mark key="[" line="20" column="15" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+      </file>
       <file name="D:/codes/oauth2-server-example-mongodb/database/User.js" timestamp="1491236283082">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="15" />
@@ -48,6 +54,12 @@
         <mark key="]" line="9" column="26" />
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
+      </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/.gitignore" timestamp="1491271718685">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="38" column="4" />
+        <mark key="^" line="38" column="4" />
+        <mark key="." line="38" column="4" />
       </file>
       <file name="D:/codes/auth0-react-sample/05-Linking-Accounts/src/utils/LinkAccountService.js" timestamp="1490718077508">
         <mark key="[" line="9" column="25" />
@@ -95,7 +107,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVnaXN0ZXIgY2xpZW50IHN1Ym1pdCcpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">UmVhY3RET00g</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXNlcjogCg==</text>
@@ -122,7 +134,7 @@
         <text encoding="base64">aW1wb3J0IENsaWVudCBmcm9tICcuLi9DbGllbnQvQ2xpZW50Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">UmVhY3RET00g</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
     </registers>
     <search>
