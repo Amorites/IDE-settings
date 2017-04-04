@@ -9,35 +9,15 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/database/User.js" timestamp="1491236283082">
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="15" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="7" column="15" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1491270764336">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/codes/oauth2-server-example-mongodb/config/default.js" timestamp="1491100117934">
         <mark key="[" line="1" column="32" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAuthorizationCode.js" timestamp="1491199110629">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthClient.js" timestamp="1491294661233" />
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/webpack.config.js" timestamp="1491235267937">
         <mark key="[" line="27" column="49" />
         <mark key="]" line="27" column="49" />
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
-      </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/test.js" timestamp="1491291922572">
-        <mark key="'" line="38" column="25" />
-        <mark key="[" line="41" column="38" />
-        <mark key="]" line="41" column="43" />
-        <mark key="." line="41" column="43" />
-        <mark key="^" line="41" column="43" />
       </file>
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
         <mark key="[" line="1" column="14" />
@@ -50,6 +30,33 @@
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
         <mark key="^" line="34" column="11" />
+      </file>
+      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Home/Home.js" timestamp="1491291573340">
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="50" />
+        <mark key="^" line="37" column="50" />
+        <mark key="." line="37" column="50" />
+      </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/database/User.js" timestamp="1491294573356">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1491270764336">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAuthorizationCode.js" timestamp="1491294609869">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/codes/auth0-react-sample/01-Login/test.js" timestamp="1491291922572">
+        <mark key="'" line="38" column="25" />
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="43" />
+        <mark key="." line="41" column="43" />
+        <mark key="^" line="41" column="43" />
       </file>
       <file name="D:/codes/oauth2-server-example-mongodb/model.js" timestamp="1491051444838">
         <mark key="[" line="14" column="29" />
@@ -81,6 +88,7 @@
         <mark key="^" line="24" column="52" />
         <mark key="." line="24" column="52" />
       </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAccessToken.js" timestamp="1491294635422" />
       <file name="D:/codes/oauth2-server-example-mongodb/oauthServerMiddlewares.js" timestamp="1491291998071">
         <mark key="[" line="37" column="36" />
         <mark key="]" line="20" column="0" />
@@ -97,12 +105,6 @@
         <mark key="." line="22" column="41" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Home/Home.js" timestamp="1491291573340">
-        <mark key="[" line="37" column="49" />
-        <mark key="]" line="37" column="50" />
-        <mark key="^" line="37" column="50" />
-        <mark key="." line="37" column="50" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="D:/codes/auth0-react-sample/01-Login/test.js" />
@@ -116,7 +118,7 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>logout</text>
+        <text />
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -143,7 +145,7 @@
         <text encoding="base64">ICAgICAgICBjb3NuCg==</text>
       </register>
       <register name="-" type="4">
-        <text>logout</text>
+        <text />
       </register>
     </registers>
     <search>
