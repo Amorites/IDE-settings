@@ -15,10 +15,11 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="0" column="50" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Client/Client.js" timestamp="1491236839729">
-        <mark key="[" line="21" column="78" />
-        <mark key="]" line="21" column="78" />
-        <mark key="." line="21" column="78" />
+      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Client/Client.js" timestamp="1491238821119">
+        <mark key="[" line="24" column="19" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="19" />
       </file>
       <file name="D:/codes/auth0-react-sample/01-Login/package.json" timestamp="1491232082667" />
       <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Home/Home.js" timestamp="1491236826735">
@@ -72,7 +73,11 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/routes.js" timestamp="1491236238172">
+      <file name="D:/codes/auth0-react-sample/02-Custom-Login/src/views/Main/Login/Login.js" timestamp="1491238669742">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="62" />
+      </file>
+      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/routes.js" timestamp="1491237420888">
         <mark key="[" line="5" column="33" />
         <mark key="]" line="6" column="34" />
         <mark key="." line="6" column="34" />
@@ -84,28 +89,37 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPFJvdXRlIHBhdGg9ImxvZ2luIiBjb21wb25lbnQ9e0xvZ2lufSAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzc3dvcmQ6IFJlYWN0RE9NLmZpbmRET01Ob2RlKHRoaXMucmVmcy5wYXNzd29yZCkudmFsdWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IENsaWVudCBmcm9tICcuLi9DbGllbnQvQ2xpZW50Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZToK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IENsaWVudCBmcm9tICcuLi9DbGllbnQvQ2xpZW50Jwo=</text>
+      <register name="&quot;" type="4">
+        <text>password</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgNzUxODAgb24gMjAxNy80LzQuCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8QnV0dG9uVG9vbGJhcj4KICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiB0eXBlPSJzdWJtaXQiIGJzU3R5bGU9InByaW1hcnkiPkxvZyBJbjwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e3RoaXMuc2lnbnVwLmJpbmQodGhpcyl9PlNpZ24gVXA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBic1N0eWxlPSJsaW5rIiBvbkNsaWNrPXt0aGlzLmxvZ2luV2l0aEdvb2dsZS5iaW5kKHRoaXMpfT5Mb2dpbiB3aXRoIEdvb2dsZTwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uVG9vbGJhcj4K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IENsaWVudCBmcm9tICcuLi9DbGllbnQvQ2xpZW50Jwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgNzUxODAgb24gMjAxNy80LzQuCiAqLwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgNzUxODAgb24gMjAxNy80LzMuCiAqLwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CmNvbnN0</text>
       </register>
       <register name="-" type="4">
-        <text>Login</text>
+        <text>password</text>
       </register>
     </registers>
     <search>
