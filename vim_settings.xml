@@ -67,6 +67,12 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/controllers/clients.js" timestamp="1491272828094">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+      </file>
       <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1490694855220">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="24" column="52" />
@@ -107,7 +113,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVnaXN0ZXIgY2xpZW50IHN1Ym1pdCcpOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdXNlcjogCg==</text>
@@ -134,7 +140,7 @@
         <text encoding="base64">aW1wb3J0IENsaWVudCBmcm9tICcuLi9DbGllbnQvQ2xpZW50Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dmFyIA==</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
