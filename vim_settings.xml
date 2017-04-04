@@ -44,7 +44,7 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491270764336">
+      <file name="/Dummy.txt" timestamp="1491299810605">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAuthorizationCode.js" timestamp="1491294609869">
@@ -52,11 +52,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/test.js" timestamp="1491297307812">
-        <mark key="[" line="22" column="2" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
+      <file name="D:/codes/oauth2orize-examples/node_modules/oauth2orize/lib/grant/token.js" timestamp="1491299948923" />
       <file name="D:/codes/oauth2-server-example-mongodb/model.js" timestamp="1491297384020">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="9" column="26" />
@@ -81,7 +77,7 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/handlers/token-handler.js" timestamp="1491297361372" />
+      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/handlers/token-handler.js" timestamp="1491299781158" />
       <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1491291948507">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="24" column="52" />
@@ -95,16 +91,13 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/codes/auth0-react-sample/02-Custom-Login/src/views/Main/Login/Login.js" timestamp="1491268469542">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="62" />
-      </file>
       <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/routes.js" timestamp="1491291335564">
         <mark key="[" line="22" column="41" />
         <mark key="]" line="22" column="41" />
         <mark key="." line="22" column="41" />
         <mark key="^" line="6" column="34" />
       </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/token-types/bearer-token-type.js" timestamp="1491299770901" />
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="D:/codes/auth0-react-sample/01-Login/test.js" />
