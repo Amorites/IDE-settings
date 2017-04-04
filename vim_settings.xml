@@ -19,7 +19,7 @@
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/server.js" timestamp="1491295802876" />
+      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/server.js" timestamp="1491297198937" />
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
         <mark key="[" line="1" column="14" />
         <mark key="]" line="1" column="14" />
@@ -52,7 +52,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/model.js" timestamp="1491051444838">
+      <file name="D:/codes/auth0-react-sample/01-Login/test.js" timestamp="1491297307812">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/model.js" timestamp="1491297384020">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="9" column="26" />
         <mark key="^" line="9" column="26" />
@@ -76,6 +81,7 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/handlers/token-handler.js" timestamp="1491297361372" />
       <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1491291948507">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="24" column="52" />
@@ -83,7 +89,7 @@
         <mark key="." line="24" column="52" />
       </file>
       <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAccessToken.js" timestamp="1491294635422" />
-      <file name="D:/codes/oauth2-server-example-mongodb/oauthServerMiddlewares.js" timestamp="1491291998071">
+      <file name="D:/codes/oauth2-server-example-mongodb/oauthServerMiddlewares.js" timestamp="1491297167012">
         <mark key="[" line="37" column="36" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
@@ -109,37 +115,49 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnJlZGlyZWN0QmFjaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLgo=</text>
+        <text encoding="base64">ICAgIC8vIFJlcXVlc3S6zVJlc3BvbnNlysfJtqO/09DJttf308Ojvwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIFJlcXVlc3S6zVJlc3BvbnNlysfJtqO/09DJttf308Ojvwo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>function authorizeHandler(options) {
+    return function(req, res, next) {
+        let request = new Request(req);
+        let response = new Response(res);
+        return oauth.authorize(request, response, options)
+            .then(function(code) {
+                res.locals.oauth = {code: code};
+                next();
+            })
+            .catch(function(err) {
+                // handle error condition
+            });
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxvZ291dCgpewogICAgICAgIHRoaXMucHJvcHMuYXV0aC5sb2dvdXQoKQogICAgICAgIHRoaXMuY29udGV4dC5yb3V0ZXIucHVzaCgnL2xvZ2luJyk7CiAgICB9Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVnaXN0ZXIgY2xpZW50IHN1Ym1pdCcpOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcjogCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGxvZ291dCgpewogICAgICAgIHRoaXMucHJvcHMuYXV0aC5sb2dvdXQoKQogICAgICAgIHRoaXMuY29udGV4dC5yb3V0ZXIucHVzaCgnL2xvZ2luJyk7CiAgICB9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVnaXN0ZXIgY2xpZW50IHN1Ym1pdCcpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb3NuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcjogCg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>}</text>
       </register>
     </registers>
     <search>
