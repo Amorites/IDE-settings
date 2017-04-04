@@ -32,10 +32,12 @@
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/test.js" timestamp="1491223805639">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/codes/auth0-react-sample/01-Login/test.js" timestamp="1491291922572">
+        <mark key="'" line="38" column="25" />
+        <mark key="[" line="41" column="38" />
+        <mark key="]" line="41" column="43" />
+        <mark key="." line="41" column="43" />
+        <mark key="^" line="41" column="43" />
       </file>
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
         <mark key="[" line="1" column="14" />
@@ -67,19 +69,19 @@
         <mark key="^" line="9" column="26" />
         <mark key="." line="9" column="26" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/controllers/clients.js" timestamp="1491274979841">
+      <file name="D:/codes/oauth2-server-example-mongodb/controllers/clients.js" timestamp="1491291053974">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="12" column="34" />
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1490694855220">
+      <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1491291948507">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="24" column="52" />
         <mark key="^" line="24" column="52" />
         <mark key="." line="24" column="52" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/oauthServerMiddlewares.js" timestamp="1491112593301">
+      <file name="D:/codes/oauth2-server-example-mongodb/oauthServerMiddlewares.js" timestamp="1491291998071">
         <mark key="[" line="37" column="36" />
         <mark key="]" line="20" column="0" />
         <mark key="^" line="20" column="0" />
@@ -89,58 +91,59 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="19" column="62" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/routes.js" timestamp="1491237420888">
-        <mark key="[" line="5" column="33" />
-        <mark key="]" line="6" column="34" />
-        <mark key="." line="6" column="34" />
+      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/routes.js" timestamp="1491291335564">
+        <mark key="[" line="22" column="41" />
+        <mark key="]" line="22" column="41" />
+        <mark key="." line="22" column="41" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Home/Home.js" timestamp="1491236826735">
-        <mark key="[" line="37" column="13" />
-        <mark key="]" line="37" column="24" />
-        <mark key="^" line="37" column="24" />
-        <mark key="." line="37" column="24" />
+      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Home/Home.js" timestamp="1491291573340">
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="50" />
+        <mark key="^" line="37" column="50" />
+        <mark key="." line="37" column="50" />
       </file>
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="D:/codes/auth0-react-sample/01-Login/test.js" />
+      <jump line="34" column="25" filename="D:/codes/auth0-react-sample/01-Login/test.js" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzc3dvcmQ6IFJlYWN0RE9NLmZpbmRET01Ob2RlKHRoaXMucmVmcy5wYXNzd29yZCkudmFsdWUK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnJlZGlyZWN0QmFjaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVnaXN0ZXIgY2xpZW50IHN1Ym1pdCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>logout</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlcjogCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb3NuCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmV0Y2g+PC9mZXRjaD4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZToK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGxvZ291dCgpewogICAgICAgIHRoaXMucHJvcHMuYXV0aC5sb2dvdXQoKQogICAgICAgIHRoaXMuY29udGV4dC5yb3V0ZXIucHVzaCgnL2xvZ2luJyk7CiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVnaXN0ZXIgY2xpZW50IHN1Ym1pdCcpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcjogCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8QnV0dG9uVG9vbGJhcj4KICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiB0eXBlPSJzdWJtaXQiIGJzU3R5bGU9InByaW1hcnkiPkxvZyBJbjwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e3RoaXMuc2lnbnVwLmJpbmQodGhpcyl9PlNpZ24gVXA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBic1N0eWxlPSJsaW5rIiBvbkNsaWNrPXt0aGlzLmxvZ2luV2l0aEdvb2dsZS5iaW5kKHRoaXMpfT5Mb2dpbiB3aXRoIEdvb2dsZTwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uVG9vbGJhcj4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IENsaWVudCBmcm9tICcuLi9DbGllbnQvQ2xpZW50Jwo=</text>
+        <text encoding="base64">ICAgICAgICBjb3NuCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>logout</text>
       </register>
     </registers>
     <search>
