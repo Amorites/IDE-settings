@@ -18,11 +18,11 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="0" column="50" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Client/Client.js" timestamp="1491267126135">
-        <mark key="[" line="26" column="26" />
-        <mark key="]" line="27" column="11" />
-        <mark key="." line="27" column="11" />
-        <mark key="^" line="27" column="11" />
+      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Client/Client.js" timestamp="1491268471282">
+        <mark key="[" line="0" column="44" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="34" column="11" />
       </file>
       <file name="D:/codes/auth0-react-sample/01-Login/package.json" timestamp="1491232082667" />
       <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Home/Home.js" timestamp="1491236826735">
@@ -37,7 +37,7 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1491266945921">
+      <file name="/Dummy.txt" timestamp="1491268030694">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAuthorizationCode.js" timestamp="1491199110629">
@@ -79,7 +79,7 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="D:/codes/auth0-react-sample/02-Custom-Login/src/views/Main/Login/Login.js" timestamp="1491238669742">
+      <file name="D:/codes/auth0-react-sample/02-Custom-Login/src/views/Main/Login/Login.js" timestamp="1491268469542">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="19" column="62" />
       </file>
@@ -98,37 +98,37 @@
         <text encoding="base64">ICAgICAgICAgICAgcGFzc3dvcmQ6IFJlYWN0RE9NLmZpbmRET01Ob2RlKHRoaXMucmVmcy5wYXNzd29yZCkudmFsdWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmV0Y2g+PC9mZXRjaD4K</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVnaXN0ZXIgY2xpZW50IHN1Ym1pdCcpOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8ZmV0Y2g+PC9mZXRjaD4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UmVhY3RET00g</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmFtZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcjogCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8QnV0dG9uVG9vbGJhcj4KICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiB0eXBlPSJzdWJtaXQiIGJzU3R5bGU9InByaW1hcnkiPkxvZyBJbjwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e3RoaXMuc2lnbnVwLmJpbmQodGhpcyl9PlNpZ24gVXA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBic1N0eWxlPSJsaW5rIiBvbkNsaWNrPXt0aGlzLmxvZ2luV2l0aEdvb2dsZS5iaW5kKHRoaXMpfT5Mb2dpbiB3aXRoIEdvb2dsZTwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uVG9vbGJhcj4K</text>
+        <text encoding="base64">ICAgICAgICBjb3NuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IENsaWVudCBmcm9tICcuLi9DbGllbnQvQ2xpZW50Jwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZmV0Y2g+PC9mZXRjaD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZToK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgNzUxODAgb24gMjAxNy80LzQuCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgNzUxODAgb24gMjAxNy80LzMuCiAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8QnV0dG9uVG9vbGJhcj4KICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiB0eXBlPSJzdWJtaXQiIGJzU3R5bGU9InByaW1hcnkiPkxvZyBJbjwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9e3RoaXMuc2lnbnVwLmJpbmQodGhpcyl9PlNpZ24gVXA8L0J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPEJ1dHRvbiBic1N0eWxlPSJsaW5rIiBvbkNsaWNrPXt0aGlzLmxvZ2luV2l0aEdvb2dsZS5iaW5kKHRoaXMpfT5Mb2dpbiB3aXRoIEdvb2dsZTwvQnV0dG9uPgogICAgICAgICAgICAgICAgICAgIDwvQnV0dG9uVG9vbGJhcj4K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmNvbnN0</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IENsaWVudCBmcm9tICcuLi9DbGllbnQvQ2xpZW50Jwo=</text>
       </register>
       <register name="-" type="4">
-        <text>password</text>
+        <text encoding="base64">UmVhY3RET00g</text>
       </register>
     </registers>
     <search>
@@ -156,6 +156,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
