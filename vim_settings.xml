@@ -37,7 +37,7 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/server.js" timestamp="1491653630005">
+      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/server.js" timestamp="1491656286271">
         <mark key="[" line="61" column="79" />
       </file>
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
@@ -76,11 +76,11 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/test2.js" timestamp="1491653670701">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="45" column="19" />
-        <mark key="." line="45" column="19" />
-        <mark key="^" line="45" column="19" />
+      <file name="D:/codes/oauth2-server-example-mongodb/test2.js" timestamp="1491656865037">
+        <mark key="[" line="118" column="11" />
+        <mark key="]" line="118" column="12" />
+        <mark key="." line="118" column="12" />
+        <mark key="^" line="118" column="12" />
       </file>
       <file name="D:/codes/oauth2-server-example-mongodb/routes.js" timestamp="1491643552064">
         <mark key="[" line="6" column="0" />
@@ -121,34 +121,34 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnJlZGlyZWN0QmFjaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gt6LJ+rTtzvPKsb2rtO3O88XXuPjPwtK7uPbW0LzkvP60psDto6zWsbW90/a1vdeow8XTw9PatKbA7bTtzvO1xNbQvOS8/go=</text>
+        <text encoding="base64">ICAgIC8vIFByb21pc2XTw8C0uMTJxrvYtfe1xNC0t6gK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIFByb21pc2XTw8C0uMTJxrvYtfe1xNC0t6gK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIFJlcXVlc3S6zVJlc3BvbnNlysfJtqO/09DJttf308Ojvwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIG9hdXRoysdPQXV0aDJTZXJ2ZXK1xMq1wP2jrNXiwO/NqLn9tffTw8v8tcR0b2tlbre9t6i21Mfrx/PT68/g06a9+NDQtKbA7Qo=</text>
+        <text encoding="base64">Ly8gt6LJ+rTtzvPKsb2rtO3O88XXuPjPwtK7uPbW0LzkvP60psDto6zWsbW90/a1vdeow8XTw9PatKbA7bTtzvO1xNbQvOS8/go=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIC8vIFJlcXVlc3S6zVJlc3BvbnNlysfJtqO/09DJttf308Ojvwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vILeiyfq07c7zyrG9q7TtzvPF17j4z8LSu7j21tC85Lz+tKbA7aOs1rG1vdP2tb3XqMPF08PT2rSmwO207c7ztcTW0LzkvP4K</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIC8vIG9hdXRoysdPQXV0aDJTZXJ2ZXK1xMq1wP2jrNXiwO/NqLn9tffTw8v8tcR0b2tlbre9t6i21Mfrx/PT68/g06a9+NDQtKbA7Qo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIC8vIFJlcXVlc3S6zVJlc3BvbnNlysfJtqO/09DJttf308Ojvwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gb2F0dWhTZXJ2ZXJNaWRkbGV3YXJlcy5qcwovLyC21M3isanCtnRva2Vu1tC85Lz+Cg==</text>
+        <text encoding="base64">ICAgIC8vILeiyfq07c7zyrG9q7TtzvPF17j4z8LSu7j21tC85Lz+tKbA7aOs1rG1vdP2tb3XqMPF08PT2rSmwO207c7ztcTW0LzkvP4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIG9hdXRoysdPQXV0aDJTZXJ2ZXK1xMq1wP2jrNXiwO/NqLn9tffTw8v8tcR0b2tlbre9t6i21Mfrx/PT68/g06a9+NDQtKbA7Qo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLyByb3V0ZXMuanNkZAo=</text>
+        <text encoding="base64">Ly8gb2F0dWhTZXJ2ZXJNaWRkbGV3YXJlcy5qcwovLyC21M3isanCtnRva2Vu1tC85Lz+Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
