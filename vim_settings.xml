@@ -9,35 +9,17 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/database/User.js" timestamp="1491294573356">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1491300919362">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="D:/codes/oauth2-server-example-mongodb/config/default.js" timestamp="1491100117934">
         <mark key="[" line="1" column="32" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAuthorizationCode.js" timestamp="1491294609869">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/models/token-model.js" timestamp="1491657492928" />
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/webpack.config.js" timestamp="1491235267937">
         <mark key="[" line="27" column="49" />
         <mark key="]" line="27" column="49" />
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/test.js" timestamp="1491641822326">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/server.js" timestamp="1491656286271">
+      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/server.js" timestamp="1491657382577">
         <mark key="[" line="61" column="79" />
       </file>
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
@@ -51,6 +33,38 @@
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
         <mark key="^" line="34" column="11" />
+      </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/test2.js" timestamp="1491659227319">
+        <mark key="[" line="92" column="26" />
+        <mark key="]" line="92" column="26" />
+        <mark key="." line="92" column="26" />
+      </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/grant-types/abstract-grant-type.js" timestamp="1491658975275" />
+      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/grant-types/authorization-code-grant-type.js" timestamp="1491658782496" />
+      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Home/Home.js" timestamp="1491638571807">
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="50" />
+        <mark key="^" line="37" column="50" />
+        <mark key="." line="37" column="50" />
+      </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/database/User.js" timestamp="1491294573356">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1491300919362">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAuthorizationCode.js" timestamp="1491294609869">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="D:/codes/auth0-react-sample/01-Login/test.js" timestamp="1491641822326">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="D:/codes/oauth2-server-example-mongodb/model.js" timestamp="1491297384020">
         <mark key="[" line="14" column="29" />
@@ -76,17 +90,12 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/test2.js" timestamp="1491656865037">
-        <mark key="[" line="118" column="11" />
-        <mark key="]" line="118" column="12" />
-        <mark key="." line="118" column="12" />
-        <mark key="^" line="118" column="12" />
-      </file>
       <file name="D:/codes/oauth2-server-example-mongodb/routes.js" timestamp="1491643552064">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/handlers/token-handler.js" timestamp="1491658143217" />
       <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1491291948507">
         <mark key="[" line="24" column="37" />
         <mark key="]" line="24" column="52" />
@@ -105,12 +114,6 @@
         <mark key="." line="22" column="41" />
         <mark key="^" line="6" column="34" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Home/Home.js" timestamp="1491638571807">
-        <mark key="[" line="37" column="49" />
-        <mark key="]" line="37" column="50" />
-        <mark key="^" line="37" column="50" />
-        <mark key="." line="37" column="50" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="D:/codes/auth0-react-sample/01-Login/test.js" />
@@ -121,37 +124,37 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnJlZGlyZWN0QmFjaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFByb21pc2XTw8C0uMTJxrvYtfe1xNC0t6gK</text>
+        <text encoding="base64">ICAgICAgICAvLyAuLi4K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIFByb21pc2XTw8C0uMTJxrvYtfe1xNC0t6gK</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgIC8vIMrXz8i87LLpx+vH89Prz+zTptbQsPy6rLXE0MXPosrHt/G6z8Dto6zI50hUVFAgbWV0aG9ksdjQ68rHUE9TVKGjCiAgICBpZiAoIShyZXF1ZXN0IGluc3RhbmNlb2YgUmVxdWVzdCkpIHsKICAgICAgICB0aHJvdyBuZXcgSW52YWxpZEFyZ3VtZW50RXJyb3IoJ0ludmFsaWQgYXJndW1lbnQ6IGByZXF1ZXN0YCBtdXN0IGJlIGFuIGluc3RhbmNlIG9mIFJlcXVlc3QnKTsKICAgIH0KCiAgICBpZiAoIShyZXNwb25zZSBpbnN0YW5jZW9mIFJlc3BvbnNlKSkgewogICAgICAgIHRocm93IG5ldyBJbnZhbGlkQXJndW1lbnRFcnJvcignSW52YWxpZCBhcmd1bWVudDogYHJlc3BvbnNlYCBtdXN0IGJlIGFuIGluc3RhbmNlIG9mIFJlc3BvbnNlJyk7CiAgICB9CgogICAgaWYgKHJlcXVlc3QubWV0aG9kICE9PSAnUE9TVCcpIHsKICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QobmV3IEludmFsaWRSZXF1ZXN0RXJyb3IoJ0ludmFsaWQgcmVxdWVzdDogbWV0aG9kIG11c3QgYmUgUE9TVCcpKTsKICAgIH0KCiAgICBpZiAoIXJlcXVlc3QuaXMoJ2FwcGxpY2F0aW9uL3gtd3d3LWZvcm0tdXJsZW5jb2RlZCcpKSB7CiAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KG5ldyBJbnZhbGlkUmVxdWVzdEVycm9yKCdJbnZhbGlkIHJlcXVlc3Q6IGNvbnRlbnQgbXVzdCBiZSBhcHBsaWNhdGlvbi94LXd3dy1mb3JtLXVybGVuY29kZWQnKSk7CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gt6LJ+rTtzvPKsb2rtO3O88XXuPjPwtK7uPbW0LzkvP60psDto6zWsbW90/a1vdeow8XTw9PatKbA7bTtzvO1xNbQvOS8/go=</text>
+        <text encoding="base64">ICAgIC8vIFByb21pc2XTw8C0uMTJxrvYtfe1xNC0t6gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIFJlcXVlc3S6zVJlc3BvbnNlysfJtqO/09DJttf308Ojvwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIG9hdXRoysdPQXV0aDJTZXJ2ZXK1xMq1wP2jrNXiwO/NqLn9tffTw8v8tcR0b2tlbre9t6i21Mfrx/PT68/g06a9+NDQtKbA7Qo=</text>
+        <text encoding="base64">Ly8gt6LJ+rTtzvPKsb2rtO3O88XXuPjPwtK7uPbW0LzkvP60psDto6zWsbW90/a1vdeow8XTw9PatKbA7bTtzvO1xNbQvOS8/go=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIC8vIFJlcXVlc3S6zVJlc3BvbnNlysfJtqO/09DJttf308Ojvwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vILeiyfq07c7zyrG9q7TtzvPF17j4z8LSu7j21tC85Lz+tKbA7aOs1rG1vdP2tb3XqMPF08PT2rSmwO207c7ztcTW0LzkvP4K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vIG9hdXRoysdPQXV0aDJTZXJ2ZXK1xMq1wP2jrNXiwO/NqLn9tffTw8v8tcR0b2tlbre9t6i21Mfrx/PT68/g06a9+NDQtKbA7Qo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIC8vIFJlcXVlc3S6zVJlc3BvbnNlysfJtqO/09DJttf308Ojvwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gb2F0dWhTZXJ2ZXJNaWRkbGV3YXJlcy5qcwovLyC21M3isanCtnRva2Vu1tC85Lz+Cg==</text>
+        <text encoding="base64">ICAgIC8vILeiyfq07c7zyrG9q7TtzvPF17j4z8LSu7j21tC85Lz+tKbA7aOs1rG1vdP2tb3XqMPF08PT2rSmwO207c7ztcTW0LzkvP4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>g</text>
       </register>
     </registers>
     <search>
