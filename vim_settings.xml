@@ -104,11 +104,12 @@
         <mark key="^" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Practice/src/jrtt.js" timestamp="1493101593948">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="18" />
+      <file name="$USER_HOME$/IdeaProjects/Practice/src/jrtt.js" timestamp="1493110973388">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="33" column="21" />
+        <mark key="]" line="33" column="21" />
+        <mark key="." line="33" column="21" />
+        <mark key="^" line="22" column="17" />
       </file>
       <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/routes.js" timestamp="1491291335564">
         <mark key="[" line="22" column="41" />
@@ -120,6 +121,7 @@
     <jumps>
       <jump line="3" column="0" filename="D:/codes/auth0-react-sample/01-Login/test.js" />
       <jump line="34" column="25" filename="D:/codes/auth0-react-sample/01-Login/test.js" />
+      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/Practice/src/jrtt.js" />
       <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/Practice/src/jrtt.js" />
     </jumps>
     <registers>
@@ -127,37 +129,37 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnJlZGlyZWN0QmFjaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGl0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>3</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZvciAobGV0IG9iaiBvZiBtKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGl0ZXIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnVjbnRpb24gCg==</text>
+        <text encoding="base64">ICAgIGZvciAobGV0IG9iaiBvZiBtKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBsZW4gPSBhcnJbbl0ubGVuZ3RoOwo=</text>
+        <text encoding="base64">ZnVjbnRpb24gCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gYXJyYXlDb21iaW5lSGVscGVyKCkgewogICAgCn0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBsZW4gPSBhcnJbbl0ubGVuZ3RoOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSA3NTE4MCBvbiAyMDE3LzQvMjUuCiAqLwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gYXJyYXlDb21iaW5lSGVscGVyKCkgewogICAgCn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSA3NTE4MCBvbiAyMDE3LzQvMjUuCiAqLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gXy5hc3NpZ24oeyBjbGllbnQsIHVzZXIgfSwgdG9rZW4pKQogICAgICAgICAgICAuY2F0Y2goKGVycikgPT4gewp9KTsK</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gXy5hc3NpZ24oeyBjbGllbnQsIHVzZXIgfSwgdG9rZW4pKQogICAgICAgICAgICAuY2F0Y2goKGVycikgPT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLnRoZW4oKCkgPT4gXy5hc3NpZ24oeyBjbGllbnQsIHVzZXIgfSwgdG9rZW4pKQogICAgICAgICAgICAuY2F0Y2goKGVycikgPT4gewp9KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>3</text>
       </register>
     </registers>
     <search>
@@ -191,6 +193,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
