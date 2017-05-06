@@ -9,14 +9,39 @@
         <mark key="^" line="20" column="15" />
         <mark key="." line="20" column="15" />
       </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/database/User.js" timestamp="1491294573356">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1491300919362">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/codes/oauth2-server-example-mongodb/config/default.js" timestamp="1491100117934">
         <mark key="[" line="1" column="32" />
+      </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAuthorizationCode.js" timestamp="1491294609869">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/Practice/src/test2.js" timestamp="1493631115465">
+        <mark key="[" line="16" column="6" />
+        <mark key="]" line="16" column="6" />
+        <mark key="." line="16" column="6" />
+        <mark key="^" line="16" column="6" />
       </file>
       <file name="D:/codes/auth0-react-sample/02-Custom-Login/webpack.config.js" timestamp="1491235267937">
         <mark key="[" line="27" column="49" />
         <mark key="]" line="27" column="49" />
         <mark key="." line="27" column="49" />
         <mark key="^" line="27" column="49" />
+      </file>
+      <file name="D:/codes/auth0-react-sample/01-Login/test.js" timestamp="1491641822326">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
       </file>
       <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/server.js" timestamp="1491657382577">
         <mark key="[" line="61" column="79" />
@@ -33,42 +58,7 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/test2.js" timestamp="1491704129386">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-      </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Home/Home.js" timestamp="1491638571807">
-        <mark key="[" line="37" column="49" />
-        <mark key="]" line="37" column="50" />
-        <mark key="^" line="37" column="50" />
-        <mark key="." line="37" column="50" />
-      </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/database/User.js" timestamp="1491294573356">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1491300919362">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAuthorizationCode.js" timestamp="1491294609869">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Practice/src/test2.js" timestamp="1493631115465">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="16" column="6" />
-        <mark key="^" line="16" column="6" />
-      </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/test.js" timestamp="1491641822326">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
+      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Login/Login.js" timestamp="1494062517257" />
       <file name="D:/codes/oauth2-server-example-mongodb/model.js" timestamp="1491297384020">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="9" column="26" />
@@ -93,16 +83,20 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
+      <file name="D:/codes/oauth2-server-example-mongodb/test2.js" timestamp="1491704129386">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="0" />
+        <mark key="." line="126" column="0" />
+      </file>
       <file name="D:/codes/oauth2-server-example-mongodb/routes.js" timestamp="1491643552064">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1491291948507">
-        <mark key="[" line="24" column="37" />
-        <mark key="]" line="24" column="52" />
-        <mark key="^" line="24" column="52" />
-        <mark key="." line="24" column="52" />
+      <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1494062812399">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="D:/codes/oauth2-server-example-mongodb/oauthServerMiddlewares.js" timestamp="1491644055096">
         <mark key="[" line="37" column="36" />
@@ -123,6 +117,12 @@
         <mark key="." line="22" column="41" />
         <mark key="^" line="6" column="34" />
       </file>
+      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Home/Home.js" timestamp="1491638571807">
+        <mark key="[" line="37" column="49" />
+        <mark key="]" line="37" column="50" />
+        <mark key="^" line="37" column="50" />
+        <mark key="." line="37" column="50" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="D:/codes/auth0-react-sample/01-Login/test.js" />
@@ -135,34 +135,34 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnJlZGlyZWN0QmFjaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">ICAgICAgICBhdmF0YXI6IHsKICAgICAgICBkaXNwbGF5TmFtZTogJ015IEFwcCcKICAgICAgICB9Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>'c', 'prototype</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhdmF0YXI6IHsKICAgICAgICBkaXNwbGF5TmFtZTogJ015IEFwcCcKICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgYgo=</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">Y29uc3QgYgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSA3NTE4MCBvbiAyMDE3LzUvMS4KICovCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSA3NTE4MCBvbiAyMDE3LzUvMS4KICovCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGl0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvciAobGV0IG9iaiBvZiBtKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGl0ZXIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVjbnRpb24gCg==</text>
+        <text encoding="base64">ICAgIGZvciAobGV0IG9iaiBvZiBtKSB7CiAgICAgICAgCiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>'c', 'prototype</text>
