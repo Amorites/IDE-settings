@@ -58,7 +58,6 @@
         <mark key="." line="0" column="30" />
         <mark key="^" line="34" column="11" />
       </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Login/Login.js" timestamp="1494062517257" />
       <file name="D:/codes/oauth2-server-example-mongodb/model.js" timestamp="1491297384020">
         <mark key="[" line="14" column="29" />
         <mark key="]" line="9" column="26" />
@@ -123,6 +122,11 @@
         <mark key="^" line="37" column="50" />
         <mark key="." line="37" column="50" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Practice/src/test.html" timestamp="1494670966325">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="D:/codes/auth0-react-sample/01-Login/test.js" />
@@ -135,34 +139,34 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnJlZGlyZWN0QmFjaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhdmF0YXI6IHsKICAgICAgICBkaXNwbGF5TmFtZTogJ015IEFwcCcKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhdmF0YXI6IHsKICAgICAgICBkaXNwbGF5TmFtZTogJ015IEFwcCcKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
+        <text encoding="base64">PHA+CiAgICA8aGVoZT48YSBocmVmPSIiPjwvYT48L2hlaGU+CiAgICBrCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y29uc3QgYgo=</text>
+        <text encoding="base64">PC9wPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
+        <text encoding="base64">ICAgICAgICBhdmF0YXI6IHsKICAgICAgICBkaXNwbGF5TmFtZTogJ015IEFwcCcKICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQ3JlYXRlZCBieSA3NTE4MCBvbiAyMDE3LzUvMS4KICovCg==</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">Y29uc3QgYgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIDE7Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGl0ZXIK</text>
+        <text encoding="base64">ICogQ3JlYXRlZCBieSA3NTE4MCBvbiAyMDE3LzUvMS4KICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAobGV0IG9iaiBvZiBtKSB7CiAgICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">LyoqCg==</text>
       </register>
       <register name="-" type="4">
         <text>'c', 'prototype</text>
