@@ -122,11 +122,7 @@
         <mark key="^" line="37" column="50" />
         <mark key="." line="37" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Practice/src/test.html" timestamp="1494670966325">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
+      <file name="$USER_HOME$/IdeaProjects/Practice/src/test.html" timestamp="1494673403054" />
     </filemarks>
     <jumps>
       <jump line="3" column="0" filename="D:/codes/auth0-react-sample/01-Login/test.js" />
