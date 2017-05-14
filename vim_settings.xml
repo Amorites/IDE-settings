@@ -92,6 +92,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/IdeaProjects/Practice/src/test2.html" timestamp="1494779421877">
+        <mark key="[" line="4" column="24" />
+      </file>
       <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1494062812399">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -122,11 +125,11 @@
         <mark key="^" line="37" column="50" />
         <mark key="." line="37" column="50" />
       </file>
-      <file name="$USER_HOME$/IdeaProjects/Practice/src/test.html" timestamp="1494778072665">
-        <mark key="[" line="28" column="43" />
-        <mark key="]" line="29" column="23" />
-        <mark key="." line="29" column="23" />
-        <mark key="^" line="29" column="23" />
+      <file name="$USER_HOME$/IdeaProjects/Practice/src/test.html" timestamp="1494778972170">
+        <mark key="[" line="45" column="30" />
+        <mark key="]" line="35" column="24" />
+        <mark key="." line="35" column="24" />
+        <mark key="^" line="35" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -140,34 +143,34 @@
         <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnJlZGlyZWN0QmFjaygpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiAxMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDotNTBweDsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>color</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDotNTBweDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiAxMHB4Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IHJpZ2h0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IHJpZ2h0Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAucGFyZW50IHsKICAgICAgICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogeWVsbG93OwogICAgICAgICAgICBoZWlnaHQ6IDUwMHB4OwogICAgICAgIH0KICAgICAgICAubGVmdCwgLnJpZ2h0IHsKICAgICAgICAgICAgcGFkZGluZy1ib3R0b206IDk5OTlweDsKICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogLTk5OTlweDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAucGFyZW50IHsKICAgICAgICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogeWVsbG93OwogICAgICAgICAgICBoZWlnaHQ6IDUwMHB4OwogICAgICAgIH0KICAgICAgICAubGVmdCwgLnJpZ2h0IHsKICAgICAgICAgICAgcGFkZGluZy1ib3R0b206IDk5OTlweDsKICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogLTk5OTlweDsKICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2k7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiA7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmb290ZXIgewogICAgICAgICAgICBtYXgtd2lkdGg6IDkwMHB4OwogICAgICAgICAgICBwYWRkaW5nOiAxZW0gY2FsYyg1MCUgLSA0NTBweCk7CiAgICAgICAgICAgIGJhY2tncm91bmQ6ICMzMzM7CiAgICAgICAgfQogICAgICAgIC53cmFwcGVyIHt9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2k7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGZvb3Rlcj4KICAgIDxkaXYgY2xhc3M9IndyYXBwZXIiPgogICAgICAgINKzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA79KzvcW1xMTayN3QtNTa1eLA7wogICAgPC9kaXY+CjwvZm9vdGVyPgo=</text>
+        <text encoding="base64">ICAgICAgICBmb290ZXIgewogICAgICAgICAgICBtYXgtd2lkdGg6IDkwMHB4OwogICAgICAgICAgICBwYWRkaW5nOiAxZW0gY2FsYyg1MCUgLSA0NTBweCk7CiAgICAgICAgICAgIGJhY2tncm91bmQ6ICMzMzM7CiAgICAgICAgfQogICAgICAgIC53cmFwcGVyIHt9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>color</text>
@@ -210,6 +213,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
