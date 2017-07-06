@@ -6,9 +6,6 @@
       <file name="/Dummy.txt" timestamp="1499325433357">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/resources/vm/batchUpdate/planBoxField.ftl" timestamp="1499319897760">
-        <mark key="[" line="11" column="97" />
-      </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/discuss/widget/index.js" timestamp="1499325334766">
         <mark key="[" line="401" column="0" />
         <mark key="]" line="401" column="37" />
@@ -29,6 +26,7 @@
         <mark key="]" line="401" column="37" />
         <mark key="." line="401" column="0" />
       </file>
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/PostForm.jsx" timestamp="1499326296197" />
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/space/widget/list/listContent.js" timestamp="1499325309391">
         <mark key="[" line="943" column="0" />
         <mark key="]" line="943" column="33" />
@@ -41,13 +39,16 @@
         <mark key="[" line="703" column="0" />
         <mark key="]" line="703" column="29" />
       </file>
+      <file name="/__dummy.as" timestamp="1499319380004">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/resources/vm/batchUpdate/planBoxField.ftl" timestamp="1499319897760">
+        <mark key="[" line="11" column="97" />
+      </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/storyMapping/widget/index.js" timestamp="1499325356205">
         <mark key="[" line="3717" column="0" />
         <mark key="]" line="3717" column="29" />
         <mark key="." line="3717" column="0" />
-      </file>
-      <file name="/__dummy.as" timestamp="1499319380004">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/space/widget/list/listContent.js" timestamp="1499325315386">
         <mark key="[" line="936" column="0" />
