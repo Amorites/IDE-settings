@@ -3,21 +3,70 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1499322960533">
+      <file name="/Dummy.txt" timestamp="1499325433357">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/resources/vm/batchUpdate/planBoxField.ftl" timestamp="1499319897760">
         <mark key="[" line="11" column="97" />
       </file>
+      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/discuss/widget/index.js" timestamp="1499325334766">
+        <mark key="[" line="401" column="0" />
+        <mark key="]" line="401" column="37" />
+        <mark key="." line="401" column="0" />
+      </file>
+      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/planAndTrack/widget/config/planTrackConfig.js" timestamp="1499325341037">
+        <mark key="[" line="703" column="0" />
+        <mark key="]" line="703" column="29" />
+        <mark key="." line="703" column="0" />
+      </file>
+      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/storyMapping/widget/index.js" timestamp="1499325368202">
+        <mark key="[" line="3712" column="0" />
+        <mark key="]" line="3712" column="29" />
+        <mark key="." line="3712" column="0" />
+      </file>
+      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/discuss/widget/index.js" timestamp="1499325442969">
+        <mark key="[" line="401" column="0" />
+        <mark key="]" line="401" column="37" />
+        <mark key="." line="401" column="0" />
+      </file>
+      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/space/widget/list/listContent.js" timestamp="1499325309391">
+        <mark key="[" line="943" column="0" />
+        <mark key="]" line="943" column="33" />
+        <mark key="." line="943" column="0" />
+      </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/resources/vm/batchUpdate/planBoxField.ftl" timestamp="1499319688913">
         <mark key="[" line="11" column="144" />
+      </file>
+      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/planAndTrack/widget/config/planTrackConfig.js" timestamp="1499325301361">
+        <mark key="[" line="703" column="0" />
+        <mark key="]" line="703" column="29" />
+      </file>
+      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/storyMapping/widget/index.js" timestamp="1499325356205">
+        <mark key="[" line="3717" column="0" />
+        <mark key="]" line="3717" column="29" />
+        <mark key="." line="3717" column="0" />
       </file>
       <file name="/__dummy.as" timestamp="1499319380004">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/space/widget/list/listContent.js" timestamp="1499325315386">
+        <mark key="[" line="936" column="0" />
+        <mark key="]" line="936" column="33" />
+        <mark key="." line="936" column="0" />
+      </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAvLyC4w87EvP7U2iBmcm9udGVuZCC0+sLrv+LW0Ao=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILjDzsS8/tTaIGZyb250ZW5kILT6wuu/4tbQCg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILjDzsS8/tTaIGZyb250ZW5kILT6wuu/4tbQCg==</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -31,6 +80,9 @@
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
