@@ -3,179 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/codes/oauth2-server-example-mongodb/index.js" timestamp="1491274938768">
-        <mark key="[" line="20" column="15" />
-        <mark key="]" line="20" column="15" />
-        <mark key="^" line="20" column="15" />
-        <mark key="." line="20" column="15" />
-      </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/database/User.js" timestamp="1491294573356">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="7" column="15" />
-        <mark key="." line="10" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1491300919362">
+      <file name="/Dummy.txt" timestamp="1499319598039">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/config/default.js" timestamp="1491100117934">
-        <mark key="[" line="1" column="32" />
+      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/resources/vm/batchUpdate/planBoxField.ftl" timestamp="1499319688913">
+        <mark key="[" line="11" column="144" />
       </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/database/OAuthAuthorizationCode.js" timestamp="1491294609869">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Practice/src/test2.js" timestamp="1493631115465">
-        <mark key="[" line="16" column="6" />
-        <mark key="]" line="16" column="6" />
-        <mark key="." line="16" column="6" />
-        <mark key="^" line="16" column="6" />
-      </file>
-      <file name="D:/codes/auth0-react-sample/02-Custom-Login/webpack.config.js" timestamp="1491235267937">
-        <mark key="[" line="27" column="49" />
-        <mark key="]" line="27" column="49" />
-        <mark key="." line="27" column="49" />
-        <mark key="^" line="27" column="49" />
-      </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/test.js" timestamp="1491641822326">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/node_modules/oauth2-server/lib/server.js" timestamp="1491657382577">
-        <mark key="[" line="61" column="79" />
-      </file>
-      <file name="D:/codes/auth0-react-sample/02-Custom-Login/.env" timestamp="1490708471538">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="14" />
-        <mark key="." line="1" column="14" />
-        <mark key="^" line="0" column="50" />
-      </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Client/Client.js" timestamp="1491270471356">
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="0" column="30" />
-        <mark key="." line="0" column="30" />
-        <mark key="^" line="34" column="11" />
-      </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/model.js" timestamp="1491297384020">
-        <mark key="[" line="14" column="29" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-      </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/.gitignore" timestamp="1491271718685">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="38" column="4" />
-        <mark key="^" line="38" column="4" />
-        <mark key="." line="38" column="4" />
-      </file>
-      <file name="D:/codes/auth0-react-sample/05-Linking-Accounts/src/utils/LinkAccountService.js" timestamp="1490718077508">
-        <mark key="[" line="9" column="25" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="9" column="26" />
-        <mark key="." line="9" column="26" />
-      </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/controllers/clients.js" timestamp="1491291053974">
-        <mark key="[" line="12" column="27" />
-        <mark key="]" line="12" column="34" />
-        <mark key="." line="12" column="34" />
-        <mark key="^" line="12" column="34" />
-      </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/test2.js" timestamp="1491704129386">
-        <mark key="[" line="126" column="0" />
-        <mark key="]" line="126" column="0" />
-        <mark key="." line="126" column="0" />
-      </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/routes.js" timestamp="1491643552064">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Practice/src/test2.html" timestamp="1494779421877">
-        <mark key="[" line="4" column="24" />
-      </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/utils/AuthService.js" timestamp="1494062812399">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="D:/codes/oauth2-server-example-mongodb/oauthServerMiddlewares.js" timestamp="1491644055096">
-        <mark key="[" line="37" column="36" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Practice/src/jrtt.js" timestamp="1493110973388">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="33" column="21" />
-        <mark key="]" line="33" column="21" />
-        <mark key="." line="33" column="21" />
-        <mark key="^" line="22" column="17" />
-      </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/routes.js" timestamp="1491291335564">
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="41" />
-        <mark key="." line="22" column="41" />
-        <mark key="^" line="6" column="34" />
-      </file>
-      <file name="D:/codes/auth0-react-sample/01-Login/src/views/Main/Home/Home.js" timestamp="1491638571807">
-        <mark key="[" line="37" column="49" />
-        <mark key="]" line="37" column="50" />
-        <mark key="^" line="37" column="50" />
-        <mark key="." line="37" column="50" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/Practice/src/test.html" timestamp="1494778972170">
-        <mark key="[" line="45" column="30" />
-        <mark key="]" line="35" column="24" />
-        <mark key="." line="35" column="24" />
-        <mark key="^" line="35" column="24" />
+      <file name="/__dummy.as" timestamp="1499319380004">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
-    <jumps>
-      <jump line="3" column="0" filename="D:/codes/auth0-react-sample/01-Login/test.js" />
-      <jump line="34" column="25" filename="D:/codes/auth0-react-sample/01-Login/test.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/IdeaProjects/Practice/src/jrtt.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/Practice/src/jrtt.js" />
-    </jumps>
-    <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnByb3BzLnJlZGlyZWN0QmFjaygpOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDotNTBweDsK</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luLXRvcDotNTBweDsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWFyZ2luOiAxMHB4Owo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMHB4Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IHJpZ2h0Owo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAucGFyZW50IHsKICAgICAgICAgICAgb3ZlcmZsb3c6IGhpZGRlbjsKICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogeWVsbG93OwogICAgICAgICAgICBoZWlnaHQ6IDUwMHB4OwogICAgICAgIH0KICAgICAgICAubGVmdCwgLnJpZ2h0IHsKICAgICAgICAgICAgcGFkZGluZy1ib3R0b206IDk5OTlweDsKICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogLTk5OTlweDsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiA7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2k7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmb290ZXIgewogICAgICAgICAgICBtYXgtd2lkdGg6IDkwMHB4OwogICAgICAgICAgICBwYWRkaW5nOiAxZW0gY2FsYyg1MCUgLSA0NTBweCk7CiAgICAgICAgICAgIGJhY2tncm91bmQ6ICMzMzM7CiAgICAgICAgfQogICAgICAgIC53cmFwcGVyIHt9Cg==</text>
-      </register>
-      <register name="-" type="4">
-        <text>color</text>
-      </register>
-    </registers>
+    <jumps />
+    <registers />
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -188,34 +27,7 @@
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed C</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
         <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed S</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed I</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
