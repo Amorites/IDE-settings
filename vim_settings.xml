@@ -47,6 +47,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1499327308406" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/list/cells/Title.jsx" timestamp="1499344324996">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="D:/codes/baidu/icafe/frontend/README.md" timestamp="1499342991192">
         <mark key="[" line="3" column="37" />
       </file>
@@ -71,9 +76,12 @@
         <text encoding="base64">ICAgICAgICAvLyC4w87EvP7U2iBmcm9udGVuZCC0+sLrv+LW0Ao=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILjDzsS8/tTaIGZyb250ZW5kILT6wuu/4tbQCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILjDzsS8/tTaIGZyb250ZW5kILT6wuu/4tbQCg==</text>
       </register>
     </registers>
