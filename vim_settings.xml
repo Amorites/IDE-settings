@@ -39,10 +39,6 @@
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/resources/vm/batchUpdate/planBoxField.ftl" timestamp="1499319688913">
         <mark key="[" line="11" column="144" />
       </file>
-      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/planAndTrack/widget/config/planTrackConfig.js" timestamp="1499325301361">
-        <mark key="[" line="703" column="0" />
-        <mark key="]" line="703" column="29" />
-      </file>
       <file name="/__dummy.as" timestamp="1499319380004">
         <mark key="[" line="0" column="0" />
       </file>
@@ -59,7 +55,7 @@
       <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/resources/vm/batchUpdate/planBoxField.ftl" timestamp="1499319897760">
         <mark key="[" line="11" column="97" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/sideItems/Connect.jsx" timestamp="1499397755141" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/sideItems/Connect.jsx" timestamp="1499567606760" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/IssueSelect.jsx" timestamp="1499396659357" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/list/cells/Sequence.jsx" timestamp="1499394848762">
         <mark key="[" line="19" column="47" />
@@ -73,6 +69,7 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="18" />
       </file>
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/reducer/CreateAndEdit.jsx" timestamp="1499567738894" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/reducer.jsx" timestamp="1499328077132" />
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/storyMapping/widget/index.js" timestamp="1499325356205">
         <mark key="[" line="3717" column="0" />
