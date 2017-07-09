@@ -35,8 +35,8 @@
       <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/resources/vm/batchUpdate/planBoxField.ftl" timestamp="1499319897760">
         <mark key="[" line="11" column="97" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/sideItems/Connect.jsx" timestamp="1499583223429" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/IssueSelect.jsx" timestamp="1499583326098" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/sideItems/Connect.jsx" timestamp="1499584699122" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/IssueSelect.jsx" timestamp="1499585226071" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/list/TableCell.jsx" timestamp="1499394039537">
         <mark key="[" line="19" column="18" />
         <mark key="]" line="19" column="18" />
@@ -61,14 +61,15 @@
         <mark key="]" line="703" column="29" />
         <mark key="." line="703" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1499581094402">
-        <mark key="[" line="129" column="53" />
-        <mark key="]" line="129" column="53" />
-        <mark key="^" line="127" column="62" />
-        <mark key="." line="129" column="53" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1499585414721">
+        <mark key="[" line="130" column="53" />
+        <mark key="]" line="130" column="53" />
+        <mark key="^" line="128" column="62" />
+        <mark key="." line="130" column="53" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/PostForm.jsx" timestamp="1499327068255" />
       <file name="D:/codes/baidu/icafe/frontend/src/f2e-conf.js" timestamp="1499341782171" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/list/RelIssueTable.jsx" timestamp="1499585061731" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1499327308406" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/list/cells/Title.jsx" timestamp="1499394087162">
         <mark key="[" line="13" column="0" />
