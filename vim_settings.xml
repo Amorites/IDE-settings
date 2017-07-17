@@ -77,11 +77,11 @@
         <mark key="]" line="703" column="29" />
         <mark key="." line="703" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1500292418196">
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="^" line="147" column="16" />
-        <mark key="." line="147" column="0" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1500294334924">
+        <mark key="[" line="121" column="8" />
+        <mark key="]" line="121" column="8" />
+        <mark key="^" line="119" column="37" />
+        <mark key="." line="121" column="8" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/f2e-conf.js" timestamp="1500282209916">
         <mark key="[" line="12" column="12" />
@@ -114,40 +114,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7cmVsSXNzdWUsIHJlbFBhcmVudElkLCByZWxQYXJlbnQsfSA9IHF1aWNrRWRpdFJlbDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7cmVsSXNzdWV9ID0gcXVpY2tFZGl0UmVsOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7cmVsSXNzdWV9ID0gcXVpY2tFZGl0UmVsOwo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVsSXNzdWVJZHMsIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVsSXNzdWVJZHMsCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge2dldEZpZWxkRGVjb3JhdG9yKCdwYXJlbnRJZCcpfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzZWxmID0gdGhpczsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyC/ycTcu+Hk1si+o7rQwr2ooaKx4LytoaK1pdKzsum/tKGjCg==</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVsSXNzdWVJZHMsIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVsSXNzdWVJZHMsCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVsCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge2dldEZpZWxkRGVjb3JhdG9yKCdwYXJlbnRJZCcpfQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBzZWxmID0gdGhpczsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAvLyC/ycTcu+Hk1si+o7rQwr2ooaKx4LytoaK1pdKzsum/tKGjCg==</text>
+      </register>
       <register name="-" type="4">
-        <text>quickEditRel</text>
+        <text>.</text>
       </register>
     </registers>
     <search>
