@@ -8,7 +8,7 @@
         <mark key="]" line="401" column="37" />
         <mark key="." line="401" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1500258721023">
+      <file name="/fragment.js" timestamp="1500271207408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/FormDisplay.jsx" timestamp="1500270077366">
@@ -91,6 +91,7 @@
         <mark key="^" line="19" column="100" />
         <mark key="." line="19" column="100" />
       </file>
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/reducer/CreateAndEdit.jsx" timestamp="1500272092061" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1500264022808" />
     </filemarks>
     <jumps />
