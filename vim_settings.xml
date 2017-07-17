@@ -70,13 +70,13 @@
         <mark key="]" line="703" column="29" />
         <mark key="." line="703" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1500279958462">
-        <mark key="[" line="198" column="60" />
-        <mark key="]" line="198" column="71" />
-        <mark key="^" line="198" column="71" />
-        <mark key="." line="198" column="71" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1500280832067">
+        <mark key="[" line="146" column="14" />
+        <mark key="]" line="147" column="16" />
+        <mark key="^" line="147" column="16" />
+        <mark key="." line="147" column="16" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/list/RelIssueTable.jsx" timestamp="1500258722396" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/list/RelIssueTable.jsx" timestamp="1500280154758" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/list/table.less" timestamp="1500258710731" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/list/cells/Title.jsx" timestamp="1499394087162">
         <mark key="[" line="13" column="0" />
@@ -104,40 +104,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkc1ZhbHVlKCksICdhZnRlciBzZXRGaWVsZHMnKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB7cmVsSXNzdWUsIHJlbFBhcmVudElkLCByZWxQYXJlbnQsfSA9IHF1aWNrRWRpdFJlbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge2dldEZpZWxkRGVjb3JhdG9yKCdwYXJlbnRJZCcpfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVsSXNzdWVJZHMsIAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge2dldEZpZWxkRGVjb3JhdG9yKCdwYXJlbnRJZCcpfQo=</text>
+      <register name="&quot;" type="4">
+        <text>quickEditRel</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBzZWxmID0gdGhpczsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVsSXNzdWVJZHMsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyC/ycTcu+Hk1si+o7rQwr2ooaKx4LytoaK1pdKzsum/tKGjCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge2dldEZpZWxkRGVjb3JhdG9yKCdwYXJlbnRJZCcpfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG9uQ2xpY2sgPSAoKSA9PiB7CiAgICAgICAgdGhpcy5wcm9wcy5pbml0Rm9yU2lkZVBhbmVsKCk7CiAgICB9OwoK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBzZWxmID0gdGhpczsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRpc3BhdGNoPXtkaXNwYXRjaH0K</text>
+        <text encoding="base64">ICAgICAgICAvLyC/ycTcu+Hk1si+o7rQwr2ooaKx4LytoaK1pdKzsum/tKGjCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vILjDzsS8/tTaIGZyb250ZW5kILT6wuu/4tbQCg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="-" type="4">
-        <text>Fields</text>
+        <text>quickEditRel</text>
       </register>
     </registers>
     <search>
@@ -165,6 +165,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
