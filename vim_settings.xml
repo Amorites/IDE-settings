@@ -8,7 +8,7 @@
         <mark key="]" line="401" column="37" />
         <mark key="." line="401" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1499341780341">
+      <file name="/fragment.js" timestamp="1500258721023">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/FormDisplay.jsx" timestamp="1500011360960">
@@ -38,8 +38,8 @@
       <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/resources/vm/batchUpdate/planBoxField.ftl" timestamp="1499319897760">
         <mark key="[" line="11" column="97" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/sideItems/Connect.jsx" timestamp="1499999552981">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/sideItems/Connect.jsx" timestamp="1500260037660">
+        <mark key="[" line="1" column="21" />
         <mark key="]" line="383" column="30" />
         <mark key="^" line="383" column="30" />
         <mark key="." line="383" column="30" />
@@ -60,7 +60,7 @@
         <mark key="]" line="936" column="33" />
         <mark key="." line="936" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500007275538">
+      <file name="/Dummy.txt" timestamp="1500258676025">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/planAndTrack/widget/config/planTrackConfig.js" timestamp="1499325341037">
@@ -68,13 +68,14 @@
         <mark key="]" line="703" column="29" />
         <mark key="." line="703" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1499594635662">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="69" column="59" />
-        <mark key="." line="106" column="0" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1500259889428">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+        <mark key="." line="1" column="2" />
       </file>
-      <file name="/FormDisplay.jsx" timestamp="1500011428434" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/list/RelIssueTable.jsx" timestamp="1500258722396" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/list/table.less" timestamp="1500258710731" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/list/cells/Title.jsx" timestamp="1499394087162">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -84,14 +85,13 @@
       <file name="D:/codes/baidu/icafe/frontend/README.md" timestamp="1499342991192">
         <mark key="[" line="3" column="37" />
       </file>
-      <file name="/CreateAndEdit.jsx" timestamp="1500007736470" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/list/cells/Sequence.jsx" timestamp="1499394848762">
         <mark key="[" line="19" column="47" />
         <mark key="]" line="19" column="100" />
         <mark key="^" line="19" column="100" />
         <mark key="." line="19" column="100" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/reducer/CreateAndEdit.jsx" timestamp="1500011255421" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1500260429886" />
     </filemarks>
     <jumps />
     <registers>
