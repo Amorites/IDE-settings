@@ -40,17 +40,17 @@
       <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/resources/vm/batchUpdate/planBoxField.ftl" timestamp="1499319897760">
         <mark key="[" line="11" column="97" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/sideItems/Connect.jsx" timestamp="1500295402424">
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/sideItems/Connect.jsx" timestamp="1500345360981">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="383" column="30" />
         <mark key="^" line="383" column="30" />
         <mark key="." line="383" column="30" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/IssueSelect.jsx" timestamp="1500295098546">
-        <mark key="[" line="26" column="95" />
-        <mark key="]" line="26" column="93" />
-        <mark key="^" line="26" column="93" />
-        <mark key="." line="26" column="93" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/IssueSelect.jsx" timestamp="1500346519010">
+        <mark key="[" line="49" column="35" />
+        <mark key="]" line="49" column="37" />
+        <mark key="^" line="49" column="37" />
+        <mark key="." line="49" column="37" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/list/TableCell.jsx" timestamp="1499394039537">
         <mark key="[" line="19" column="18" />
@@ -82,11 +82,11 @@
         <mark key="]" line="703" column="29" />
         <mark key="." line="703" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1500297398180">
-        <mark key="[" line="45" column="44" />
-        <mark key="]" line="46" column="35" />
-        <mark key="^" line="46" column="35" />
-        <mark key="." line="46" column="35" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1500346651937">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/f2e-conf.js" timestamp="1500282209916">
         <mark key="[" line="12" column="12" />
@@ -122,37 +122,37 @@
         <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7cmVsSXNzdWUsIHJlbFBhcmVudElkLCByZWxQYXJlbnQsfSA9IHF1aWNrRWRpdFJlbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXtwcmVmaXhDb2RlfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gse3KvsnPvLa/qMastcTQ8rrFo6i2+LfHaWSjqQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkc1ZhbHVlKCksICdiZWZvcmUgc2V0RmllbGRzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkc1ZhbHVlKCksICdhZnRlciBzZXRRdWlja2x5UmVsJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXtwcmVmaXhDb2RlfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkc1ZhbHVlKCksICdhZnRlciBzZXRGaWVsZHMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkc1ZhbHVlKCksICdiZWZvcmUgc2V0RmllbGRzJyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkc1ZhbHVlKCksICdhZnRlciBzZXRRdWlja2x5UmVsJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdW51c2VkCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkc1ZhbHVlKCksICdhZnRlciBzZXRGaWVsZHMnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVsSXNzdWU6IHByb3BzLnF1aWNrRWRpdFJlbC5yZWxJc3N1ZSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB7cmVsSXNzdWV9ID0gcXVpY2tFZGl0UmVsOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdW51c2VkCg==</text>
       </register>
       <register name="-" type="4">
-        <text>: '',</text>
+        <text>// 表示上级卡片的序号（而非id）</text>
       </register>
     </registers>
     <search>
