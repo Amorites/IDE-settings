@@ -82,11 +82,11 @@
         <mark key="]" line="703" column="29" />
         <mark key="." line="703" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1500346651937">
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="14" column="18" />
-        <mark key="^" line="14" column="18" />
-        <mark key="." line="14" column="18" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1500349789277">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="^" line="118" column="43" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/f2e-conf.js" timestamp="1500282209916">
         <mark key="[" line="12" column="12" />
@@ -119,40 +119,40 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zdCB7cmVsSXNzdWUsIHJlbFBhcmVudElkLCByZWxQYXJlbnQsfSA9IHF1aWNrRWRpdFJlbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0eWxlPXt7ZGlzcGxheTogcmVsSXNzdWVTZWxlY3QgPyAnJyA6ICdub25lJ319Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkVmFsdWUoJ3BhcmVudElkJyksICchISEhISEhISEhISEhISEhMicpOwo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkVmFsdWUoJ3BhcmVudElkJyksICchISEhISEhISEhISEhISEhMicpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gse3KvsnPvLa/qMastcTQ8rrFo6i2+LfHaWSjqQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkVmFsdWUoJ3BhcmVudElkJyksICchISEhISEhISEhISEhISEhMScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmVsSXNzdWVJZHMgPSAnJzsKICAgICAgICBuZXdSZWxJc3N1ZS5mb3JFYWNoKGlzc3VlID0+IHsKICAgICAgICAgICAgcmVsSXNzdWVJZHMgKz0gaXNzdWUuaWQgKyAnLCc7CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVmYXVsdFZhbHVlPXtwcmVmaXhDb2RlfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZWxJc3N1ZUlkcywgbmV3UmVsSXNzdWUpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkc1ZhbHVlKCksICdiZWZvcmUgc2V0RmllbGRzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkc1ZhbHVlKCksICdhZnRlciBzZXRRdWlja2x5UmVsJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkc1ZhbHVlKCksICdhZnRlciBzZXRGaWVsZHMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJlbFBhcmVudFNlbGVjdCAmJiA8SXNzdWVTZWxlY3QK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JtLmdldEZpZWxkVmFsdWUoJ3BhcmVudElkJyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdW51c2VkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmb3JtLnNldEZpZWxkc1ZhbHVlKHsKICAgICAgICAgICAgICAgICAgICAgICAgcGFyZW50SWQ6IGlkLAogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>// 表示上级卡片的序号（而非id）</text>
+        <text encoding="base64">JiYg</text>
       </register>
     </registers>
     <search>
