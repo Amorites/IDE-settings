@@ -82,11 +82,11 @@
         <mark key="]" line="703" column="29" />
         <mark key="." line="703" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1500362367663">
-        <mark key="[" line="34" column="25" />
-        <mark key="]" line="34" column="25" />
-        <mark key="^" line="34" column="25" />
-        <mark key="." line="34" column="25" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1500363274538">
+        <mark key="[" line="30" column="61" />
+        <mark key="]" line="31" column="29" />
+        <mark key="^" line="31" column="29" />
+        <mark key="." line="31" column="29" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/f2e-conf.js" timestamp="1500282209916">
         <mark key="[" line="12" column="12" />
@@ -137,7 +137,7 @@
         <text encoding="base64">ICAgICAgICBjb25zdCB7bmV3UmVsSXNzdWUsIG5ld1JlbFBhcm5ldH0gPSBuZXh0UHJvcHMucXVpY2tFZGl0UmVsOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>newR</text>
+        <text>;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPHNvdXJjZSBzaXplcz0iIiBzcmNzZXQ9IiIgdHlwZT0iaW1hZ2UvIj4K</text>
@@ -164,7 +164,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhmb3JtLmdldEZpZWxkVmFsdWUoJ3BhcmVudElkJyksICchISEhISEhISEhISEhISEhMScpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>newR</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
