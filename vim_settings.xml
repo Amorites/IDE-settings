@@ -26,11 +26,11 @@
         <mark key="." line="401" column="0" />
       </file>
       <file name="/package.json" timestamp="1500451529120" />
-      <file name="D:/codes/baidu/icafe/frontend/src/fis-conf.js" timestamp="1500454826711">
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="." line="218" column="0" />
-        <mark key="^" line="217" column="40" />
+      <file name="D:/codes/baidu/icafe/frontend/src/fis-conf.js" timestamp="1500456314026">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="32" />
+        <mark key="^" line="96" column="14" />
+        <mark key="." line="223" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/space/widget/list/listContent.js" timestamp="1499325309391">
         <mark key="[" line="943" column="0" />
@@ -142,14 +142,14 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="4">
-        <text>newRelParent</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBzb3VyY2VNYXA6IHRydWUsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBsdWdpbnM6IFsnYmFiZWwtcGx1Z2luLXRyYW5zZm9ybS1lczIwMTUtbW9kdWxlcy1hbWQnLAogICAgICAgICAgICAgICAgICAgICdiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLWNsYXNzLXByb3BlcnRpZXMnLAogICAgICAgICAgICAgICAgICAgICdiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLW9iamVjdC1yZXN0LXNwcmVhZCddLAogICAgICAgICAgICAgICAgcHJlc2V0czogWydyZWFjdCcsICdlczIwMTUnXSwK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsdWdpbnM6IFsnYmFiZWwtcGx1Z2luLXRyYW5zZm9ybS1lczIwMTUtbW9kdWxlcy1hbWQnLAogICAgICAgICAgICAgICAgICAgICdiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLWNsYXNzLXByb3BlcnRpZXMnLAogICAgICAgICAgICAgICAgICAgICdiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLW9iamVjdC1yZXN0LXNwcmVhZCddLAogICAgICAgICAgICAgICAgcHJlc2V0czogWydyZWFjdCcsICdlczIwMTUnXSwK</text>
+        <text encoding="base64">ICAgICAgICBzb3VyY2VNYXA6IHRydWUsCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50czogewogICAgICAgICAgICAgICAgICAgIC8vIMm+s/0gY29uc29sZQogICAgICAgICAgICAgICAgICAgIGVuZDogZnVuY3Rpb24gKGNvbnRlbnQsIGZpbGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIHJlcXVpcmUoJ3N0cmlwLWRlYnVnJykoY29udGVudCkudG9TdHJpbmcoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9Cg==</text>
@@ -176,7 +176,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>m</text>
       </register>
     </registers>
     <search>
