@@ -27,10 +27,10 @@
       </file>
       <file name="/package.json" timestamp="1500451529120" />
       <file name="D:/codes/baidu/icafe/frontend/src/fis-conf.js" timestamp="1500456314026">
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="223" column="32" />
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="32" />
         <mark key="^" line="96" column="14" />
-        <mark key="." line="223" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/space/widget/list/listContent.js" timestamp="1499325309391">
         <mark key="[" line="943" column="0" />
@@ -69,6 +69,7 @@
         <mark key="]" line="3717" column="29" />
         <mark key="." line="3717" column="0" />
       </file>
+      <file name="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" timestamp="1500458532591" />
       <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/space/widget/list/listContent.js" timestamp="1499325315386">
         <mark key="[" line="936" column="0" />
         <mark key="]" line="936" column="33" />
