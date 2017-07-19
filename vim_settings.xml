@@ -46,14 +46,14 @@
         <mark key="^" line="19" column="18" />
         <mark key="." line="19" column="18" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" timestamp="1500467367643">
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="38" column="31" />
-        <mark key="." line="38" column="31" />
-        <mark key="^" line="38" column="31" />
+      <file name="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" timestamp="1500468340295">
+        <mark key="[" line="40" column="83" />
+        <mark key="]" line="40" column="83" />
+        <mark key="." line="40" column="83" />
+        <mark key="^" line="40" column="83" />
       </file>
       <file name="D:/codes/baidu/xiangmuji/frontend/.babelrc" timestamp="1500453047980" />
-      <file name="/Dummy.txt" timestamp="1500454135614">
+      <file name="/Dummy.txt" timestamp="1500468510093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.html" timestamp="1500433237601" />
@@ -107,8 +107,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHByZXNldHM6IAo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwbHVnaW5zOiBbJ2JhYmVsLXBsdWdpbi10cmFuc2Zvcm0tZXMyMDE1LW1vZHVsZXMtYW1kJywKICAgICAgICAgICAgJ2JhYmVsLXBsdWdpbi10cmFuc2Zvcm0tY2xhc3MtcHJvcGVydGllcycsCiAgICAgICAgICAgICdiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLW9iamVjdC1yZXN0LXNwcmVhZCddLAogICAgICAgIHByZXNldHM6IFsncmVhY3QnLCAnZXMyMDE1J10sCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYmFiZWwtbG9hZGVyP2NhY2hlRGlyZWN0b3J5JywK</text>
@@ -135,7 +135,7 @@
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnd2hpbGUgcmVsSXNzdWVUYWJsZSBjb25zdHJ1Y3RpbmcnLCByZWxJc3N1ZSwgcHJvcHMucXVpY2tFZGl0UmVsKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>)</text>
       </register>
     </registers>
     <search>
