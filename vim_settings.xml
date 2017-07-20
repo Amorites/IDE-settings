@@ -51,10 +51,10 @@
       <file name="D:/codes/baidu/icafe/frontend/src/pages/widget/Suggest.jsx" timestamp="1500452148151" />
       <file name="/package.json" timestamp="1500451529120" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/cardList/cardItem/AddChildQuickly/AddChildQuickly.jsx" timestamp="1500463925490" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500550217548">
-        <mark key="[" line="953" column="26" />
-        <mark key="]" line="953" column="26" />
-        <mark key="." line="953" column="26" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500551072144">
+        <mark key="[" line="947" column="20" />
+        <mark key="]" line="947" column="20" />
+        <mark key="." line="947" column="20" />
         <mark key="^" line="953" column="26" />
       </file>
       <file name="/Dummy.txt" timestamp="1500549509996">
@@ -73,11 +73,11 @@
         <mark key="^" line="133" column="39" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1500550330578">
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1500551181810">
         <mark key="[" line="176" column="68" />
-        <mark key="]" line="176" column="68" />
-        <mark key="." line="176" column="68" />
-        <mark key="^" line="176" column="75" />
+        <mark key="]" line="125" column="29" />
+        <mark key="." line="125" column="29" />
+        <mark key="^" line="125" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -87,10 +87,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>messages</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>messages</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
