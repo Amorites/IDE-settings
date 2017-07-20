@@ -70,11 +70,11 @@
         <mark key="^" line="133" column="39" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1500531809904">
-        <mark key="[" line="170" column="84" />
-        <mark key="]" line="170" column="84" />
-        <mark key="." line="170" column="84" />
-        <mark key="^" line="170" column="84" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1500533381569">
+        <mark key="[" line="161" column="101" />
+        <mark key="]" line="161" column="101" />
+        <mark key="." line="161" column="101" />
+        <mark key="^" line="161" column="101" />
       </file>
     </filemarks>
     <jumps />
@@ -85,8 +85,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogbm9uZTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogbm9uZTsK</text>
+      <register name="&quot;" type="4">
+        <text>y</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbWluLWhlaWdodDogMjIwcHg7Cg==</text>
@@ -113,7 +113,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>y</text>
       </register>
     </registers>
     <search>
