@@ -73,10 +73,10 @@
         <mark key="^" line="133" column="39" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1500551181810">
-        <mark key="[" line="176" column="68" />
-        <mark key="]" line="125" column="29" />
-        <mark key="." line="125" column="29" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1500554094816">
+        <mark key="[" line="1" column="19" />
+        <mark key="]" line="1" column="19" />
+        <mark key="." line="1" column="19" />
         <mark key="^" line="125" column="29" />
       </file>
     </filemarks>
@@ -87,10 +87,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>Table</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>Table</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
