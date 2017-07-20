@@ -49,11 +49,11 @@
       <file name="D:/codes/baidu/icafe/frontend/src/pages/widget/Suggest.jsx" timestamp="1500452148151" />
       <file name="/package.json" timestamp="1500451529120" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/cardList/cardItem/AddChildQuickly/AddChildQuickly.jsx" timestamp="1500463925490" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500535977876">
-        <mark key="[" line="948" column="0" />
-        <mark key="]" line="948" column="0" />
-        <mark key="." line="948" column="0" />
-        <mark key="^" line="1015" column="21" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500542509510">
+        <mark key="[" line="951" column="32" />
+        <mark key="]" line="951" column="42" />
+        <mark key="." line="951" column="42" />
+        <mark key="^" line="951" column="42" />
       </file>
       <file name="/Dummy.txt" timestamp="1500523209145">
         <mark key="[" line="0" column="0" />
@@ -70,7 +70,7 @@
         <mark key="^" line="133" column="39" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1500541613427">
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1500542616335">
         <mark key="[" line="79" column="18" />
         <mark key="]" line="79" column="24" />
         <mark key="." line="79" column="24" />
@@ -85,8 +85,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGRpdiBkYW5nZXJvdXNseVNldElubmVySFRNTD17ewogICAgICAgICAgICAgICAgX19odG1sOiBjb250ZW50CiAgICAgICAgICAgIH19Lz4gCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBkYW5nZXJvdXNseVNldElubmVySFRNTD17ewogICAgICAgICAgICAgICAgX19odG1sOiBjb250ZW50CiAgICAgICAgICAgIH19Lz4gCg==</text>
+      <register name="&quot;" type="4">
+        <text>white</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sKICAgICAgICAgICAgICAgICAgICBfX2h0bWw6IGNvbnRlbnQKICAgICAgICAgICAgICAgIH19Lz4K</text>
@@ -113,7 +113,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIj4K</text>
       </register>
       <register name="-" type="4">
-        <text>${authorchname}</text>
+        <text>white</text>
       </register>
     </registers>
     <search>
