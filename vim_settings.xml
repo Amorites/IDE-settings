@@ -47,11 +47,11 @@
         <mark key="." line="35" column="49" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/cardList/cardItem/AddChildQuickly/AddChildQuickly.jsx" timestamp="1500463925490" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500625289199">
-        <mark key="[" line="100" column="28" />
-        <mark key="]" line="100" column="34" />
-        <mark key="." line="100" column="34" />
-        <mark key="^" line="100" column="34" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500627055698">
+        <mark key="[" line="95" column="30" />
+        <mark key="]" line="104" column="27" />
+        <mark key="." line="104" column="27" />
+        <mark key="^" line="104" column="27" />
       </file>
       <file name="/Dummy.txt" timestamp="1500624889103">
         <mark key="'" line="0" column="0" />
@@ -70,11 +70,11 @@
       <file name="D:/codes/baidu/icafe/frontend/src/pages/session/actions/types.jsx" timestamp="1500604008931" />
       <file name="/index.less" timestamp="1500606438945" />
       <file name="D:/codes/baidu/xiangmuji/frontend/src/actions/ProjectActions.js" timestamp="1500466136933" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/DiscussTableView.jsx" timestamp="1500625134726">
-        <mark key="[" line="67" column="87" />
-        <mark key="]" line="67" column="88" />
-        <mark key="^" line="67" column="88" />
-        <mark key="." line="67" column="88" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/DiscussTableView.jsx" timestamp="1500626345050">
+        <mark key="[" line="67" column="52" />
+        <mark key="]" line="67" column="80" />
+        <mark key="^" line="67" column="80" />
+        <mark key="." line="67" column="80" />
       </file>
       <file name="/RelIssueTable.jsx" timestamp="1500604257010" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/common/iconfont/iconfont.less" timestamp="1500549829008" />
@@ -100,10 +100,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>light2</text>
+        <text>link</text>
       </register>
       <register name="-" type="4">
-        <text>light2</text>
+        <text>link</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -112,31 +112,31 @@
         <text encoding="base64">ICAgICAgICBwbHVnaW5zOiBbJ2JhYmVsLXBsdWdpbi10cmFuc2Zvcm0tZXMyMDE1LW1vZHVsZXMtYW1kJywKICAgICAgICAgICAgJ2JhYmVsLXBsdWdpbi10cmFuc2Zvcm0tY2xhc3MtcHJvcGVydGllcycsCiAgICAgICAgICAgICdiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLW9iamVjdC1yZXN0LXNwcmVhZCddLAogICAgICAgIHByZXNldHM6IFsncmVhY3QnLCAnZXMyMDE1J10sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgICAgICAgICAgIGxlZnQ6IDBweDsKICAgICAgICAgICAgICAgIHRvcDogLTRweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yOiBAZm9udC1jb2xvci1ub3JtYWw7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmc6IDAgMXB4IDFweCAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYSA+IGkgewogICAgICAgICAgICAgICAgZm9udC1zaXplOiAxMnB4OwogICAgICAgICAgICAgICAgY29sb3I6IEBmb250LWNvbG9yLWxpZ2h0MTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZDogI2ZmZjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICNlZWVmZjc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICNmN2Y3ZmE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgICAgICAgICAgIGxlZnQ6IDBweDsKICAgICAgICAgICAgICAgIHRvcDogLTRweDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiBAYmctY29sb3ItbGlnaHQzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmc6IDAgMXB4IDFweCAwOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nOiA1MHB4IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZDogI2ZmZjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFRhZ1dpZGdldCBzZWxlY3RlZD17Y3VycmVudC5yZWxUYWdWT3N9Lz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICNmN2Y3ZmE7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiBAYmctY29sb3ItbGlnaHQzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nOiA1MHB4IDA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/'/g</text>
