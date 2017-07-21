@@ -47,14 +47,17 @@
         <mark key="." line="35" column="49" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/cardList/cardItem/AddChildQuickly/AddChildQuickly.jsx" timestamp="1500463925490" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500617420533">
-        <mark key="[" line="270" column="25" />
-        <mark key="]" line="271" column="25" />
-        <mark key="." line="271" column="25" />
-        <mark key="^" line="271" column="25" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500625289199">
+        <mark key="[" line="100" column="28" />
+        <mark key="]" line="100" column="34" />
+        <mark key="." line="100" column="34" />
+        <mark key="^" line="100" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500603968013">
-        <mark key="[" line="0" column="0" />
+      <file name="/Dummy.txt" timestamp="1500624889103">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="30" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.html" timestamp="1500433237601" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/PostForm.jsx" timestamp="1500609477841">
@@ -67,7 +70,7 @@
       <file name="D:/codes/baidu/icafe/frontend/src/pages/session/actions/types.jsx" timestamp="1500604008931" />
       <file name="/index.less" timestamp="1500606438945" />
       <file name="D:/codes/baidu/xiangmuji/frontend/src/actions/ProjectActions.js" timestamp="1500466136933" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/DiscussTableView.jsx" timestamp="1500624170459">
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/DiscussTableView.jsx" timestamp="1500625134726">
         <mark key="[" line="67" column="87" />
         <mark key="]" line="67" column="88" />
         <mark key="^" line="67" column="88" />
@@ -93,13 +96,14 @@
       <jump line="38" column="32" filename="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" />
       <jump line="39" column="0" filename="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" />
       <jump line="40" column="32" filename="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" />
+      <jump line="0" column="0" filename="/Dummy.txt" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>i</text>
+        <text>light2</text>
       </register>
       <register name="-" type="4">
-        <text>i</text>
+        <text>light2</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -108,31 +112,31 @@
         <text encoding="base64">ICAgICAgICBwbHVnaW5zOiBbJ2JhYmVsLXBsdWdpbi10cmFuc2Zvcm0tZXMyMDE1LW1vZHVsZXMtYW1kJywKICAgICAgICAgICAgJ2JhYmVsLXBsdWdpbi10cmFuc2Zvcm0tY2xhc3MtcHJvcGVydGllcycsCiAgICAgICAgICAgICdiYWJlbC1wbHVnaW4tdHJhbnNmb3JtLW9iamVjdC1yZXN0LXNwcmVhZCddLAogICAgICAgIHByZXNldHM6IFsncmVhY3QnLCAnZXMyMDE1J10sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmc6IDAgMXB4IDFweCAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICAgICAgICAgICAgICAgIGxlZnQ6IDBweDsKICAgICAgICAgICAgICAgIHRvcDogLTRweDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZDogI2ZmZjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmc6IDAgMXB4IDFweCAwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICNmN2Y3ZmE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZDogI2ZmZjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiBAYmctY29sb3ItbGlnaHQzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQ6ICNmN2Y3ZmE7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nOiA1MHB4IDA7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFRhZ1dpZGdldCBzZWxlY3RlZD17Y3VycmVudC5yZWxUYWdWT3N9Lz4K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiBAYmctY29sb3ItbGlnaHQzOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nOiA1MHB4IDA7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPFRhZ1dpZGdldCBzZWxlY3RlZD17Y3VycmVudC5yZWxUYWdWT3N9Lz4K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiBAYmctY29sb3ItbGlnaHQzOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5kaXNjdXNzLWRlc2MgewogICAgICAgIGNsZWFyOiBib3RoOwogICAgICAgIGZvbnQ6IG5vcm1hbCAxMnB4LzMwcHggIk1pY3Jvc29mdCBZYWhlaSI7CiAgICAgICAgY29sb3I6ICM1RDY2OUU7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI0VFRUZGNjsKICAgICAgICBwYWRkaW5nOiAwIDFlbTsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/'/g</text>
