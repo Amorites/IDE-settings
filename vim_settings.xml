@@ -67,7 +67,12 @@
       <file name="D:/codes/baidu/icafe/frontend/src/pages/session/actions/types.jsx" timestamp="1500604008931" />
       <file name="/index.less" timestamp="1500606438945" />
       <file name="D:/codes/baidu/xiangmuji/frontend/src/actions/ProjectActions.js" timestamp="1500466136933" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/DiscussTableView.jsx" timestamp="1500619683986" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/DiscussTableView.jsx" timestamp="1500624170459">
+        <mark key="[" line="67" column="87" />
+        <mark key="]" line="67" column="88" />
+        <mark key="^" line="67" column="88" />
+        <mark key="." line="67" column="88" />
+      </file>
       <file name="/RelIssueTable.jsx" timestamp="1500604257010" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/common/iconfont/iconfont.less" timestamp="1500549829008" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1500464222051">
@@ -91,10 +96,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
