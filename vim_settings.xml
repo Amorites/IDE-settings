@@ -4,27 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="D:/codes/baidu/xiangmuji/frontend/build/webpack.config.dev.js" timestamp="1500466150826" />
-      <file name="/fragment.js" timestamp="1500466148108">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/FormDisplay.jsx" timestamp="1500379032444">
-        <mark key="[" line="1" column="11" />
-      </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/common/variables.less" timestamp="1500527996424" />
       <file name="D:/codes/baidu/icafe/frontend/src/fis-conf.js" timestamp="1500467324503">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="95" column="36" />
         <mark key="^" line="96" column="14" />
         <mark key="." line="96" column="0" />
-      </file>
-      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/resources/vm/batchUpdate/planBoxField.ftl" timestamp="1499319688913">
-        <mark key="[" line="11" column="144" />
-      </file>
-      <file name="/__dummy.as" timestamp="1499319380004">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/resources/vm/batchUpdate/planBoxField.ftl" timestamp="1499319897760">
-        <mark key="[" line="11" column="97" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" timestamp="1500548029068">
         <mark key="'" line="40" column="32" />
@@ -35,9 +20,6 @@
       </file>
       <file name="/.babelrc" timestamp="1500545939864" />
       <file name="D:/codes/baidu/xiangmuji/frontend/.babelrc" timestamp="1500453047980" />
-      <file name="D:/codes/baidu/icafe/frontend/src/f2e-conf.js" timestamp="1500282209916">
-        <mark key="[" line="12" column="12" />
-      </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1500615838485">
         <mark key="[" line="167" column="63" />
         <mark key="]" line="167" column="63" />
@@ -49,9 +31,6 @@
         <mark key="]" line="115" column="34" />
         <mark key="^" line="115" column="34" />
         <mark key="." line="115" column="34" />
-      </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/common/api.jsx" timestamp="1500359587178">
-        <mark key="[" line="339" column="11" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/widget/Avatar.jsx" timestamp="1500523302231" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/widget/Suggest.jsx" timestamp="1500452148151" />
@@ -88,9 +67,7 @@
       <file name="D:/codes/baidu/icafe/frontend/src/pages/session/actions/types.jsx" timestamp="1500604008931" />
       <file name="/index.less" timestamp="1500606438945" />
       <file name="D:/codes/baidu/xiangmuji/frontend/src/actions/ProjectActions.js" timestamp="1500466136933" />
-      <file name="D:/codes/baidu/icafe/frontend/README.md" timestamp="1499342991192">
-        <mark key="[" line="3" column="37" />
-      </file>
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/DiscussTableView.jsx" timestamp="1500619683986" />
       <file name="/RelIssueTable.jsx" timestamp="1500604257010" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/common/iconfont/iconfont.less" timestamp="1500549829008" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1500464222051">
