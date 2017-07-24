@@ -4,6 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="D:/codes/baidu/xiangmuji/frontend/build/webpack.config.dev.js" timestamp="1500466150826" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/helper/components/RichLink.jsx" timestamp="1500881361443" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/common/variables.less" timestamp="1500527996424" />
       <file name="D:/codes/baidu/icafe/frontend/src/fis-conf.js" timestamp="1500467324503">
         <mark key="[" line="92" column="0" />
@@ -18,8 +19,16 @@
         <mark key="]" line="51" column="40" />
         <mark key="." line="51" column="40" />
       </file>
+      <file name="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" timestamp="1500548029068">
+        <mark key="'" line="40" column="32" />
+        <mark key="[" line="38" column="32" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="39" column="32" />
+        <mark key="^" line="40" column="61" />
+      </file>
       <file name="/.babelrc" timestamp="1500545939864" />
       <file name="D:/codes/baidu/xiangmuji/frontend/.babelrc" timestamp="1500453047980" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/layout/components/Layout.jsx" timestamp="1500881503089" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1500615838485">
         <mark key="[" line="167" column="63" />
         <mark key="]" line="167" column="63" />
@@ -54,7 +63,7 @@
         <mark key="^" line="272" column="28" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/storyMapping/containers/config/Axis.jsx" timestamp="1500861415100" />
-      <file name="/Dummy.txt" timestamp="1500879041956">
+      <file name="/Dummy.txt" timestamp="1500882253920">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -86,7 +95,13 @@
       </file>
       <file name="/RelIssueTable.jsx" timestamp="1500604257010" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/common/iconfont/iconfont.less" timestamp="1500549829008" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/topbar/components/YouAreHere.jsx" timestamp="1500880132299" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/topbar/components/YouAreHere.jsx" timestamp="1500881986022">
+        <mark key="'" line="48" column="30" />
+        <mark key="[" line="48" column="55" />
+        <mark key="]" line="48" column="71" />
+        <mark key="^" line="48" column="71" />
+        <mark key="." line="48" column="71" />
+      </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1500464222051">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
@@ -106,13 +121,14 @@
       <jump line="39" column="0" filename="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" />
       <jump line="40" column="32" filename="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" />
       <jump line="0" column="0" filename="/Dummy.txt" />
+      <jump line="48" column="30" filename="D:/codes/baidu/icafe/frontend/src/pages/topbar/components/YouAreHere.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -148,13 +164,13 @@
         <text encoding="base64">ICAgICAgICBwYWRkaW5nOiA1MHB4IDA7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/&quot;/'/g</text>
+        <text>s/&quot;/{`/g</text>
       </register>
     </registers>
     <search>
       <last-search>&quot;</last-search>
       <last-pattern>&quot;</last-pattern>
-      <last-replace>'</last-replace>
+      <last-replace>{`</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -166,6 +182,8 @@
       <history-cmd>
         <entry>s/&quot;/'</entry>
         <entry>s/&quot;/'/g</entry>
+        <entry>s/&quot;/`/g</entry>
+        <entry>s/&quot;/{`/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
