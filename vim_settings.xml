@@ -48,11 +48,11 @@
         <mark key="." line="35" column="49" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/cardList/cardItem/AddChildQuickly/AddChildQuickly.jsx" timestamp="1500463925490" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500627055698">
-        <mark key="[" line="95" column="30" />
-        <mark key="]" line="104" column="27" />
-        <mark key="." line="104" column="27" />
-        <mark key="^" line="104" column="27" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500867790808">
+        <mark key="[" line="126" column="13" />
+        <mark key="]" line="128" column="31" />
+        <mark key="." line="128" column="31" />
+        <mark key="^" line="128" column="31" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/storyMapping/containers/config/Axis.jsx" timestamp="1500861415100" />
       <file name="/Dummy.txt" timestamp="1500624889103">
@@ -62,7 +62,7 @@
         <mark key="." line="0" column="30" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.html" timestamp="1500433237601" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/searchQ/baseSearchItem/ScopeMenu.jsx" timestamp="1500864507449" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/searchQ/baseSearchItem/ScopeMenu.jsx" timestamp="1500867304730" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/PostForm.jsx" timestamp="1500609477841">
         <mark key="[" line="37" column="64" />
         <mark key="]" line="37" column="64" />
@@ -103,10 +103,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>link</text>
+        <text>eeeff7</text>
       </register>
       <register name="-" type="4">
-        <text>link</text>
+        <text>eeeff7</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
