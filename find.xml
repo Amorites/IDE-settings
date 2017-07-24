@@ -17,10 +17,13 @@
       <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.js</mask>
       <mask>*.jsx</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.</mask>
     </recentFileMasks>
   </component>
 </application>
