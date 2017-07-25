@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,13 +18,13 @@
       <mask>*.mxm</mask>
       <mask>*.mx</mask>
       <mask>*.m</mask>
-      <mask>*.jsx</mask>
-      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
       <mask>*.less</mask>
       <mask>*.</mask>
+      <mask>*.js</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
