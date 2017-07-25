@@ -93,13 +93,13 @@
         <mark key="." line="35" column="49" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/cardList/cardItem/AddChildQuickly/AddChildQuickly.jsx" timestamp="1500463925490" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500949030986">
-        <mark key="[" line="91" column="0" />
-        <mark key="]" line="91" column="0" />
-        <mark key="." line="91" column="0" />
-        <mark key="^" line="89" column="14" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500951505573">
+        <mark key="[" line="32" column="21" />
+        <mark key="]" line="32" column="21" />
+        <mark key="." line="32" column="21" />
+        <mark key="^" line="32" column="21" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/output/amd/resources/common/antd.css" timestamp="1500950346692" />
+      <file name="D:/codes/baidu/icafe/frontend/output/amd/resources/common/antd.css" timestamp="1500951500021" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/storyMapping/containers/config/Axis.jsx" timestamp="1500861415100" />
       <file name="D:/codes/baidu/xiangmuji/frontend/src/style/variables.less" timestamp="1500884483463" />
       <file name="/Dummy.txt" timestamp="1500950274752">
@@ -175,11 +175,11 @@
       <jump line="48" column="30" filename="D:/codes/baidu/icafe/frontend/src/pages/topbar/components/YouAreHere.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sb3I6IEBsaW5rOwo=</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>35</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
