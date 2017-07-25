@@ -45,10 +45,10 @@
         <mark key="^" line="40" column="61" />
       </file>
       <file name="/.babelrc" timestamp="1500545939864" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/CommentForm.jsx" timestamp="1500973938182">
-        <mark key="[" line="44" column="45" />
-        <mark key="]" line="44" column="45" />
-        <mark key="." line="44" column="45" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/CommentForm.jsx" timestamp="1500976893082">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="16" />
+        <mark key="." line="50" column="16" />
         <mark key="^" line="40" column="49" />
       </file>
       <file name="D:/codes/baidu/xiangmuji/frontend/.babelrc" timestamp="1500453047980" />
@@ -92,16 +92,16 @@
         <mark key="." line="35" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/cardList/cardItem/AddChildQuickly/AddChildQuickly.jsx" timestamp="1500463925490" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500974603783">
-        <mark key="[" line="387" column="40" />
-        <mark key="]" line="387" column="40" />
-        <mark key="." line="387" column="40" />
-        <mark key="^" line="387" column="40" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1500976531546">
+        <mark key="[" line="49" column="40" />
+        <mark key="]" line="49" column="40" />
+        <mark key="." line="49" column="40" />
+        <mark key="^" line="49" column="40" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/output/amd/resources/common/antd.css" timestamp="1500951500021" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/storyMapping/containers/config/Axis.jsx" timestamp="1500861415100" />
       <file name="D:/codes/baidu/xiangmuji/frontend/src/style/variables.less" timestamp="1500884483463" />
-      <file name="/Dummy.txt" timestamp="1500964375963">
+      <file name="/Dummy.txt" timestamp="1500976620097">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
@@ -132,11 +132,11 @@
         <mark key="^" line="67" column="80" />
         <mark key="." line="67" column="80" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/mdeditor/index.less" timestamp="1500897077750">
-        <mark key="[" line="85" column="54" />
-        <mark key="]" line="86" column="23" />
-        <mark key="^" line="86" column="23" />
-        <mark key="." line="86" column="23" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/mdeditor/index.less" timestamp="1500976479117">
+        <mark key="[" line="24" column="32" />
+        <mark key="]" line="24" column="32" />
+        <mark key="^" line="24" column="32" />
+        <mark key="." line="24" column="32" />
       </file>
       <file name="/RelIssueTable.jsx" timestamp="1500604257010" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/common/iconfont/iconfont.less" timestamp="1500549829008" />
@@ -176,10 +176,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
