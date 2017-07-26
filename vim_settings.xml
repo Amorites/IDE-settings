@@ -156,11 +156,11 @@
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/reducer.jsx" timestamp="1500901971809" />
       <file name="D:/codes/ant-design/components/_util/getScroll.tsx" timestamp="1501035459591" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1501064381161">
-        <mark key="[" line="138" column="22" />
-        <mark key="]" line="139" column="23" />
-        <mark key="." line="139" column="23" />
-        <mark key="^" line="139" column="23" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1501070802984">
+        <mark key="[" line="124" column="22" />
+        <mark key="]" line="124" column="34" />
+        <mark key="." line="124" column="34" />
+        <mark key="^" line="124" column="34" />
       </file>
     </filemarks>
     <jumps>
@@ -184,33 +184,33 @@
         <text encoding="base64">ICAgICAgICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcignc2Nyb2xsJywgdGhpcy51cGRhdGVQb3NpdGlvbik7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPEFmZml4Pgo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>(
             this.props.children
         )</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">fQo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHJldXRuCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB7dGhpcy5wcm9wcy5jaGlsZHJlbn0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICApCiAgICAgICAge3RoaXMucHJvcHMuY2hpbGRyZW59Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbXB1dGUK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3c6IHNjcm9sbDsK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/{`/g</text>
