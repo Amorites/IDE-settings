@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/widget/HideWhenScrollOut.jsx" timestamp="1501131435327">
-        <mark key="[" line="33" column="27" />
-        <mark key="]" line="33" column="38" />
-        <mark key="^" line="33" column="38" />
-        <mark key="." line="33" column="38" />
-      </file>
       <file name="D:/codes/baidu/icafe/frontend/src/fis-conf.js" timestamp="1500467324503">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="95" column="36" />
@@ -28,9 +22,6 @@
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/topbar/styles/index.less" timestamp="1501132983064">
         <mark key="[" line="44" column="9" />
-        <mark key="]" line="46" column="30" />
-        <mark key="^" line="46" column="30" />
-        <mark key="." line="46" column="30" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1501132189450">
         <mark key="[" line="183" column="0" />
@@ -43,12 +34,6 @@
         <mark key="^" line="115" column="34" />
         <mark key="." line="115" column="34" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/topbar/containers/YouAreHere.jsx" timestamp="1501123158905">
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="71" column="59" />
-        <mark key="." line="73" column="0" />
-      </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/TaskCreate.jsx" timestamp="1500903076372">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="0" />
@@ -58,12 +43,6 @@
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
-      </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1501133954770">
-        <mark key="[" line="901" column="0" />
-        <mark key="]" line="901" column="0" />
-        <mark key="." line="901" column="0" />
-        <mark key="^" line="915" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1501220133247">
         <mark key="'" line="0" column="0" />
@@ -107,16 +86,10 @@
         <mark key="." line="134" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/reducer.jsx" timestamp="1501130563209">
-        <mark key="[" line="382" column="0" />
-        <mark key="]" line="382" column="0" />
-        <mark key="^" line="381" column="7" />
-        <mark key="." line="382" column="0" />
-      </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1501139128901">
-        <mark key="[" line="127" column="114" />
-        <mark key="]" line="127" column="114" />
-        <mark key="^" line="127" column="120" />
-        <mark key="." line="127" column="114" />
+        <mark key="[" line="375" column="0" />
+        <mark key="]" line="375" column="0" />
+        <mark key="^" line="248" column="7" />
+        <mark key="." line="375" column="0" />
       </file>
     </filemarks>
     <jumps>
