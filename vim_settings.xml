@@ -10,10 +10,11 @@
         <mark key="^" line="96" column="14" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/common/widget/top/top.jsp" timestamp="1500875479773">
-        <mark key="[" line="51" column="40" />
-        <mark key="]" line="51" column="40" />
-        <mark key="." line="51" column="40" />
+      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/issue/editSidePanel.less" timestamp="1501484065514">
+        <mark key="[" line="576" column="31" />
+        <mark key="]" line="578" column="39" />
+        <mark key="^" line="578" column="39" />
+        <mark key="." line="578" column="39" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/CommentForm.jsx" timestamp="1500979762915">
         <mark key="[" line="50" column="0" />
@@ -24,6 +25,7 @@
       <file name="D:/codes/baidu/icafe/frontend/src/pages/topbar/styles/index.less" timestamp="1501132983064">
         <mark key="[" line="44" column="9" />
       </file>
+      <file name="/editSidePanel.less" timestamp="1501484028791" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/list/table.less" timestamp="1501231982692" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1501242629074">
         <mark key="[" line="183" column="0" />
@@ -43,17 +45,10 @@
         <mark key="." line="229" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/Index.jsx" timestamp="1501469547803" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/TaskCreate.jsx" timestamp="1500903076372">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/redux/reducers/session/index.jsx" timestamp="1500963326432">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1501242604080" />
+      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/issue/editSidePanel.less" timestamp="1501484006278">
+        <mark key="[" line="576" column="31" />
+      </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1501481646898">
         <mark key="[" line="913" column="31" />
         <mark key="]" line="913" column="32" />
@@ -66,9 +61,9 @@
         <mark key="^" line="1220" column="35" />
         <mark key="." line="1220" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501481944773">
+      <file name="/Dummy.txt" timestamp="1501484115856">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="11" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
@@ -90,11 +85,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="35" column="15" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/containers/DiscussList.jsx" timestamp="1501126653351">
-        <mark key="[" line="32" column="52" />
-        <mark key="]" line="32" column="52" />
-        <mark key="." line="32" column="52" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/topbar/components/YouAreHere.jsx" timestamp="1501126587752">
         <mark key="[" line="5" column="0" />
@@ -168,7 +158,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29sb3I6ICM2NDcxQjQ7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>s/&quot;/{`/g</text>
+        <text>578</text>
       </register>
     </registers>
     <search>
@@ -188,6 +178,7 @@
         <entry>s/&quot;/'/g</entry>
         <entry>s/&quot;/`/g</entry>
         <entry>s/&quot;/{`/g</entry>
+        <entry>578</entry>
       </history-cmd>
       <history-expr />
       <history-input />
