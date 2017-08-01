@@ -32,11 +32,16 @@
         <mark key="^" line="84" column="10" />
         <mark key="." line="84" column="10" />
       </file>
-      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/issue/editSidePanel.less" timestamp="1501484065514">
-        <mark key="[" line="576" column="31" />
-        <mark key="]" line="578" column="39" />
-        <mark key="^" line="578" column="39" />
-        <mark key="." line="578" column="39" />
+      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/issue/editSidePanel.less" timestamp="1501586512479">
+        <mark key="[" line="568" column="0" />
+        <mark key="]" line="568" column="43" />
+        <mark key="^" line="568" column="41" />
+        <mark key="." line="568" column="41" />
+      </file>
+      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/issue/editSidePanel.less" timestamp="1501586520870">
+        <mark key="[" line="568" column="0" />
+        <mark key="]" line="568" column="43" />
+        <mark key="." line="568" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/Index.jsx" timestamp="1501578494375">
         <mark key="'" line="9" column="7" />
@@ -70,7 +75,7 @@
         <mark key="." line="300" column="21" />
         <mark key="^" line="300" column="21" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501584714357">
+      <file name="/Dummy.txt" timestamp="1501586542312">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -162,8 +167,8 @@
       <jump line="9" column="7" filename="D:/baidu/icafe/frontend/src/pages/issue/Index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
       </register>
       <register name="-" type="4">
         <text>{}</text>
@@ -172,7 +177,7 @@
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gKCkgPT4gKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8KLy8gbGV0IHVuc3Vic2NyaWJlID0gc3RvcmUuc3Vic2NyaWJlKHN5bmNTZXNzaW9uU3RhdGVUb0xvY2FsU3RvcmFnZSgpKTsKCg==</text>
