@@ -20,11 +20,11 @@
         <mark key="^" line="96" column="14" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/discuss/Index.jsx" timestamp="1501572565629">
-        <mark key="[" line="5" column="55" />
-        <mark key="]" line="5" column="68" />
-        <mark key="^" line="5" column="68" />
-        <mark key="." line="5" column="68" />
+      <file name="D:/baidu/icafe/frontend/src/pages/discuss/Index.jsx" timestamp="1501575397713">
+        <mark key="[" line="2" column="44" />
+        <mark key="]" line="2" column="44" />
+        <mark key="^" line="2" column="44" />
+        <mark key="." line="2" column="44" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1501561059278">
         <mark key="[" line="84" column="3" />
@@ -38,10 +38,13 @@
         <mark key="^" line="578" column="39" />
         <mark key="." line="578" column="39" />
       </file>
-      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/issue/editSidePanel.less" timestamp="1501484006278">
-        <mark key="[" line="576" column="31" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/Index.jsx" timestamp="1501576553049">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="33" column="25" />
+        <mark key="^" line="33" column="25" />
+        <mark key="." line="33" column="25" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/Index.jsx" timestamp="1501570904601" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1501553658930">
         <mark key="[" line="913" column="31" />
         <mark key="]" line="913" column="32" />
@@ -67,14 +70,17 @@
         <mark key="." line="300" column="21" />
         <mark key="^" line="300" column="21" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/topbar/styles/index.less" timestamp="1501132983064">
-        <mark key="[" line="44" column="9" />
-      </file>
       <file name="/Dummy.txt" timestamp="1501570704677">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/TaskCreate.jsx" timestamp="1501576508801">
+        <mark key="[" line="34" column="3" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="35" column="0" />
+        <mark key="." line="1" column="34" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/PostForm.jsx" timestamp="1500973879489">
         <mark key="[" line="46" column="0" />
@@ -107,17 +113,18 @@
         <mark key="." line="115" column="34" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Board.jsx" timestamp="1501560304901" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormDisplay.jsx" timestamp="1501576010403" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/topbar/components/YouAreHere.jsx" timestamp="1501126587752">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="60" column="30" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/redux/store.jsx" timestamp="1501573020120">
-        <mark key="[" line="96" column="27" />
-        <mark key="]" line="18" column="43" />
-        <mark key="." line="18" column="43" />
-        <mark key="^" line="18" column="43" />
+      <file name="D:/baidu/icafe/frontend/src/pages/redux/store.jsx" timestamp="1501575129418">
+        <mark key="[" line="83" column="22" />
+        <mark key="]" line="83" column="21" />
+        <mark key="." line="83" column="21" />
+        <mark key="^" line="83" column="21" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1501558728875">
         <mark key="[" line="134" column="0" />
@@ -151,50 +158,47 @@
       <jump line="40" column="32" filename="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" />
       <jump line="0" column="0" filename="/Dummy.txt" />
       <jump line="48" column="30" filename="D:/codes/baidu/icafe/frontend/src/pages/topbar/components/YouAreHere.jsx" />
+      <jump line="4" column="4" filename="D:/baidu/icafe/frontend/src/pages/issue/Index.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>若菩萨=</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>若菩萨=</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">PFByb3ZpZGVyIHN0b3JlPXtzdG9yZX0+CiAgICAgICAgICAgIDxMYXlvdXQgc3BhY2VJbmZvPXtzcGFjZUluZm99Lz4KICAgICAgICA8L1Byb3ZpZGVyPg==</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y29uc3QgbWFwU3RhdGVUb1Byb3BzID0gKCkgPT4gKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8TGF5b3V0IHNwYWNlSW5mbz17c3BhY2VJbmZvfS8+Cg==</text>
+        <text encoding="base64">bWFwU3RhdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICBzZXNzaW9uOiB7CiAgICAgICAgICAgIHVzZXJuYW1lOiAnbGlob25nZGEnCiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IHtGb3JtLCBJbnB1dCwgQnV0dG9uLCBNb2RhbCwgbWVzc2FnZX0gZnJvbSAnYW50ZCc7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3NOYW1lPSJpc3N1ZXMtY29udGFpbmVyIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaXNzdWVzLWZpbHRlciI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxUYXNrQ3JlYXRlIGRpc3BhdGNoPXtzdG9yZS5kaXNwYXRjaH0gc3BhY2VJbmZvPXtzcGFjZUluZm99Lz4KICAgICAgICAgICAgICAgICAgICAgICAgPFNlYXJjaFEgb25DaGFuZ2U9e2lxbFN0ciA9PiBzdG9yZS5kaXNwYXRjaChnZXRJc3N1ZUxpc3Qoc3BhY2VJbmZvLmlkLCB7cTogaXFsU3RyfSkpfSBzcGFjZUlkPXtzcGFjZUluZm8uaWR9IHByZWZpeENvZGU9e3NwYWNlSW5mby5wcmVmaXhDb2RlfS8+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPExpc3RDb250ZW50IHNwYWNlSWQ9e3NwYWNlSW5mby5pZH0vPgogICAgICAgICAgICAgICAgICAgIDxGb3JtVGFza0NyZWF0ZSAvPgogICAgICAgICAgICAgICAgICAgIDxGb3JtRGlzcGxheSBtb2RlPSJzaWRlUGFuZWwiIGNvbHVtbnM9ezJ9IC8+CiAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gY29uc3Qgcm9vdFJlZHVjZXIgPSBjb21iaW5lUmVkdWNlcnMoewovLyAgICAgZGlzY3Vzc1N0YXRlCi8vIH0pOwovLwovLyBjb25zdCBjb25maWd1cmVTdG9yZSA9IChwcmVsb2FkZWRTdGF0ZSkgPT4gewovLyAgICAgcmV0dXJuIGNyZWF0ZVN0b3JlKAovLyAgICAgICAgIHJvb3RSZWR1Y2VyLAovLyAgICAgICAgIHByZWxvYWRlZFN0YXRlLAovLyAgICAgICAgIGNvbXBvc2UoCi8vICAgICAgICAgICAgIGFwcGx5TWlkZGxld2FyZSgKLy8gICAgICAgICAgICAgICAgIGNsaWVudE1pZGRsZXdhcmUoKQovLyAgICAgICAgICAgICApLAovLyAgICAgICAgICAgICB0eXBlb2Ygd2luZG93LmRldlRvb2xzRXh0ZW5zaW9uID09PSAnZnVuY3Rpb24nID8gd2luZG93LmRldlRvb2xzRXh0ZW5zaW9uKCkgOiBmID0+IGYKLy8gICAgICAgICApCi8vICAgICApOwovLyB9Ci8vCg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3NOYW1lPSJpc3N1ZXMtY29udGFpbmVyIj4KICAgICAgICA8ZGl2IGNsYXNzTmFtZT0iaXNzdWVzLWZpbHRlciI+CiAgICAgICAgICAgIDxUYXNrQ3JlYXRlIGRpc3BhdGNoPXtzdG9yZS5kaXNwYXRjaH0gc3BhY2VJbmZvPXtzcGFjZUluZm99Lz4KICAgICAgICAgICAgPFNlYXJjaFEgb25DaGFuZ2U9e2lxbFN0ciA9PiBzdG9yZS5kaXNwYXRjaChnZXRJc3N1ZUxpc3Qoc3BhY2VJbmZvLmlkLCB7cTogaXFsU3RyfSkpfSBzcGFjZUlkPXtzcGFjZUluZm8uaWR9IHByZWZpeENvZGU9e3NwYWNlSW5mby5wcmVmaXhDb2RlfS8+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPExpc3RDb250ZW50IHNwYWNlSWQ9e3NwYWNlSW5mby5pZH0vPgogICAgICAgIDxGb3JtVGFza0NyZWF0ZSAvPgogICAgICAgIDxGb3JtRGlzcGxheSBtb2RlPSJzaWRlUGFuZWwiIGNvbHVtbnM9ezJ9IC8+CiAgICA8L2Rpdj4K</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-                    
-                }</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IHsgZGlzY3Vzc1N0YXRlIH0gZnJvbSAncmVkdWNlci5qc3gnOwppbXBvcnQgeyBjcmVhdGVTdG9yZSwgYXBwbHlNaWRkbGV3YXJlLCBjb21wb3NlLCBjb21iaW5lUmVkdWNlcnMgfSBmcm9tICdyZWR1eCc7CmltcG9ydCBjbGllbnRNaWRkbGV3YXJlIGZyb20gJy4uL3JlZHV4L21pZGRsZXdhcmVzL2NsaWVudE1pZGRsZXdhcmUuanN4JzsK</text>
       </register>
-      <register name="6" type="4">
-        <text>{
-                    
-                }</text>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IGdldENvbXBvbmVudCA9KHtzcGFjZUluZm8sIHVzZXJJbmZvfSkgPT4gewovLyAgICAgY29uc3Qgc3RvcmUgPSBjb25maWd1cmVTdG9yZSh7Ci8vICAgICAgICAgc2Vzc2lvbjogewovLyAgICAgICAgICAgICB1c2VySWQ6IHVzZXJJbmZvLmlkLAovLyAgICAgICAgICAgICBzcGFjZUlkOiBzcGFjZUluZm8uaWQsCi8vICAgICAgICAgICAgIHNwYWNlQ29kZTogc3BhY2VJbmZvLnByZWZpeENvZGUsCi8vICAgICAgICAgfSwKLy8gICAgICAgICBlbnRpdGllczogewovLyAgICAgICAgICAgICBzcGFjZXM6IHsKLy8gICAgICAgICAgICAgICAgIFtzcGFjZUluZm8uaWRdOiB7Ci8vICAgICAgICAgICAgICAgICAgICAgaWQ6IHNwYWNlSW5mby5pZCwKLy8gICAgICAgICAgICAgICAgICAgICBuYW1lOiBzcGFjZUluZm8ubmFtZSwKLy8gICAgICAgICAgICAgICAgICAgICBjb2RlOiBzcGFjZUluZm8ucHJlZml4Q29kZSwKLy8gICAgICAgICAgICAgICAgIH0sCi8vICAgICAgICAgICAgIH0sCi8vICAgICAgICAgICAgIHVzZXJzOiB7Ci8vICAgICAgICAgICAgICAgICBbdXNlckluZm8uaWRdOiB1c2VySW5mbywKLy8gICAgICAgICAgICAgICAgIFt1c2VySW5mby5uYW1lXTogdXNlckluZm8sCi8vICAgICAgICAgICAgICAgICBjdXJyZW50VXNlcjogdXNlckluZm8sCi8vICAgICAgICAgICAgIH0KLy8gICAgICAgICB9LAovLyAgICAgfSk7Ci8vICAgICBjb25zdCB1bnN1YnNjcmliZSA9IHN0b3JlLnN1YnNjcmliZShzeW5jU2Vzc2lvblN0YXRlVG9Mb2NhbFN0b3JhZ2UoKSk7Ci8vICAgICBNZW50aW9uLnNwYWNlSWQgPSBzcGFjZUluZm8uaWQ7Ci8vICAgICByZXR1cm4gPFByb3ZpZGVyIHN0b3JlPXtzdG9yZX0+Ci8vICAgICAgICAgICAgIDxMYXlvdXQgc3BhY2VJbmZvPXtzcGFjZUluZm99Lz4KLy8gICAgICAgICA8L1Byb3ZpZGVyPgovLyB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHVzZXIgPSB7CiAgICAgICAgaWQ6CiAgICB9Cg==</text>
+        <text encoding="base64">Ly8gY29uc3Qgc3RvcmUgPSBjcmVhdGVTdG9yZSgKLy8gICAgIHJvb3RSZWR1Y2VyLAovLyAgICAgcHJlbG9hZGVkU3RhdGUsCi8vICAgICBjb21wb3NlKAovLyAgICAgICAgIGFwcGx5TWlkZGxld2FyZSgKLy8gICAgICAgICAgICAgcm91dGVyTWlkZGxld2FyZShicm93c2VySGlzdG9yeSksCi8vICAgICAgICAgICAgIGNsaWVudE1pZGRsZXdhcmUoKSwKLy8gICAgICAgICApLAovLyAgICAgICAgIHR5cGVvZiB3aW5kb3cuZGV2VG9vbHNFeHRlbnNpb24gPT09ICdmdW5jdGlvbicgPyB3aW5kb3cuZGV2VG9vbHNFeHRlbnNpb24oKSA6IGYgPT4gZgovLyAgICAgKQovLyApOwovLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXIK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvIGRlZXBNZXJnZSBmb3IgZW50aXRpZXMudXNlcgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFt1c2VySW5mby5pZF06IHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA8TGF5b3V0IHNwYWNlSW5mbz17c3BhY2VJbmZvfS8+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>578</text>
@@ -252,6 +256,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
