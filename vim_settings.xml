@@ -50,11 +50,12 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/redux/store.jsx" timestamp="1501554644736" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1501242604080" />
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/issue/editSidePanel.less" timestamp="1501484006278">
         <mark key="[" line="576" column="31" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1501504835608">
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1501553658930">
         <mark key="[" line="913" column="31" />
         <mark key="]" line="913" column="32" />
         <mark key="." line="913" column="32" />
@@ -66,14 +67,14 @@
         <mark key="^" line="1220" column="35" />
         <mark key="." line="1220" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501496214613">
+      <file name="/Dummy.txt" timestamp="1501554265833">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/index.less" timestamp="1501231624450" />
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/Index.jsx" timestamp="1501504901124" />
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/Index.jsx" timestamp="1501553964279" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/PostForm.jsx" timestamp="1500973879489">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="52" column="27" />
@@ -98,7 +99,7 @@
         <mark key="^" line="60" column="30" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1500464222051">
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1501555200293">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="^" line="133" column="39" />
@@ -115,6 +116,7 @@
         <mark key="]" line="143" column="20" />
         <mark key="." line="143" column="20" />
       </file>
+      <file name="/Index.jsx" timestamp="1501554438163" />
     </filemarks>
     <jumps>
       <jump line="38" column="32" filename="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" />
