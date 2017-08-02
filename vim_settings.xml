@@ -80,7 +80,7 @@
         <mark key="^" line="300" column="21" />
         <mark key="." line="165" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501660246628">
+      <file name="/Dummy.txt" timestamp="1501679079566">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -124,10 +124,11 @@
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Board.jsx" timestamp="1501560304901" />
       <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormDisplay.jsx" timestamp="1501576010403" />
-      <file name="D:/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1501677477388">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="28" />
-        <mark key="." line="95" column="0" />
+      <file name="D:/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1501678841512">
+        <mark key="[" line="97" column="25" />
+        <mark key="]" line="98" column="29" />
+        <mark key="." line="98" column="29" />
+        <mark key="^" line="98" column="29" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/topbar/components/YouAreHere.jsx" timestamp="1501126587752">
         <mark key="[" line="5" column="0" />
