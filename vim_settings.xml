@@ -68,7 +68,6 @@
         <mark key="." line="50" column="16" />
         <mark key="^" line="40" column="49" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/reducer/CreateAndEdit.jsx" timestamp="1501561668983" />
       <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1501577065209">
         <mark key="[" line="300" column="20" />
         <mark key="]" line="300" column="21" />
@@ -145,7 +144,7 @@
       </file>
       <file name="D:/baidu/icafe/frontend/src/webpack/share.js" timestamp="1501577889412" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/reducers/index.jsx" timestamp="1501565285461" />
-      <file name="D:/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1501572937727">
+      <file name="D:/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1501645353223">
         <mark key="[" line="38" column="0" />
         <mark key="]" line="38" column="28" />
         <mark key="." line="38" column="28" />
