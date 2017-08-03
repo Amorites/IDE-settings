@@ -13,6 +13,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/mdeditor/lib/CodeMirrorMarkdown.jsx" timestamp="1501742148379">
+        <mark key="[" line="0" column="33" />
+        <mark key="]" line="0" column="33" />
+        <mark key="^" line="0" column="33" />
+        <mark key="." line="0" column="33" />
+      </file>
       <file name="D:/codes/baidu/icafe/frontend/src/fis-conf.js" timestamp="1500467324503">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="95" column="36" />
@@ -31,7 +37,7 @@
         <mark key="^" line="108" column="27" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1501561059278">
+      <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1501742197551">
         <mark key="[" line="84" column="3" />
         <mark key="]" line="84" column="10" />
         <mark key="^" line="84" column="10" />
@@ -67,18 +73,20 @@
         <mark key="^" line="1220" column="35" />
         <mark key="." line="1220" column="35" />
       </file>
+      <file name="/require-conf.js" timestamp="1501741088188" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/CommentForm.jsx" timestamp="1500979762915">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="16" />
         <mark key="." line="50" column="16" />
         <mark key="^" line="40" column="49" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1501742153907" />
       <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1501658502003">
         <mark key="[" line="165" column="45" />
         <mark key="]" line="165" column="45" />
         <mark key="." line="165" column="45" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501739814083">
+      <file name="/Dummy.txt" timestamp="1501741642019">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -90,6 +98,7 @@
         <mark key="^" line="1" column="18" />
         <mark key="." line="1" column="18" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/common/conf.js" timestamp="1501742158477" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/PostForm.jsx" timestamp="1500973879489">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="52" column="27" />
@@ -173,10 +182,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">c3luY1Nlc3Npb25TdGF0ZVRvTG9jYWxTdG9yYWdlIA==</text>
+        <text>codemirror</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">c3luY1Nlc3Npb25TdGF0ZVRvTG9jYWxTdG9yYWdlIA==</text>
+        <text>codemirror</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
