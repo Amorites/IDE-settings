@@ -56,12 +56,12 @@
         <mark key="." line="50" column="16" />
         <mark key="^" line="40" column="49" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1501834577036">
+      <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1501847695401">
         <mark key="'" line="43" column="4" />
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="^" line="67" column="91" />
-        <mark key="." line="237" column="0" />
+        <mark key="[" line="165" column="148" />
+        <mark key="]" line="165" column="148" />
+        <mark key="^" line="165" column="148" />
+        <mark key="." line="165" column="148" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/TaskCreate.jsx" timestamp="1501835948605">
         <mark key="[" line="10" column="0" />
@@ -132,13 +132,14 @@
         <mark key="." line="4" column="9" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/topbar/components/Search.jsx" timestamp="1501827433264" />
+      <file name="D:/baidu/icafe/frontend/src/pages/topbar/components/YouAreHere.jsx" timestamp="1501847285792" />
       <file name="D:/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1501819884356">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="60" column="70" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501836846969">
+      <file name="/Dummy.txt" timestamp="1501847855740">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -161,6 +162,9 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="35" column="15" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/topbar/containers/YouAreHere.jsx" timestamp="1501847147028">
+        <mark key="[" line="70" column="75" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1501833575078">
         <mark key="[" line="901" column="25" />
@@ -215,10 +219,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://</text>
+        <text>current</text>
       </register>
       <register name="-" type="4">
-        <text>http://</text>
+        <text>current</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
