@@ -62,11 +62,11 @@
         <mark key="." line="80" column="96" />
         <mark key="^" line="80" column="96" />
       </file>
-      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/issue/editSidePanel.less" timestamp="1502092369116">
-        <mark key="[" line="680" column="35" />
-        <mark key="]" line="680" column="36" />
-        <mark key="." line="680" column="36" />
-        <mark key="^" line="680" column="36" />
+      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/issue/editSidePanel.less" timestamp="1502095309576">
+        <mark key="[" line="653" column="39" />
+        <mark key="]" line="654" column="27" />
+        <mark key="." line="654" column="27" />
+        <mark key="^" line="654" column="27" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1501553658930">
         <mark key="[" line="913" column="31" />
@@ -117,7 +117,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502091229435">
+      <file name="/Dummy.txt" timestamp="1502095216065">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -223,7 +223,7 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/issue/widget/editSidePanel/components/issueElement.jsx" timestamp="1502092628099">
+      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/issue/widget/editSidePanel/components/issueElement.jsx" timestamp="1502094431217">
         <mark key="[" line="198" column="62" />
         <mark key="]" line="198" column="75" />
         <mark key="." line="198" column="75" />
@@ -261,10 +261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>visibility: 'hidden'</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text>visibility: 'hidden'</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
