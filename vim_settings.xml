@@ -111,7 +111,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502027647674">
+      <file name="/Dummy.txt" timestamp="1502083340695">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -122,6 +122,12 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="42" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="D:/codes/babel-react-rollup-starter/src/components/dummy-component.jsx" timestamp="1502082987844">
+        <mark key="[" line="7" column="38" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/PostForm.jsx" timestamp="1500973879489">
         <mark key="[" line="46" column="0" />
@@ -156,7 +162,7 @@
         <mark key="^" line="115" column="34" />
         <mark key="." line="115" column="34" />
       </file>
-      <file name="D:/codes/babel-react-rollup-starter/package.json" timestamp="1502073011227">
+      <file name="D:/codes/babel-react-rollup-starter/package.json" timestamp="1502083334945">
         <mark key="[" line="53" column="65" />
         <mark key="]" line="53" column="65" />
         <mark key="^" line="53" column="48" />
@@ -170,11 +176,10 @@
         <mark key="]" line="903" column="0" />
         <mark key="." line="903" column="0" />
       </file>
-      <file name="D:/codes/babel-react-rollup-starter/README.md" timestamp="1502082179114">
-        <mark key="[" line="30" column="38" />
-        <mark key="]" line="30" column="36" />
-        <mark key="." line="30" column="36" />
-        <mark key="^" line="30" column="36" />
+      <file name="D:/codes/babel-react-rollup-starter/README.md" timestamp="1502082896208">
+        <mark key="[" line="46" column="4" />
+        <mark key="]" line="46" column="6" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/topbar/components/YouAreHere.jsx" timestamp="1501126587752">
         <mark key="[" line="5" column="0" />
@@ -225,8 +230,8 @@
       <jump line="43" column="4" filename="D:/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>4</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSDJz8/fxeTWwwo=</text>
       </register>
       <register name="-" type="4">
         <text>4</text>
@@ -238,28 +243,28 @@
         <text encoding="base64">Ly8gICAgIGluaXRJc3N1ZUZvcm06IGRpc3BhdGNoKGFjdGlvbnMuaW5pdElzc3VlRm9ybSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIFByb2R1Y3Rpb24KCjEuIEZpcnN0IHJ1biB0aGUgZm9sbG93aW5nIGNvbW1hbmQ6CgogYGBgc2gKIG5wbSBydW4gYnVpbGQKIGBgYAoKMi4gT3BlbiBgaHRtbC9pbmRleC5odG1sYCBpbiB5b3VyIGJyb3dzZXIuCgpUaGUgUm9sbHVwIHByb2R1Y3Rpb24gY29uZmlndXJhdGlvbiBmaWxlIGNoYW5nZXMgYE5PREVfRU5WYCB0byBwcm9kdWN0aW9uIGFuZCBtaW5pZmllcyB0aGUgY29kZSB3aXRoIFtVZ2xpZnlKU10oaHR0cDovL2xpc3BlcmF0b3IubmV0L3VnbGlmeWpzLykuCgo=</text>
+        <text encoding="base64">LSDJz8/fxeTWwwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VG8gZ2VuZXJhdGUgYSBkZXZlbG9wbWVudCBidW5kbGU6Cg==</text>
+        <text encoding="base64">IyMjIFByb2R1Y3Rpb24KCjEuIEZpcnN0IHJ1biB0aGUgZm9sbG93aW5nIGNvbW1hbmQ6CgogYGBgc2gKIG5wbSBydW4gYnVpbGQKIGBgYAoKMi4gT3BlbiBgaHRtbC9pbmRleC5odG1sYCBpbiB5b3VyIGJyb3dzZXIuCgpUaGUgUm9sbHVwIHByb2R1Y3Rpb24gY29uZmlndXJhdGlvbiBmaWxlIGNoYW5nZXMgYE5PREVfRU5WYCB0byBwcm9kdWN0aW9uIGFuZCBtaW5pZmllcyB0aGUgY29kZSB3aXRoIFtVZ2xpZnlKU10oaHR0cDovL2xpc3BlcmF0b3IubmV0L3VnbGlmeWpzLykuCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UnVubmluZyB0aGUgZm9sbG93aW5nIGNvbW1hbmQgd2lsbCBvcGVuIHlvdXIgZGVmYXVsdCBicm93c2VyIHRvIGBodG1sL2luZGV4LWRldi5odG1sYC4gVGhhbmtzIHRvIFtCcm93c2Vyc3luY10oaHR0cHM6Ly93d3cuYnJvd3NlcnN5bmMuaW8vKSwgYW55IG1vZGlmaWNhdGlvbnMgaW5zaWRlIGBzcmNgIHRyaWdnZXIgYSBicm93c2VyIHJlZnJlc2g6Cg==</text>
+        <text encoding="base64">VG8gZ2VuZXJhdGUgYSBkZXZlbG9wbWVudCBidW5kbGU6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Rm9yIGEgZmFzdGVyIGluc3RhbGxhdGlvbiwgdXNlIFt5YXJuXShodHRwczovL3lhcm5wa2cuY29tL2VuLykgaW5zdGVhZCBvZiBucG0uCg==</text>
+        <text encoding="base64">UnVubmluZyB0aGUgZm9sbG93aW5nIGNvbW1hbmQgd2lsbCBvcGVuIHlvdXIgZGVmYXVsdCBicm93c2VyIHRvIGBodG1sL2luZGV4LWRldi5odG1sYC4gVGhhbmtzIHRvIFtCcm93c2Vyc3luY10oaHR0cHM6Ly93d3cuYnJvd3NlcnN5bmMuaW8vKSwgYW55IG1vZGlmaWNhdGlvbnMgaW5zaWRlIGBzcmNgIHRyaWdnZXIgYSBicm93c2VyIHJlZnJlc2g6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">T3IgdXNpbmcgR2l0OgoKYGBgc2gKZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS95YW1hZmFrdG9yeS9iYWJlbC1yZWFjdC1yb2xsdXAtc3RhcnRlci5naXQKY2QgYmFiZWwtcmVhY3Qtcm9sbHVwLXN0YXJ0ZXIKbnBtIGkKYGBgCg==</text>
+        <text encoding="base64">Rm9yIGEgZmFzdGVyIGluc3RhbGxhdGlvbiwgdXNlIFt5YXJuXShodHRwczovL3lhcm5wa2cuY29tL2VuLykgaW5zdGVhZCBvZiBucG0uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">T3IgdXNpbmcgR2l0OgoKYGBgc2gKZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS95YW1hZmFrdG9yeS9iYWJlbC1yZWFjdC1yb2xsdXAtc3RhcnRlci5naXQKY2QgYmFiZWwtcmVhY3Qtcm9sbHVwLXN0YXJ0ZXIKbnBtIGkKYGBgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VmlhICoqbnBtKiogaW50byBhIGZyZXNoIHByb2plY3Q6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAjZmZmOwo=</text>
+        <text encoding="base64">VmlhICoqbnBtKiogaW50byBhIGZyZXNoIHByb2plY3Q6Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAjZmZmOwo=</text>
