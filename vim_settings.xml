@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/codes/babel-react-rollup-starter/html/index-dev.html" timestamp="1502028842921" />
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/discuss/widget/index.js" timestamp="1501820476635">
         <mark key="[" line="398" column="28" />
         <mark key="]" line="398" column="28" />
@@ -28,6 +27,12 @@
         <mark key="^" line="96" column="14" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/discuss/Index.jsx" timestamp="1501731880769">
+        <mark key="[" line="1" column="31" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/discuss/components/DiscussTableView.jsx" timestamp="1501828007998">
         <mark key="[" line="191" column="24" />
         <mark key="]" line="190" column="52" />
@@ -39,76 +44,18 @@
         <mark key="]" line="76" column="41" />
         <mark key="." line="76" column="41" />
       </file>
-      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/issue/editSidePanel.less" timestamp="1501586512479">
-        <mark key="[" line="568" column="0" />
-        <mark key="]" line="568" column="43" />
-        <mark key="^" line="568" column="41" />
-        <mark key="." line="568" column="41" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1501833680732">
-        <mark key="[" line="212" column="0" />
-        <mark key="]" line="212" column="0" />
-        <mark key="." line="212" column="0" />
-        <mark key="^" line="185" column="75" />
-      </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/CommentForm.jsx" timestamp="1500979762915">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="16" />
-        <mark key="." line="50" column="16" />
-        <mark key="^" line="40" column="49" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1501847695401">
-        <mark key="'" line="43" column="4" />
-        <mark key="[" line="165" column="148" />
-        <mark key="]" line="165" column="148" />
-        <mark key="^" line="165" column="148" />
-        <mark key="." line="165" column="148" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/TaskCreate.jsx" timestamp="1501835948605">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="31" column="0" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/common/conf.js" timestamp="1501819814415">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="14" column="42" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="/editSidePanel.less" timestamp="1501845860151" />
-      <file name="D:/baidu/icafe/frontend/src/pages/discuss/components/MDEditor.jsx" timestamp="1501739919613">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="12" column="26" />
-        <mark key="^" line="12" column="26" />
-        <mark key="." line="12" column="26" />
-      </file>
-      <file name="D:/codes/baidu/icafe/frontend/src/pages/common/utils/Date.jsx" timestamp="1500529189443">
-        <mark key="[" line="115" column="33" />
-        <mark key="]" line="115" column="34" />
-        <mark key="^" line="115" column="34" />
-        <mark key="." line="115" column="34" />
-      </file>
-      <file name="D:/codes/babel-react-rollup-starter/package.json" timestamp="1502028830171" />
-      <file name="D:/baidu/icafe/frontend/src/webpack/share-package.json" timestamp="1501817772246">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="18" />
-        <mark key="." line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-      </file>
-      <file name="D:/codes/babel-react-rollup-starter/config/dev.js" timestamp="1502027160069" />
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/OperationModals.jsx" timestamp="1501835563507" />
-      <file name="D:/baidu/icafe/frontend/src/pages/discuss/Index.jsx" timestamp="1501731880769">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-      </file>
       <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1501742197551">
         <mark key="[" line="84" column="3" />
         <mark key="]" line="84" column="10" />
         <mark key="^" line="84" column="10" />
         <mark key="." line="84" column="10" />
+      </file>
+      <file name="D:/codes/babel-react-rollup-starter/html/index.html" timestamp="1502072393355" />
+      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/issue/editSidePanel.less" timestamp="1501586512479">
+        <mark key="[" line="568" column="0" />
+        <mark key="]" line="568" column="43" />
+        <mark key="^" line="568" column="41" />
+        <mark key="." line="568" column="41" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/topbar/components/MyLinks.jsx" timestamp="1501841689685">
         <mark key="[" line="80" column="96" />
@@ -116,7 +63,6 @@
         <mark key="." line="80" column="96" />
         <mark key="^" line="80" column="96" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/common/iconfont/iconfont.less" timestamp="1501850881576" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/index.less" timestamp="1501553658930">
         <mark key="[" line="913" column="31" />
         <mark key="]" line="913" column="32" />
@@ -135,13 +81,36 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/topbar/components/Search.jsx" timestamp="1501827433264" />
-      <file name="D:/baidu/icafe/frontend/src/pages/topbar/components/YouAreHere.jsx" timestamp="1501847285792" />
+      <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1501833680732">
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="212" column="0" />
+        <mark key="." line="212" column="0" />
+        <mark key="^" line="185" column="75" />
+      </file>
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/CommentForm.jsx" timestamp="1500979762915">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="16" />
+        <mark key="." line="50" column="16" />
+        <mark key="^" line="40" column="49" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1501819884356">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="^" line="60" column="70" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1501847695401">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="165" column="148" />
+        <mark key="]" line="165" column="148" />
+        <mark key="^" line="165" column="148" />
+        <mark key="." line="165" column="148" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/TaskCreate.jsx" timestamp="1501835948605">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1502027647674">
         <mark key="'" line="0" column="0" />
@@ -149,11 +118,20 @@
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/common/conf.js" timestamp="1501819814415">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/PostForm.jsx" timestamp="1500973879489">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="52" column="27" />
         <mark key="." line="52" column="27" />
         <mark key="^" line="46" column="15" />
+      </file>
+      <file name="D:/codes/babel-react-rollup-starter/.gitignore" timestamp="1502073894323">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/topbar/components/Help.jsx" timestamp="1500875104089">
         <mark key="[" line="18" column="38" />
@@ -161,11 +139,29 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="41" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/discuss/components/MDEditor.jsx" timestamp="1501739919613">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
+      </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/DiscussTableView.jsx" timestamp="1501126508281">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="35" column="15" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="D:/codes/baidu/icafe/frontend/src/pages/common/utils/Date.jsx" timestamp="1500529189443">
+        <mark key="[" line="115" column="33" />
+        <mark key="]" line="115" column="34" />
+        <mark key="^" line="115" column="34" />
+        <mark key="." line="115" column="34" />
+      </file>
+      <file name="D:/codes/babel-react-rollup-starter/package.json" timestamp="1502073011227">
+        <mark key="[" line="53" column="65" />
+        <mark key="]" line="53" column="65" />
+        <mark key="^" line="53" column="48" />
+        <mark key="." line="53" column="65" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/topbar/containers/YouAreHere.jsx" timestamp="1501847147028">
         <mark key="[" line="70" column="75" />
@@ -174,6 +170,12 @@
         <mark key="[" line="903" column="0" />
         <mark key="]" line="903" column="0" />
         <mark key="." line="903" column="0" />
+      </file>
+      <file name="D:/codes/babel-react-rollup-starter/README.md" timestamp="1502075772711">
+        <mark key="[" line="27" column="7" />
+        <mark key="]" line="27" column="7" />
+        <mark key="." line="27" column="7" />
+        <mark key="^" line="27" column="5" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/topbar/components/YouAreHere.jsx" timestamp="1501126587752">
         <mark key="[" line="5" column="0" />
@@ -187,13 +189,18 @@
         <mark key="." line="103" column="16" />
         <mark key="^" line="103" column="16" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/webpack/share-package.json" timestamp="1501817772246">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
+      </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1501558728875">
         <mark key="[" line="134" column="0" />
         <mark key="]" line="134" column="0" />
         <mark key="^" line="133" column="39" />
         <mark key="." line="134" column="0" />
       </file>
-      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/test/resources/issue.properties" timestamp="1501845760674" />
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/reducer.jsx" timestamp="1501130563209">
         <mark key="[" line="375" column="0" />
         <mark key="]" line="375" column="0" />
@@ -206,9 +213,6 @@
         <mark key="." line="10" column="25" />
         <mark key="^" line="10" column="25" />
       </file>
-      <file name="D:/baidu/icafe/frontend/output/amd/pages/README.md" timestamp="1501818747286" />
-      <file name="D:/baidu/icafe/frontend/src/pages/README.md" timestamp="1501818902097" />
-      <file name="D:/baidu/icafe/frontend/src/pages/discuss/components/ConnectPanel.jsx" timestamp="1501849067602" />
     </filemarks>
     <jumps>
       <jump line="38" column="32" filename="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" />
@@ -222,11 +226,11 @@
       <jump line="43" column="4" filename="D:/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAjZmZmOwo=</text>
+      <register name="&quot;" type="4">
+        <text>（pr welcome)</text>
       </register>
       <register name="-" type="4">
-        <text>current</text>
+        <text>（pr welcome)</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -235,31 +239,31 @@
         <text encoding="base64">Ly8gICAgIGluaXRJc3N1ZUZvcm06IGRpc3BhdGNoKGFjdGlvbnMuaW5pdElzc3VlRm9ybSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAjZmZmOwo=</text>
+        <text encoding="base64">IyMjIFByb2R1Y3Rpb24KCjEuIEZpcnN0IHJ1biB0aGUgZm9sbG93aW5nIGNvbW1hbmQ6CgogYGBgc2gKIG5wbSBydW4gYnVpbGQKIGBgYAoKMi4gT3BlbiBgaHRtbC9pbmRleC5odG1sYCBpbiB5b3VyIGJyb3dzZXIuCgpUaGUgUm9sbHVwIHByb2R1Y3Rpb24gY29uZmlndXJhdGlvbiBmaWxlIGNoYW5nZXMgYE5PREVfRU5WYCB0byBwcm9kdWN0aW9uIGFuZCBtaW5pZmllcyB0aGUgY29kZSB3aXRoIFtVZ2xpZnlKU10oaHR0cDovL2xpc3BlcmF0b3IubmV0L3VnbGlmeWpzLykuCgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAjZmZmOwo=</text>
+        <text encoding="base64">VG8gZ2VuZXJhdGUgYSBkZXZlbG9wbWVudCBidW5kbGU6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7LyoqL30K</text>
+        <text encoding="base64">UnVubmluZyB0aGUgZm9sbG93aW5nIGNvbW1hbmQgd2lsbCBvcGVuIHlvdXIgZGVmYXVsdCBicm93c2VyIHRvIGBodG1sL2luZGV4LWRldi5odG1sYC4gVGhhbmtzIHRvIFtCcm93c2Vyc3luY10oaHR0cHM6Ly93d3cuYnJvd3NlcnN5bmMuaW8vKSwgYW55IG1vZGlmaWNhdGlvbnMgaW5zaWRlIGBzcmNgIHRyaWdnZXIgYSBicm93c2VyIHJlZnJlc2g6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY2xpYXNkanBvZmlqcXdlaXUnKTsK</text>
+        <text encoding="base64">Rm9yIGEgZmFzdGVyIGluc3RhbGxhdGlvbiwgdXNlIFt5YXJuXShodHRwczovL3lhcm5wa2cuY29tL2VuLykgaW5zdGVhZCBvZiBucG0uCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">T3IgdXNpbmcgR2l0OgoKYGBgc2gKZ2l0IGNsb25lIGh0dHBzOi8vZ2l0aHViLmNvbS95YW1hZmFrdG9yeS9iYWJlbC1yZWFjdC1yb2xsdXAtc3RhcnRlci5naXQKY2QgYmFiZWwtcmVhY3Qtcm9sbHVwLXN0YXJ0ZXIKbnBtIGkKYGBgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gY29uc3QgbWFwU3RhdGVUb1Byb3BzID0gKHN0YXRlKSA9PnsKLy8gICAgIGNvbnN0IHsgc2Vzc2lvbiB9ID0gc3RhdGU7Ci8vICAgICBjb25zdCBzcGFjZUluZm8gPSB7aWQ6IHNlc3Npb24uc3BhY2VJZCwgcHJlZml4Q29kZTogc2Vzc2lvbi5zcGFjZUNvZGV9OwovLyAgICAgcmV0dXJuIHsKLy8gICAgICAgICBzcGFjZUluZm8KLy8gICAgIH0KLy8gfTsKCg==</text>
+        <text encoding="base64">VmlhICoqbnBtKiogaW50byBhIGZyZXNoIHByb2plY3Q6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgbWFwRGlzcGF0Y2hUb1Byb3BzID0gKGRpc3BhdGNoKSA9PiAoewo=</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAjZmZmOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gY29uc3QgbWFwRGlzcGF0Y2hUb1Byb3BzID0gKGRpc3BhdGNoKSA9PiAoewovLyAgICAgaW5pdElzc3VlRm9ybTogZGlzcGF0Y2goYWN0aW9ucy5pbml0SXNzdWVGb3JtKSwKLy8gfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kOiAjZmZmOwo=</text>
       </register>
       <register name=":" type="4">
         <text>578</text>
