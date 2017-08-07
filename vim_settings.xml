@@ -171,11 +171,11 @@
         <mark key="]" line="903" column="0" />
         <mark key="." line="903" column="0" />
       </file>
-      <file name="D:/codes/babel-react-rollup-starter/README.md" timestamp="1502075772711">
-        <mark key="[" line="27" column="7" />
-        <mark key="]" line="27" column="7" />
-        <mark key="." line="27" column="7" />
-        <mark key="^" line="27" column="5" />
+      <file name="D:/codes/babel-react-rollup-starter/README.md" timestamp="1502077998873">
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="30" column="36" />
+        <mark key="." line="30" column="36" />
+        <mark key="^" line="30" column="36" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/topbar/components/YouAreHere.jsx" timestamp="1501126587752">
         <mark key="[" line="5" column="0" />
@@ -227,10 +227,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>（pr welcome)</text>
+        <text>4</text>
       </register>
       <register name="-" type="4">
-        <text>（pr welcome)</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
