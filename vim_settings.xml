@@ -21,6 +21,12 @@
         <mark key="." line="398" column="28" />
         <mark key="^" line="398" column="28" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/sidebar/styles/index.less" timestamp="1502172138218">
+        <mark key="[" line="28" column="21" />
+        <mark key="]" line="29" column="21" />
+        <mark key="^" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+      </file>
       <file name="D:/codes/baidu/icafe/frontend/src/fis-conf.js" timestamp="1500467324503">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="95" column="36" />
@@ -82,6 +88,12 @@
         <mark key="^" line="4" column="9" />
         <mark key="." line="4" column="9" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Cards.jsx" timestamp="1502171594275">
+        <mark key="[" line="73" column="22" />
+        <mark key="]" line="73" column="26" />
+        <mark key="^" line="73" column="26" />
+        <mark key="." line="73" column="26" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1501833680732">
         <mark key="[" line="212" column="0" />
         <mark key="]" line="212" column="0" />
@@ -107,7 +119,7 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="31" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502159794627">
+      <file name="/Dummy.txt" timestamp="1502172240498">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
@@ -142,8 +154,11 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/sidebar/components/Logo.jsx" timestamp="1502159863589">
-        <mark key="[" line="1" column="34" />
+      <file name="D:/baidu/icafe/frontend/src/pages/sidebar/components/Logo.jsx" timestamp="1502171986907">
+        <mark key="[" line="5" column="62" />
+        <mark key="]" line="5" column="60" />
+        <mark key="." line="5" column="60" />
+        <mark key="^" line="5" column="60" />
       </file>
       <file name="D:/codes/baidu/icafe/frontend/src/pages/discuss/components/PostForm.jsx" timestamp="1500973879489">
         <mark key="[" line="46" column="0" />
@@ -252,11 +267,11 @@
       <jump line="43" column="4" filename="D:/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyoqCiAqIEBmaWxlIAo=</text>
+      <register name="&quot;" type="4">
+        <text>3</text>
       </register>
       <register name="-" type="4">
-        <text>storyMapping/space/:spaceCode</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
