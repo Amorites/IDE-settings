@@ -64,6 +64,12 @@
         <mark key="." line="50" column="16" />
         <mark key="^" line="40" column="49" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1502181531393">
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+        <mark key="." line="16" column="14" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/TaskCreate.jsx" timestamp="1501835948605">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -106,12 +112,15 @@
         <mark key="^" line="16" column="16" />
         <mark key="." line="18" column="17" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/layout/routes/index.jsx" timestamp="1502180890183" />
+      <file name="D:/baidu/icafe/frontend/BCLOUD" timestamp="1502183768242" />
       <file name="D:/baidu/icafe/frontend/src/webpack/share-package.json" timestamp="1502104428072">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/base.jsx" timestamp="1502180617515" />
       <file name="D:/baidu/icafe/frontend/src/pages/topbar/components/Topbar.jsx" timestamp="1502180040773">
         <mark key="[" line="36" column="41" />
         <mark key="]" line="36" column="55" />
@@ -119,11 +128,10 @@
         <mark key="^" line="36" column="55" />
       </file>
       <file name="/Topbar.jsx" timestamp="1502179988709" />
-      <file name="D:/baidu/icafe/frontend/src/pages/discuss/Index.jsx" timestamp="1501731880769">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="31" />
+      <file name="D:/baidu/icafe/frontend/src/pages/discuss/Index.jsx" timestamp="1502182823710">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1501742197551">
         <mark key="[" line="84" column="3" />
@@ -169,16 +177,16 @@
         <mark key="^" line="60" column="70" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502172240498">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="11" />
-        <mark key="." line="0" column="11" />
-      </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/issue/widget/editSidePanel/editSidePanel.jsx" timestamp="1502092019987">
         <mark key="[" line="1663" column="23" />
         <mark key="]" line="1663" column="23" />
         <mark key="." line="1663" column="23" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/helper/components/RichLink.jsx" timestamp="1502183295524">
+        <mark key="[" line="16" column="68" />
+        <mark key="]" line="16" column="68" />
+        <mark key="." line="16" column="68" />
+        <mark key="^" line="16" column="68" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/widget/HideWhenScrollOut.jsx" timestamp="1502090667542">
         <mark key="[" line="7" column="30" />
@@ -217,11 +225,8 @@
         <mark key="^" line="35" column="15" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/topbar/containers/YouAreHere.jsx" timestamp="1502180048816">
-        <mark key="[" line="64" column="37" />
-        <mark key="]" line="64" column="37" />
-        <mark key="." line="64" column="37" />
-        <mark key="^" line="64" column="58" />
+      <file name="D:/baidu/icafe/frontend/src/pages/topbar/containers/YouAreHere.jsx" timestamp="1502182927823">
+        <mark key="[" line="65" column="51" />
       </file>
       <file name="D:/codes/babel-react-rollup-starter/README.md" timestamp="1502095570624">
         <mark key="[" line="46" column="4" />
@@ -264,11 +269,10 @@
         <mark key="^" line="248" column="7" />
         <mark key="." line="375" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1502180228189">
-        <mark key="[" line="58" column="79" />
-        <mark key="]" line="58" column="77" />
-        <mark key="." line="58" column="77" />
-        <mark key="^" line="58" column="77" />
+      <file name="D:/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1502182736766">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/topbar/constants.jsx" timestamp="1502162813580">
         <mark key="[" line="0" column="0" />
@@ -290,10 +294,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxSb3V0ZSAvPgo=</text>
+        <text encoding="base64">aW1wb3J0IE1lbnRpb24gZnJvbSAnLi4vdWVkaXRvci9NZW50aW9uLmpzJzsK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">YWN0aXZlQ2xhc3NOYW1lPSJhY3RpdmUiIA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -302,31 +306,31 @@
         <text encoding="base64">ICAgICdzdG9yeU1hcHBpbmcvc3BhY2UvOnNwYWNlQ29kZSc6IFsnOnNwYWNlQ29kZScsIGdldENvbXBvbmVudE5hbWUoJ3N0b3J5TWFwcGluZycpXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxSb3V0ZSAvPgo=</text>
+        <text encoding="base64">aW1wb3J0IE1lbnRpb24gZnJvbSAnLi4vdWVkaXRvci9NZW50aW9uLmpzJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdG9yeU1hcHBpbmcosvrGt7nmu64pCg==</text>
+        <text encoding="base64">aW1wb3J0IHJvdXRlcyBmcm9tICdsYXlvdXQvcm91dGVzL2luZGV4Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdG9yeU1hcHBpbmcK</text>
+        <text encoding="base64">aW1wb3J0IHsgY29uZmlndXJlU3RvcmUgfSBmcm9tICcuL3JlZHV4L3N0b3JlJwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB7Ym9va21hcmtJZCwgY29kZSwgaWR9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHJlbmRlcj17cHJvcHMgPT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiA8U3RvcnlNYXBwaW5nIHsuLi5wcm9wc30gLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9fQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0ICdjc3MhLi9pbmRleC5sZXNzJzsKaW1wb3J0ICdjc3MhLi4vLi4vbm9kZV9tb2R1bGVzL2ZvbnQtYXdlc29tZS9jc3MvZm9udC1hd2Vzb21lLmNzcyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvUm91dGVyPgo=</text>
+        <text encoding="base64">aW1wb3J0ICdjc3MhLi9pbmRleC5sZXNzJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxSb3V0ZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEBmaWxlIAo=</text>
+        <text encoding="base64">eXRvdQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxSb3V0ZSBwYXRoPSIvc3RvcnlNYXBwaW5nL3NwYWNlLyIgcmVuZGVyPXsoKSA9PiAoPHNwYW4+aGhoaGhoaGhoPC9zcGFuPil9Lz4K</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVuZGVyIH0gZnJvbSAncmVhY3QtZG9tJzsK</text>
       </register>
       <register name=":" type="4">
         <text>578</text>
