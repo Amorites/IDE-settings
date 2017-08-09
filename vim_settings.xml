@@ -4,10 +4,10 @@
     <globalmarks />
     <filemarks>
       <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1502259376902">
-        <mark key="[" line="89" column="37" />
-        <mark key="]" line="89" column="54" />
-        <mark key="^" line="89" column="53" />
-        <mark key="." line="89" column="54" />
+        <mark key="[" line="90" column="37" />
+        <mark key="]" line="90" column="54" />
+        <mark key="^" line="90" column="53" />
+        <mark key="." line="90" column="54" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Cards.jsx" timestamp="1502171594275">
         <mark key="[" line="73" column="22" />
@@ -32,8 +32,10 @@
         <mark key="^" line="166" column="92" />
         <mark key="." line="166" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502264004101">
+      <file name="/Dummy.txt" timestamp="1502281762701">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/helper/components/RichLink.jsx" timestamp="1502183295524">
         <mark key="[" line="16" column="68" />
@@ -54,14 +56,14 @@
         <mark key="^" line="360" column="36" />
         <mark key="." line="360" column="36" />
       </file>
-      <file name="D:/baidu/icafe/frontend/BCLOUD" timestamp="1502280030532">
+      <file name="D:/baidu/icafe/frontend/BCLOUD" timestamp="1502280948225">
         <mark key="[" line="0" column="146" />
         <mark key="]" line="0" column="149" />
         <mark key="." line="0" column="149" />
         <mark key="^" line="0" column="149" />
       </file>
-      <file name="D:/baidu/icafe/frontend/scripts/build.sh" timestamp="1502279758485">
-        <mark key="[" line="0" column="0" />
+      <file name="D:/baidu/icafe/frontend/scripts/build.sh" timestamp="1502281706471">
+        <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="17" column="15" />
         <mark key="." line="0" column="0" />
@@ -92,11 +94,11 @@
       <jump line="357" column="27" filename="D:/baidu/icafe/frontend/src/pages/discuss/reducer.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgYmFzaAo=</text>
+      <register name="&quot;" type="4">
+        <text>Mario</text>
       </register>
       <register name="-" type="4">
-        <text>()</text>
+        <text>Mario</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
