@@ -32,7 +32,7 @@
         <mark key="^" line="166" column="92" />
         <mark key="." line="166" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502337967723">
+      <file name="/Dummy.txt" timestamp="1502343511836">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -57,11 +57,11 @@
         <mark key="." line="360" column="36" />
       </file>
       <file name="D:/baidu/icafe/frontend/output/package.json" timestamp="1502331524505" />
-      <file name="D:/baidu/icafe/frontend/BCLOUD" timestamp="1502337949637">
-        <mark key="[" line="0" column="637" />
-        <mark key="]" line="0" column="136" />
-        <mark key="." line="0" column="136" />
-        <mark key="^" line="0" column="136" />
+      <file name="D:/baidu/icafe/frontend/BCLOUD" timestamp="1502344066747">
+        <mark key="[" line="0" column="617" />
+        <mark key="]" line="0" column="617" />
+        <mark key="." line="0" column="617" />
+        <mark key="^" line="0" column="656" />
       </file>
       <file name="D:/baidu/icafe/frontend/scripts/build.sh" timestamp="1502336700837">
         <mark key="[" line="16" column="34" />
@@ -95,11 +95,11 @@
       <jump line="357" column="27" filename="D:/baidu/icafe/frontend/src/pages/discuss/reducer.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIENoYW5nZS1JZDogSWJhMTczNzVhNmRlOWVmNTc2YjAxYmY1ODY3ZmZlNTExNmZmOTc3ZTkK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIGVjaG8gcmVsZWFzZV9vX3N1Y2Nlc3M=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
