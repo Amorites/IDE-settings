@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1502259376902">
+      <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1502333703095">
         <mark key="[" line="90" column="37" />
         <mark key="]" line="90" column="54" />
         <mark key="^" line="90" column="53" />
@@ -32,7 +32,7 @@
         <mark key="^" line="166" column="92" />
         <mark key="." line="166" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502332577159">
+      <file name="/Dummy.txt" timestamp="1502334901327">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -57,14 +57,14 @@
         <mark key="." line="360" column="36" />
       </file>
       <file name="D:/baidu/icafe/frontend/output/package.json" timestamp="1502331524505" />
-      <file name="D:/baidu/icafe/frontend/BCLOUD" timestamp="1502282554882">
+      <file name="D:/baidu/icafe/frontend/BCLOUD" timestamp="1502334555231">
         <mark key="[" line="0" column="122" />
         <mark key="]" line="0" column="136" />
         <mark key="." line="0" column="136" />
         <mark key="^" line="0" column="136" />
       </file>
-      <file name="D:/baidu/icafe/frontend/scripts/build.sh" timestamp="1502332422842">
-        <mark key="[" line="19" column="5" />
+      <file name="D:/baidu/icafe/frontend/scripts/build.sh" timestamp="1502334863512">
+        <mark key="[" line="16" column="34" />
         <mark key="]" line="19" column="17" />
         <mark key="^" line="19" column="17" />
         <mark key="." line="19" column="17" />
