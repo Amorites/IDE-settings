@@ -32,7 +32,7 @@
         <mark key="^" line="166" column="92" />
         <mark key="." line="166" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502344901041">
+      <file name="/Dummy.txt" timestamp="1502346575614">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -57,18 +57,19 @@
         <mark key="." line="360" column="36" />
       </file>
       <file name="D:/baidu/icafe/frontend/output/package.json" timestamp="1502331524505" />
-      <file name="D:/baidu/icafe/frontend/BCLOUD" timestamp="1502344893263">
+      <file name="D:/baidu/icafe/frontend/BCLOUD" timestamp="1502346660714">
         <mark key="[" line="0" column="681" />
         <mark key="]" line="0" column="617" />
         <mark key="." line="0" column="617" />
         <mark key="^" line="0" column="656" />
       </file>
-      <file name="D:/baidu/icafe/frontend/scripts/build.sh" timestamp="1502336700837">
-        <mark key="[" line="16" column="34" />
-        <mark key="]" line="19" column="17" />
-        <mark key="^" line="19" column="17" />
-        <mark key="." line="19" column="17" />
+      <file name="D:/baidu/icafe/frontend/scripts/build.sh" timestamp="1502345642899">
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="^" line="20" column="12" />
+        <mark key="." line="20" column="12" />
       </file>
+      <file name="/BCLOUD" timestamp="1502346501646" />
       <file name="D:/baidu/icafe/frontend/src/pages/topbar/constants.jsx" timestamp="1502162813580">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
