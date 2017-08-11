@@ -41,7 +41,7 @@
         <mark key="^" line="166" column="92" />
         <mark key="." line="166" column="92" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502360892428">
+      <file name="/Dummy.txt" timestamp="1502419907209">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -51,11 +51,11 @@
         <mark key="]" line="1663" column="23" />
         <mark key="." line="1663" column="23" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/helper/components/RichLink.jsx" timestamp="1502183295524">
-        <mark key="[" line="16" column="68" />
-        <mark key="]" line="16" column="68" />
-        <mark key="." line="16" column="68" />
-        <mark key="^" line="16" column="68" />
+      <file name="D:/baidu/icafe/frontend/src/pages/helper/components/RichLink.jsx" timestamp="1502419504830">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/common/conf.js" timestamp="1502357138129">
         <mark key="[" line="35" column="0" />
@@ -137,11 +137,11 @@
       <jump line="357" column="27" filename="D:/baidu/icafe/frontend/src/pages/discuss/reducer.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHtoaXN0b3J5fSBmcm9tICcuLi9JbmRleC5qc3gnOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGFjdGl2ZUNsYXNzTmFtZT0iYWN0aXZlIiA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIHB3ZCAmJiBlY2hvICcjIyMjJw==</text>
+        <text encoding="base64">IGFjdGl2ZUNsYXNzTmFtZT0iYWN0aXZlIiA=</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
