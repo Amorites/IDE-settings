@@ -46,11 +46,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/RedirectToDefaultBoard.jsx" timestamp="1502430266774">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="15" />
-        <mark key="^" line="2" column="36" />
-        <mark key="." line="2" column="15" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/RedirectToDefaultBoard.jsx" timestamp="1502439960170">
+        <mark key="[" line="5" column="49" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="22" />
       </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/issue/widget/editSidePanel/editSidePanel.jsx" timestamp="1502092019987">
         <mark key="[" line="1663" column="23" />
@@ -81,7 +81,8 @@
         <mark key="^" line="41" column="37" />
         <mark key="." line="41" column="37" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1502437694442">
+      <file name="D:/baidu/icafe/frontend/src/pages/session/actions/index.jsx" timestamp="1502440198124" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1502439982248">
         <mark key="[" line="350" column="0" />
         <mark key="]" line="350" column="0" />
         <mark key="^" line="16" column="22" />
@@ -137,7 +138,7 @@
       </file>
       <file name="/BCLOUD" timestamp="1502346501646" />
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/config/Query.jsx" timestamp="1502367935485" />
-      <file name="D:/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1502437497343">
+      <file name="D:/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1502438913275">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="127" />
         <mark key="." line="56" column="0" />
@@ -169,11 +170,11 @@
       <jump line="357" column="27" filename="D:/baidu/icafe/frontend/src/pages/discuss/reducer.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+      <register name="&quot;" type="4">
+        <text>j</text>
       </register>
       <register name="-" type="4">
-        <text>dADD_BOARD_SUCCESS,</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
