@@ -56,11 +56,11 @@
         <mark key="^" line="360" column="36" />
         <mark key="." line="360" column="36" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/RedirectToDefaultBoard.jsx" timestamp="1502678586012">
-        <mark key="[" line="3" column="8" />
-        <mark key="]" line="3" column="8" />
-        <mark key="." line="3" column="8" />
-        <mark key="^" line="21" column="27" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/RedirectToDefaultBoard.jsx" timestamp="1502680638733">
+        <mark key="[" line="25" column="56" />
+        <mark key="]" line="26" column="19" />
+        <mark key="." line="26" column="19" />
+        <mark key="^" line="26" column="19" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/common/utils/BOM.jsx" timestamp="1502436429615">
         <mark key="]" line="191" column="15" />
@@ -133,10 +133,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXMg</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXMg</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
