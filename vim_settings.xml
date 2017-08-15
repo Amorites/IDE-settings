@@ -37,7 +37,7 @@
       </file>
       <file name="D:/baidu/intelligent-dev/frontend/src/common/components/Link.js" timestamp="1502715347941" />
       <file name="D:/baidu/icafe/frontend/src/pages/plantrack/plan/PlanTop.jsx" timestamp="1502689937435" />
-      <file name="/Dummy.txt" timestamp="1502716302177">
+      <file name="/Dummy.txt" timestamp="1502768786536">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/RedirectToDefaultBoard.jsx" timestamp="1502524049377">
@@ -120,6 +120,9 @@
         <mark key="]" line="19" column="34" />
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/redux/reducers/entities/boards.jsx" timestamp="1502768980572">
+        <mark key="[" line="13" column="34" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/constant.jsx" timestamp="1502711534294" />
     </filemarks>
