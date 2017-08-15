@@ -29,7 +29,12 @@
         <mark key="^" line="90" column="53" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Top.jsx" timestamp="1502716319229" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Top.jsx" timestamp="1502762026043">
+        <mark key="[" line="150" column="60" />
+        <mark key="]" line="150" column="77" />
+        <mark key="^" line="150" column="77" />
+        <mark key="." line="150" column="77" />
+      </file>
       <file name="D:/baidu/intelligent-dev/frontend/src/common/components/Link.js" timestamp="1502715347941" />
       <file name="D:/baidu/icafe/frontend/src/pages/plantrack/plan/PlanTop.jsx" timestamp="1502689937435" />
       <file name="D:/baidu/icafe/frontend/bin/success.txt" timestamp="1502280640646">
@@ -149,11 +154,11 @@
       <jump line="357" column="27" filename="D:/baidu/icafe/frontend/src/pages/discuss/reducer.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFN1bW1hcnlMaW5rID0gY3JlYXRlTGluaygnL2hlYWx0aC9yZXZpZXcnKTsKCmV4cG9ydCBjb25zdCBTdW1tYXJ5RGV0YWlsTGluayA9IGNyZWF0ZUxpbmsoJy9oZWFsdGgvcmV2aWV3L2RldGFpbCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>代码健康度评审相关的链接</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
