@@ -79,7 +79,11 @@
         <mark key="." line="14" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/constant.jsx" timestamp="1502711534294" />
-      <file name="D:/baidu/intelligent-dev/frontend/package.json" timestamp="1502785759906" />
+      <file name="D:/baidu/intelligent-dev/frontend/package.json" timestamp="1502853194991">
+        <mark key="[" line="6" column="14" />
+        <mark key="]" line="6" column="14" />
+        <mark key="." line="6" column="14" />
+      </file>
       <file name="D:/baidu/intelligent-dev/frontend/src/standardReduxShape/selectors.js" timestamp="1502784615254" />
       <file name="D:/baidu/icafe/frontend/src/pages/plantrack/plan/index.jsx" timestamp="1502693650170">
         <mark key="[" line="25" column="38" />
@@ -186,11 +190,11 @@
       <jump line="357" column="27" filename="D:/baidu/icafe/frontend/src/pages/discuss/reducer.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAuaWNvbmZvbnQgewogICAgICAgICAgICAmOmhvdmVyLAogICAgICAgICAgICAmLmFjdGl2ZSB7CiAgICAgICAgICAgICAgICBjb2xvcjogIzM3OThlOQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHR5cGU6ICdudW1iZXInLA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
