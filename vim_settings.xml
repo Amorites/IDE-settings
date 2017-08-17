@@ -17,6 +17,7 @@
         <mark key="^" line="76" column="35" />
         <mark key="." line="72" column="0" />
       </file>
+      <file name="/require-conf.js" timestamp="1502953964769" />
       <file name="D:/baidu/icafe/frontend/src/pages/plantrack/plan/PlanTop.jsx" timestamp="1502689937435" />
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Top.jsx" timestamp="1502776942986">
         <mark key="[" line="0" column="0" />
@@ -36,19 +37,9 @@
         <mark key="." line="57" column="59" />
         <mark key="^" line="57" column="59" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/session/actions/index.jsx" timestamp="1502696302364">
-        <mark key="[" line="156" column="0" />
-        <mark key="]" line="156" column="0" />
-        <mark key="." line="156" column="0" />
-      </file>
       <file name="D:/baidu/intelligent-dev/frontend/README.md" timestamp="1502852626737" />
       <file name="/index.jsx" timestamp="1502702583114" />
       <file name="D:/baidu/intelligent-dev/frontend/BCLOUND" timestamp="1502852602656" />
-      <file name="D:/baidu/intelligent-dev/frontend/.eslintrc.json" timestamp="1502854866300">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
-        <mark key="." line="65" column="0" />
-      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/RedirectToDefaultBoard.jsx" timestamp="1502776395060">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -80,19 +71,7 @@
         <mark key="^" line="19" column="34" />
         <mark key="." line="19" column="34" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/redux/reducers/entities/boards.jsx" timestamp="1502774992899">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/constant.jsx" timestamp="1502711534294" />
-      <file name="D:/baidu/intelligent-dev/frontend/package.json" timestamp="1502855307037">
-        <mark key="'" line="27" column="4" />
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="14" />
-        <mark key="." line="6" column="14" />
-        <mark key="^" line="6" column="17" />
-      </file>
       <file name="D:/baidu/intelligent-dev/frontend/src/health/review/selectors/summary.js" timestamp="1502866277682" />
       <file name="D:/baidu/intelligent-dev/frontend/src/health/review/components/SummarySearchSection.js" timestamp="1502869367742" />
       <file name="D:/baidu/intelligent-dev/frontend/src/standardReduxShape/selectors.js" timestamp="1502869632370" />
@@ -139,15 +118,17 @@
         <mark key="." line="103" column="31" />
         <mark key="^" line="103" column="31" />
       </file>
+      <file name="/fis-conf.js" timestamp="1502954432132" />
       <file name="/HTML File.txt.ft" timestamp="1502865965473">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/bin/success.txt" timestamp="1502280640646">
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+      <file name="D:/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1502953981492">
+        <mark key="[" line="21" column="8" />
+        <mark key="]" line="21" column="28" />
+        <mark key="^" line="21" column="7" />
+        <mark key="." line="21" column="8" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502866277999">
+      <file name="/Dummy.txt" timestamp="1502953930622">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="12" />
         <mark key="." line="0" column="12" />
@@ -186,20 +167,11 @@
         <mark key="." line="53" column="29" />
       </file>
       <file name="D:/baidu/intelligent-dev/frontend/src/common/utils/fetch.js" timestamp="1502714557598" />
-      <file name="D:/codes/babel-react-rollup-starter/README.md" timestamp="1502095570624">
-        <mark key="[" line="46" column="4" />
-        <mark key="]" line="46" column="6" />
-        <mark key="." line="46" column="0" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/fis-conf.js" timestamp="1502357119994">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/redux/store.jsx" timestamp="1502357529591">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="D:/baidu/icafe/frontend/src/fis-conf.js" timestamp="1502954469710">
+        <mark key="[" line="13" column="53" />
+        <mark key="]" line="14" column="45" />
+        <mark key="." line="14" column="45" />
+        <mark key="^" line="14" column="45" />
       </file>
       <file name="D:/baidu/intelligent-dev/frontend/src/index/components/App.js" timestamp="1502867552428" />
       <file name="D:/baidu/intelligent-dev/frontend/src/health/review/actions/detail.js" timestamp="1502799828108" />
