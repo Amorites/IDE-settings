@@ -24,6 +24,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="37" column="82" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/common/history.jsx" timestamp="1502942597831">
+        <mark key="[" line="2" column="30" />
+        <mark key="]" line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="2" column="30" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/redux/reducers/session/index.jsx" timestamp="1502696741312">
         <mark key="[" line="57" column="54" />
         <mark key="]" line="57" column="59" />
@@ -197,6 +203,12 @@
       </file>
       <file name="D:/baidu/intelligent-dev/frontend/src/index/components/App.js" timestamp="1502867552428" />
       <file name="D:/baidu/intelligent-dev/frontend/src/health/review/actions/detail.js" timestamp="1502799828108" />
+      <file name="D:/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1502942732129">
+        <mark key="[" line="52" column="27" />
+        <mark key="]" line="52" column="43" />
+        <mark key="^" line="52" column="43" />
+        <mark key="." line="52" column="43" />
+      </file>
       <file name="D:/baidu/intelligent-dev/frontend/src/common/redux/store.js" timestamp="1502785867151" />
     </filemarks>
     <jumps>
@@ -214,11 +226,11 @@
       <jump line="27" column="4" filename="D:/baidu/intelligent-dev/frontend/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8QnJlYWRjcnVtYnMKICAgICAgICAgICAgICAgICAgICAgICAgV3JhcHBlckNvbXBvbmVudD17KHByb3BzKSA9PiA8b2wgY2xhc3NOYW1lPSJicmVhZGNydW1iIj57cHJvcHMuY2hpbGRyZW59PC9vbD59CiAgICAgICAgICAgICAgICAgICAgICAgIEFjdGl2ZUxpbmtDb21wb25lbnQ9eyhwcm9wcykgPT4gPGxpIGNsYXNzTmFtZT0iYWN0aXZlIj57cHJvcHMuY2hpbGRyZW59PC9saT59CiAgICAgICAgICAgICAgICAgICAgICAgIExpbmtDb21wb25lbnQ9eyhwcm9wcykgPT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT57cHJvcHMuY2hpbGRyZW59PC9saT59IC8vIERvbid0IGNyZWF0ZSBsaW5rIHRhZyBvciA8TGluayAvPi4gQ29tcG9uZW50IHdpbGwgd3JhcHAgcHJvcHMuY2hpbGRyZW4gd2l0aCA8TGluayAvPgogICAgICAgICAgICAgICAgICAgICAgICBtYXBwZWRSb3V0ZXM9e3JvdXRlc30vPgogICAgICAgICAgICAgICAgICAgIDxwIGNsYXNzTmFtZT0iQXBwLWludHJvIj4KICAgICAgICAgICAgICAgICAgICAgICAgVG8gZ2V0IHN0YXJ0ZWQsIGVkaXQgPGNvZGU+c3JjL0FwcC5qczwvY29kZT4gYW5kIHNhdmUgdG8gcmVsb2FkLgogICAgICAgICAgICAgICAgICAgIDwvcD4KICAgICAgICAgICAgICAgICAgICA8QnJlYWRjcnVtYnMgbWFwcGVkUm91dGVzPXtyb3V0ZXN9Lz4K</text>
+      <register name="&quot;" type="4">
+        <text>Browser</text>
       </register>
       <register name="-" type="4">
-        <text>h3</text>
+        <text>Browser</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
