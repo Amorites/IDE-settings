@@ -24,11 +24,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="37" column="82" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/common/history.jsx" timestamp="1502942597831">
-        <mark key="[" line="2" column="30" />
-        <mark key="]" line="2" column="30" />
-        <mark key="^" line="2" column="30" />
-        <mark key="." line="2" column="30" />
+      <file name="D:/baidu/icafe/frontend/src/pages/common/history.jsx" timestamp="1502953544659">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="34" />
+        <mark key="^" line="2" column="34" />
+        <mark key="." line="2" column="34" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/redux/reducers/session/index.jsx" timestamp="1502696741312">
         <mark key="[" line="57" column="54" />
@@ -227,10 +227,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Browser</text>
+        <text>createBrowserHistory</text>
       </register>
       <register name="-" type="4">
-        <text>Browser</text>
+        <text>createBrowserHistory</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
