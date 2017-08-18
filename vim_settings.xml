@@ -83,6 +83,7 @@
         <mark key="." line="19" column="34" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/issueStatus.jsx" timestamp="1503046135844" />
+      <file name="D:/baidu/icafe/frontend/output/amd/resources/storyMapping/components/AxisX.js" timestamp="1503055709286" />
       <file name="D:/baidu/icafe/frontend/src/pages/sidebar/components/MenuList.jsx" timestamp="1503042360139" />
       <file name="D:/baidu/icafe/frontend/src/pages/plantrack/plan/index.jsx" timestamp="1502693650170">
         <mark key="[" line="25" column="38" />
@@ -163,6 +164,11 @@
         <mark key="^" line="26" column="39" />
         <mark key="." line="26" column="39" />
       </file>
+      <file name="D:/baidu/icafe/frontend/README.md" timestamp="1503055474854">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="D:/baidu/icode/frontend-v2/src/profile/actions/votes.jsx" timestamp="1503046380469" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/reducers/entities/menuItems.jsx" timestamp="1503042610075" />
       <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/FieldDirector.jsx" timestamp="1503043378411">
@@ -184,7 +190,7 @@
         <mark key="^" line="226" column="44" />
       </file>
       <file name="D:/baidu/icode/frontend-v2/src/common/utils/standardReduxShape.jsx" timestamp="1503046331675" />
-      <file name="D:/baidu/icafe/frontend/output/amd/resources/storyMapping/reducer.js" timestamp="1503047776147" />
+      <file name="D:/baidu/icafe/frontend/output/amd/resources/storyMapping/reducer.js" timestamp="1503055151487" />
       <file name="D:/baidu/intelligent-dev/frontend/src/health/review/actions/detail.js" timestamp="1503043717471" />
       <file name="D:/baidu/icafe/frontend/src/pages/sidebar/components/MenuItem.jsx" timestamp="1503042331835" />
     </filemarks>
@@ -204,8 +210,8 @@
       <jump line="51" column="8" filename="D:/baidu/icafe/frontend/src/pages/Index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>env</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSDSwMC1sPzJ/by2CiAgICAtINXS0rvMqL+qt6K7+iAKICAgIC0gZ2l0IGNsb25lILWxx7DP7sS/CiAgICAtIL34yOsgYmFpZHUvaWNhZmUvZnJvbnRlbmQvc3JjIMS/wrwgYG5wbSBpYCCwstew0sDAtbD8CiAgICAtIGBucG0gcnVuIHNjcGAgtPKw/CBub2RlX21vZHVsZXMgsqIgc2NwILW9IGVlLXRvb2xzILv6xvcKICAgICAgICAxLiBgdGFyIC16Y3ZmIGZpczMtZXh0LnRhci5neiAuL25vZGVfbW9kdWxlc2AKICAgICAgICAyLiBgc2NwIGZpczMtZXh0LnRhci5neiByb290QGNwMDEtd2lzZTIwMTQtcmR0ZXN0MTAuY3AwMS5iYWlkdS5jb206L3Vzci9sb2NhbC9hcGFjaGUtdG9tY2F0LTcuMC41Ny93ZWJhcHBzL2NpLXRvb2xzLWhvbWUvcmVzb3VyY2VzYCAov6q3orv6w9zC69K7sOPOqjogaWl0cmQhQCMpCiAgICAgICAgMy4gYHJtIC1mIGZpczMtZXh0LnRhci5nemAK</text>
       </register>
       <register name="-" type="4">
         <text>env</text>
@@ -217,31 +223,31 @@
         <text encoding="base64">ICAgIGZldGNoQm9hcmRzLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFRvZG8K</text>
+        <text encoding="base64">LSDSwMC1sPzJ/by2CiAgICAtINXS0rvMqL+qt6K7+iAKICAgIC0gZ2l0IGNsb25lILWxx7DP7sS/CiAgICAtIL34yOsgYmFpZHUvaWNhZmUvZnJvbnRlbmQvc3JjIMS/wrwgYG5wbSBpYCCwstew0sDAtbD8CiAgICAtIGBucG0gcnVuIHNjcGAgtPKw/CBub2RlX21vZHVsZXMgsqIgc2NwILW9IGVlLXRvb2xzILv6xvcKICAgICAgICAxLiBgdGFyIC16Y3ZmIGZpczMtZXh0LnRhci5neiAuL25vZGVfbW9kdWxlc2AKICAgICAgICAyLiBgc2NwIGZpczMtZXh0LnRhci5neiByb290QGNwMDEtd2lzZTIwMTQtcmR0ZXN0MTAuY3AwMS5iYWlkdS5jb206L3Vzci9sb2NhbC9hcGFjaGUtdG9tY2F0LTcuMC41Ny93ZWJhcHBzL2NpLXRvb2xzLWhvbWUvcmVzb3VyY2VzYCAov6q3orv6w9zC69K7sOPOqjogaWl0cmQhQCMpCiAgICAgICAgMy4gYHJtIC1mIGZpczMtZXh0LnRhci5nemAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
+        <text encoding="base64">ICAgIC8vIFRvZG8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBib2FyZAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCAK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBib2FyZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdnZXIK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHtUWVBFfSBmcm9tICcuLi8uLi9jb25zdGFudHMuanN4JzsKaW1wb3J0IHtzcGFjZSwgcGxhbn0gZnJvbSAnLi4vLi4vLi4vY29tbW9uL2FwaS5qc3gnOwppbXBvcnQge2NvbE1hcH0gZnJvbSAnLi4vLi4vTGF5b3V0LmpzeCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdnZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGVyPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii86aWQiIHJlbmRlcj17KHttYXRjaH0pID0+IDxoMz57bWF0Y2gucGFyYW1zLmlkfTwvaDM+fS8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8TGluayB0bz0iaGVoZWhlIj5oZWhlZWg8L0xpbms+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvUm91dGVyPgo=</text>
+        <text encoding="base64">aW1wb3J0IHtUWVBFfSBmcm9tICcuLi8uLi9jb25zdGFudHMuanN4JzsKaW1wb3J0IHtzcGFjZSwgcGxhbn0gZnJvbSAnLi4vLi4vLi4vY29tbW9uL2FwaS5qc3gnOwppbXBvcnQge2NvbE1hcH0gZnJvbSAnLi4vLi4vTGF5b3V0LmpzeCc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0RGF0YSgpLnRoZW4oZGF0YSA9PikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Um91dGVyPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPFJvdXRlIHBhdGg9Ii86aWQiIHJlbmRlcj17KHttYXRjaH0pID0+IDxoMz57bWF0Y2gucGFyYW1zLmlkfTwvaDM+fS8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8TGluayB0bz0iaGVoZWhlIj5oZWhlZWg8L0xpbms+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvUm91dGVyPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAnJzogX191cmkoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0RGF0YSgpLnRoZW4oZGF0YSA9PikK</text>
       </register>
       <register name=":" type="4">
         <text>578</text>
