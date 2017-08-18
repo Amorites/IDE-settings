@@ -205,11 +205,11 @@
       </file>
       <file name="D:/baidu/intelligent-dev/frontend/src/health/review/links.js" timestamp="1502714440643" />
       <file name="D:/baidu/intelligent-dev/frontend/src/standardReduxShape/entities.js" timestamp="1502800373546" />
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/FieldDirector.jsx" timestamp="1502965927443">
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/FieldDirector.jsx" timestamp="1503022388813">
         <mark key="[" line="62" column="21" />
-        <mark key="]" line="62" column="21" />
-        <mark key="^" line="132" column="53" />
-        <mark key="." line="62" column="21" />
+        <mark key="]" line="62" column="26" />
+        <mark key="^" line="62" column="26" />
+        <mark key="." line="62" column="26" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/actions/index.jsx" timestamp="1502714165346">
         <mark key="[" line="53" column="23" />
@@ -223,11 +223,11 @@
         <mark key="]" line="46" column="6" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/fis-conf.js" timestamp="1502961049755">
-        <mark key="[" line="13" column="47" />
-        <mark key="]" line="13" column="50" />
-        <mark key="." line="13" column="50" />
-        <mark key="^" line="13" column="50" />
+      <file name="D:/baidu/icafe/frontend/src/fis-conf.js" timestamp="1503022475553">
+        <mark key="[" line="225" column="36" />
+        <mark key="]" line="225" column="38" />
+        <mark key="." line="225" column="38" />
+        <mark key="^" line="225" column="38" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/redux/store.jsx" timestamp="1502357529591">
         <mark key="[" line="19" column="0" />
@@ -262,10 +262,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+        <text>es2015</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXN5bmMg</text>
+        <text>es2015</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
