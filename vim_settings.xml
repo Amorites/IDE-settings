@@ -4,6 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="D:/baidu/intelligent-dev/frontend/src/health/review/api.js" timestamp="1502869254329" />
+      <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/leftNav.jsx" timestamp="1503025291112">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1502959771691" />
       <file name="D:/baidu/intelligent-dev/frontend/src/standardReduxShape/queries.js" timestamp="1502884649160" />
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Top.jsx" timestamp="1502776429783">
@@ -184,11 +190,11 @@
         <mark key="^" line="34" column="48" />
         <mark key="." line="34" column="48" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/helper/components/RichLink.jsx" timestamp="1502419504830">
-        <mark key="[" line="14" column="25" />
-        <mark key="]" line="14" column="25" />
-        <mark key="." line="14" column="25" />
-        <mark key="^" line="14" column="25" />
+      <file name="D:/baidu/icafe/frontend/src/pages/helper/components/RichLink.jsx" timestamp="1503025435488">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="15" />
+        <mark key="." line="14" column="15" />
+        <mark key="^" line="14" column="15" />
       </file>
       <file name="D:/baidu/intelligent-dev/frontend/src/health/review/reducers/queries.js" timestamp="1502869266394" />
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1502939096678">
