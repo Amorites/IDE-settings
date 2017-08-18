@@ -177,11 +177,11 @@
         <mark key="^" line="71" column="20" />
         <mark key="." line="71" column="20" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/fis-conf.js" timestamp="1503047906385">
-        <mark key="[" line="226" column="26" />
-        <mark key="]" line="226" column="26" />
-        <mark key="." line="226" column="26" />
-        <mark key="^" line="226" column="34" />
+      <file name="D:/baidu/icafe/frontend/src/fis-conf.js" timestamp="1503048958915">
+        <mark key="[" line="226" column="44" />
+        <mark key="]" line="226" column="44" />
+        <mark key="." line="226" column="44" />
+        <mark key="^" line="226" column="44" />
       </file>
       <file name="D:/baidu/icode/frontend-v2/src/common/utils/standardReduxShape.jsx" timestamp="1503046331675" />
       <file name="D:/baidu/icafe/frontend/output/amd/resources/storyMapping/reducer.js" timestamp="1503047776147" />
@@ -205,10 +205,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>env</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>env</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
