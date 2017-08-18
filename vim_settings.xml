@@ -183,14 +183,13 @@
         <mark key="^" line="71" column="20" />
         <mark key="." line="71" column="20" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/fis-conf.js" timestamp="1503048958915">
-        <mark key="[" line="226" column="44" />
-        <mark key="]" line="226" column="44" />
-        <mark key="." line="226" column="44" />
-        <mark key="^" line="226" column="44" />
+      <file name="D:/baidu/icafe/frontend/src/fis-conf.js" timestamp="1503056830481">
+        <mark key="[" line="226" column="32" />
+        <mark key="]" line="226" column="32" />
+        <mark key="." line="226" column="32" />
+        <mark key="^" line="226" column="32" />
       </file>
       <file name="D:/baidu/icode/frontend-v2/src/common/utils/standardReduxShape.jsx" timestamp="1503046331675" />
-      <file name="D:/baidu/icafe/frontend/output/amd/resources/storyMapping/reducer.js" timestamp="1503055151487" />
       <file name="D:/baidu/intelligent-dev/frontend/src/health/review/actions/detail.js" timestamp="1503043717471" />
       <file name="D:/baidu/icafe/frontend/src/pages/sidebar/components/MenuItem.jsx" timestamp="1503042331835" />
     </filemarks>
@@ -210,11 +209,11 @@
       <jump line="51" column="8" filename="D:/baidu/icafe/frontend/src/pages/Index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LSDSwMC1sPzJ/by2CiAgICAtINXS0rvMqL+qt6K7+iAKICAgIC0gZ2l0IGNsb25lILWxx7DP7sS/CiAgICAtIL34yOsgYmFpZHUvaWNhZmUvZnJvbnRlbmQvc3JjIMS/wrwgYG5wbSBpYCCwstew0sDAtbD8CiAgICAtIGBucG0gcnVuIHNjcGAgtPKw/CBub2RlX21vZHVsZXMgsqIgc2NwILW9IGVlLXRvb2xzILv6xvcKICAgICAgICAxLiBgdGFyIC16Y3ZmIGZpczMtZXh0LnRhci5neiAuL25vZGVfbW9kdWxlc2AKICAgICAgICAyLiBgc2NwIGZpczMtZXh0LnRhci5neiByb290QGNwMDEtd2lzZTIwMTQtcmR0ZXN0MTAuY3AwMS5iYWlkdS5jb206L3Vzci9sb2NhbC9hcGFjaGUtdG9tY2F0LTcuMC41Ny93ZWJhcHBzL2NpLXRvb2xzLWhvbWUvcmVzb3VyY2VzYCAov6q3orv6w9zC69K7sOPOqjogaWl0cmQhQCMpCiAgICAgICAgMy4gYHJtIC1mIGZpczMtZXh0LnRhci5nemAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICdlczIwMTcnLCA=</text>
       </register>
       <register name="-" type="4">
-        <text>env</text>
+        <text encoding="base64">ICdlczIwMTcnLCA=</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
