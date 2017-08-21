@@ -56,13 +56,20 @@
         <mark key="^" line="57" column="59" />
       </file>
       <file name="D:/baidu/icafe/frontend/output/amd/resources/common/require-conf.js" timestamp="1503294803177" />
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1503314659187">
-        <mark key="[" line="607" column="26" />
-        <mark key="]" line="607" column="26" />
-        <mark key="." line="607" column="26" />
-        <mark key="^" line="607" column="26" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1503317747962">
+        <mark key="[" line="611" column="2" />
+        <mark key="]" line="612" column="0" />
+        <mark key="." line="612" column="0" />
+        <mark key="^" line="612" column="0" />
       </file>
+      <file name="D:/baidu/icafe/frontend/output/package.json" timestamp="1503315136988" />
       <file name="D:/baidu/icafe/frontend/src/pages/issue/searchQ/baseSearchItem/ScopeMenu.jsx" timestamp="1503314254996" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Board.jsx" timestamp="1503317139224">
+        <mark key="[" line="238" column="27" />
+        <mark key="]" line="238" column="27" />
+        <mark key="." line="238" column="27" />
+        <mark key="^" line="238" column="27" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/RedirectToDefaultBoard.jsx" timestamp="1502776395060">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -117,11 +124,11 @@
         <mark key="." line="9" column="30" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/common/api.jsx" timestamp="1503298407121" />
-      <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1503286382835">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="0" />
-        <mark key="^" line="88" column="53" />
-        <mark key="." line="86" column="0" />
+      <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1503316862650">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="18" />
+        <mark key="^" line="21" column="24" />
+        <mark key="." line="24" column="18" />
       </file>
       <file name="D:/baidu/icode/frontend-v2/node_modules/@baidu/icafe-share/index.js" timestamp="1503282149808" />
       <file name="/UserSelect.jsx" timestamp="1503297923551" />
@@ -141,11 +148,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1503309461188">
-        <mark key="[" line="22" column="65" />
-        <mark key="]" line="22" column="65" />
-        <mark key="^" line="22" column="18" />
-        <mark key="." line="22" column="65" />
+      <file name="D:/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1503315466108">
+        <mark key="[" line="30" column="60" />
+        <mark key="]" line="30" column="60" />
+        <mark key="^" line="30" column="83" />
+        <mark key="." line="30" column="60" />
       </file>
       <file name="/Dummy.txt" timestamp="1503305053191">
         <mark key="[" line="0" column="0" />
@@ -217,8 +224,8 @@
       <jump line="51" column="8" filename="D:/baidu/icafe/frontend/src/pages/Index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBkaXNwYXRjaChwdXRJc3N1ZXMocmVzLnJlc3VsdC5pc3N1ZXMsIFNUT1JZX01BUFBJTkdfTElTVF9NQVApKTsK</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -227,34 +234,34 @@
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RpbWUxMicsIERhdGUubm93KCkgLSBub3cpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBkaXNwYXRjaChwdXRJc3N1ZXMocmVzLnJlc3VsdC5pc3N1ZXMsIFNUT1JZX01BUFBJTkdfTElTVF9NQVApKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RpbWUxMicsIERhdGUubm93KCkgLSBub3cpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CmNvbnN0</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBib2FyZHMgPSBnZXRCb2FyZHNMaXN0KHN0YXRlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RpbWUxMicsIERhdGUubm93KCkgLSBub3cpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CmNvbnN0</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3Qgc2hvdWxkRmV0Y2hCb2FyZHMgPSAoKSA9PiB7CiAgICAvLyBUb2RvCn07Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgc2hvdWxkRmV0Y2hCb2FyZHMgPSAoKSA9PiB7CiAgICAvLyBUb2RvCn07CgpsZXQgc3BhY2VGZXRjaGVkID0ge307Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3Qgc2hvdWxkRmV0Y2hCb2FyZHMgPSAoKSA9PiB7CiAgICAvLyBUb2RvCn07CgpsZXQgc3BhY2VGZXRjaGVkID0ge307CmV4cG9ydCBjb25zdCBmZXRjaEJvYXJkc0lmTmVlZCA9IChzcGFjZUNvZGUpID0+IGFzeW5jIChkaXNwYXRjaCwgZ2V0U3RhdGUpID0+IHsKICAgIGlmIChzcGFjZUZldGNoZWRbc3BhY2VDb2RlXSkgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0gZWxzZSB7CiAgICAgICAgc3BhY2VGZXRjaGVkID0gewogICAgICAgICAgICBbc3BhY2VDb2RlXTogdHJ1ZQogICAgICAgIH07CiAgICAgICAgYXdhaXQgZGlzcGF0Y2goZmV0Y2hCb2FyZHMoc3BhY2VDb2RlKSk7CiAgICB9Cn07CgpleHBvcnQgY29uc3QgYWRkQm9hcmRSZXF1ZXN0ID0gY3JlYXRlQWN0aW9uKEFERF9CT0FSRF9SRVFVRVNUKTsKZXhwb3J0IGNvbnN0IGFkZEJvYXJkU3VjY2VzcyA9IGNyZWF0ZUFjdGlvbihBRERfQk9BUkRfU1VDQ0VTUyk7CmV4cG9ydCBjb25zdCBhZGRCb2FyZEZhaWx1cmUgPSBjcmVhdGVBY3Rpb24oQUREX0JPQVJEX0ZBSUxVUkUpOwpleHBvcnQgY29uc3QgYWRkQm9hcmQgPSAoYm9hcmROYW1lKSA9PiAoZGlzcGF0Y2gsIGdldFN0YXRlKSA9PiB7CiAgICBkaXNwYXRjaChjcmVhdGVBY3Rpb24oQUREX0JPQVJEKSgpKTsKCiAgICBkaXNwYXRjaChhZGRCb2FyZFJlcXVlc3QoKSk7CgogICAgY29uc3Qgc3RhdGUgPSBnZXRTdGF0ZSgpOwoKICAgIGNvbnN0IHNwYWNlQ29kZSA9IHN0YXRlLmVudGl0aWVzLnNwYWNlc1tzdGF0ZS5zZXNzaW9uLnNwYWNlSWRdLmNvZGU7CgogICAgcmV0dXJuIEFwaU9mU3RvcnlNYXBwaW5nLmFkZEJvYXJkKHNwYWNlQ29kZSwgYm9hcmROYW1lKQogICAgICAgIC50aGVuKChkYXRhLCB0ZXh0U3RhdHVzLCBqcVhIUikgPT4gewogICAgICAgICAgICBkaXNwYXRjaChhZGRCb2FyZFN1Y2Nlc3MoewogICAgICAgICAgICAgICAgaWQ6IGRhdGEucmVzdWx0LmlkLAogICAgICAgICAgICAgICAgY2F0ZWdvcnk6ICdzdG9yeU1hcHBpbmcnLAogICAgICAgICAgICAgICAgbmFtZTogYm9hcmROYW1lLAogICAgICAgICAgICB9KSk7CiAgICAgICAgfSwgKGpxWEhSLCB0ZXh0U3RhdHVzLCBlcnJvclRocm93bikgPT4gewogICAgICAgICAgICBkaXNwYXRjaChhZGRCb2FyZEZhaWx1cmUodGV4dFN0YXR1cykpOwogICAgICAgIH0pOwp9OwoKZXhwb3J0IGNvbnN0IGVkaXRCb2FyZFJlcXVlc3QgPSBjcmVhdGVBY3Rpb24oRURJVF9CT0FSRF9SRVFVRVNUKTsKZXhwb3J0IGNvbnN0IGVkaXRCb2FyZFN1Y2Nlc3MgPSBjcmVhdGVBY3Rpb24oRURJVF9CT0FSRF9TVUNDRVNTKTsKZXhwb3J0IGNvbnN0IGVkaXRCb2FyZEZhaWx1cmUgPSBjcmVhdGVBY3Rpb24oRURJVF9CT0FSRF9GQUlMVVJFKTsKZXhwb3J0IGNvbnN0IGVkaXRCb2FyZCA9IChib2FyZElkLCBpbmZvKSA9PiAoZGlzcGF0Y2gsIGdldFN0YXRlKSA9PiB7Cg==</text>
+        <text encoding="base64">Y29uc3Qgc2hvdWxkRmV0Y2hCb2FyZHMgPSAoKSA9PiB7CiAgICAvLyBUb2RvCn07Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">MS4gz8LU2CBgZmlzMy10b29scy50YXIuZ3pgICi8tDogYG5vZGUgKyBmaXMzYCDUtMLrsPwpCjIuIM/C1NggYGZpczMtZXh0LnRhci5nemAgKLy0OiBgLi9ub2RlX21vZHVsZXNgILD8KQozLiDWtNDQIGBmaXMzIHJlbGVhc2UgdGVzdGCjrCBgZmlzMyByZWxlYXNlIGlgo6xgZmlzMyByZWxlYXNlIG9gILm5vajQp8LK1Mayu82su7e+s9Pyw/vXytS0ICAKNC4gtPKw/L3hufuyosfSY29webW91ri2qMS/wryjrNe8sbiyv8rwyc/P36GjCg==</text>
+        <text encoding="base64">Y29uc3Qgc2hvdWxkRmV0Y2hCb2FyZHMgPSAoKSA9PiB7CiAgICAvLyBUb2RvCn07CgpsZXQgc3BhY2VGZXRjaGVkID0ge307Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJzY3AiOiAidGFyIC16Y3ZmIGZpczMtZXh0LnRhci5neiAuL25vZGVfbW9kdWxlcyAmIHNjcCBmaXMzLWV4dC50YXIuZ3ogcm9vdEBjcDAxLXdpc2UyMDE0LXJkdGVzdDEwLmNwMDEuYmFpZHUuY29tOi91c3IvbG9jYWwvYXBhY2hlLXRvbWNhdC03LjAuNTcvd2ViYXBwcy9jaS10b29scy1ob21lL3Jlc291cmNlcyAmIHJtIC1mIGZpczMtZXh0LnRhci5neiIsCg==</text>
+        <text encoding="base64">Y29uc3Qgc2hvdWxkRmV0Y2hCb2FyZHMgPSAoKSA9PiB7CiAgICAvLyBUb2RvCn07CgpsZXQgc3BhY2VGZXRjaGVkID0ge307CmV4cG9ydCBjb25zdCBmZXRjaEJvYXJkc0lmTmVlZCA9IChzcGFjZUNvZGUpID0+IGFzeW5jIChkaXNwYXRjaCwgZ2V0U3RhdGUpID0+IHsKICAgIGlmIChzcGFjZUZldGNoZWRbc3BhY2VDb2RlXSkgewogICAgICAgIHJldHVybiBmYWxzZTsKICAgIH0gZWxzZSB7CiAgICAgICAgc3BhY2VGZXRjaGVkID0gewogICAgICAgICAgICBbc3BhY2VDb2RlXTogdHJ1ZQogICAgICAgIH07CiAgICAgICAgYXdhaXQgZGlzcGF0Y2goZmV0Y2hCb2FyZHMoc3BhY2VDb2RlKSk7CiAgICB9Cn07CgpleHBvcnQgY29uc3QgYWRkQm9hcmRSZXF1ZXN0ID0gY3JlYXRlQWN0aW9uKEFERF9CT0FSRF9SRVFVRVNUKTsKZXhwb3J0IGNvbnN0IGFkZEJvYXJkU3VjY2VzcyA9IGNyZWF0ZUFjdGlvbihBRERfQk9BUkRfU1VDQ0VTUyk7CmV4cG9ydCBjb25zdCBhZGRCb2FyZEZhaWx1cmUgPSBjcmVhdGVBY3Rpb24oQUREX0JPQVJEX0ZBSUxVUkUpOwpleHBvcnQgY29uc3QgYWRkQm9hcmQgPSAoYm9hcmROYW1lKSA9PiAoZGlzcGF0Y2gsIGdldFN0YXRlKSA9PiB7CiAgICBkaXNwYXRjaChjcmVhdGVBY3Rpb24oQUREX0JPQVJEKSgpKTsKCiAgICBkaXNwYXRjaChhZGRCb2FyZFJlcXVlc3QoKSk7CgogICAgY29uc3Qgc3RhdGUgPSBnZXRTdGF0ZSgpOwoKICAgIGNvbnN0IHNwYWNlQ29kZSA9IHN0YXRlLmVudGl0aWVzLnNwYWNlc1tzdGF0ZS5zZXNzaW9uLnNwYWNlSWRdLmNvZGU7CgogICAgcmV0dXJuIEFwaU9mU3RvcnlNYXBwaW5nLmFkZEJvYXJkKHNwYWNlQ29kZSwgYm9hcmROYW1lKQogICAgICAgIC50aGVuKChkYXRhLCB0ZXh0U3RhdHVzLCBqcVhIUikgPT4gewogICAgICAgICAgICBkaXNwYXRjaChhZGRCb2FyZFN1Y2Nlc3MoewogICAgICAgICAgICAgICAgaWQ6IGRhdGEucmVzdWx0LmlkLAogICAgICAgICAgICAgICAgY2F0ZWdvcnk6ICdzdG9yeU1hcHBpbmcnLAogICAgICAgICAgICAgICAgbmFtZTogYm9hcmROYW1lLAogICAgICAgICAgICB9KSk7CiAgICAgICAgfSwgKGpxWEhSLCB0ZXh0U3RhdHVzLCBlcnJvclRocm93bikgPT4gewogICAgICAgICAgICBkaXNwYXRjaChhZGRCb2FyZEZhaWx1cmUodGV4dFN0YXR1cykpOwogICAgICAgIH0pOwp9OwoKZXhwb3J0IGNvbnN0IGVkaXRCb2FyZFJlcXVlc3QgPSBjcmVhdGVBY3Rpb24oRURJVF9CT0FSRF9SRVFVRVNUKTsKZXhwb3J0IGNvbnN0IGVkaXRCb2FyZFN1Y2Nlc3MgPSBjcmVhdGVBY3Rpb24oRURJVF9CT0FSRF9TVUNDRVNTKTsKZXhwb3J0IGNvbnN0IGVkaXRCb2FyZEZhaWx1cmUgPSBjcmVhdGVBY3Rpb24oRURJVF9CT0FSRF9GQUlMVVJFKTsKZXhwb3J0IGNvbnN0IGVkaXRCb2FyZCA9IChib2FyZElkLCBpbmZvKSA9PiAoZGlzcGF0Y2gsIGdldFN0YXRlKSA9PiB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>578</text>
