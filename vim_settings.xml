@@ -129,7 +129,12 @@
         <mark key="." line="103" column="31" />
         <mark key="^" line="103" column="31" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/issues.jsx" timestamp="1503303361529">
+      <file name="D:/baidu/icafe/frontend/src/pages/sidebar/containers/MenuList.jsx" timestamp="1503043266747">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/issues.jsx" timestamp="1503304176064">
         <mark key="[" line="44" column="56" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
@@ -190,6 +195,7 @@
         <mark key="." line="179" column="0" />
       </file>
       <file name="D:/baidu/icode/frontend-v2/src/common/utils/standardReduxShape.jsx" timestamp="1503046331675" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/searchQ/SearchQ.jsx" timestamp="1503304677418" />
       <file name="D:/baidu/intelligent-dev/frontend/src/health/review/actions/detail.js" timestamp="1503043717471" />
       <file name="D:/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1503283333170">
         <mark key="'" line="52" column="8" />
