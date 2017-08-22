@@ -9,11 +9,11 @@
         <mark key="^" line="42" column="27" />
         <mark key="." line="42" column="27" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1503384874253">
-        <mark key="[" line="73" column="26" />
-        <mark key="]" line="73" column="26" />
-        <mark key="." line="73" column="26" />
-        <mark key="^" line="73" column="30" />
+      <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1503387564053">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="26" column="30" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/webpack/webpack.config.js" timestamp="1503286201551">
         <mark key="[" line="44" column="38" />
@@ -37,11 +37,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1503385456876">
-        <mark key="[" line="34" column="61" />
-        <mark key="]" line="34" column="60" />
-        <mark key="." line="34" column="60" />
-        <mark key="^" line="34" column="54" />
+      <file name="D:/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1503387552616">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="119" />
+        <mark key="." line="34" column="77" />
+        <mark key="^" line="34" column="77" />
       </file>
       <file name="/Dummy.txt" timestamp="1503384528874">
         <mark key="[" line="0" column="0" />
@@ -106,44 +106,44 @@
       <jump line="51" column="8" filename="D:/baidu/icafe/frontend/src/pages/Index.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>-addons-perf</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJyZWFjdCI6ICIxNS4zLjIiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>-addons-perf</text>
+        <text>ReactPerf</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncmVhY3QtZG9tJzogX191cmkoJy4uLy4uL25vZGVfbW9kdWxlcy9yZWFjdC1kb20vZGlzdC9yZWFjdC1kb20uanMnKSArICc/JyArIG1vZHVsZVsncmVhY3QtZG9tJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAncmVhY3QtZG5kLWh0bWw1LWJhY2tlbmQnOiBfX3VyaSgnLi4vLi4vbm9kZV9tb2R1bGVzL3JlYWN0LWRuZC1odG1sNS1iYWNrZW5kL2Rpc3QvUmVhY3REbkRIVE1MNUJhY2tlbmQubWluLmpzJykgKyAnPycgKyBtb2R1bGVbJ3JlYWN0LWRuZC1odG1sNS1iYWNrZW5kJ10sCiAgICAgICAgLy8gJ3JlYWN0LWRvbSc6IF9fdXJpKCcuLi8uLi9ub2RlX21vZHVsZXMvcmVhY3QtZG9tL3VtZC9yZWFjdC1kb20uZGV2ZWxvcG1lbnQuanMnKSArICc/JyArIG1vZHVsZVsncmVhY3QtZG9tJ10sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAncmVhY3QnCg==</text>
+        <text encoding="base64">ICAgICJyZWFjdCI6ICIxNS4zLjIiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJyZWR1eC1sb2dnZXIiOiAiXjIuNi4xIiwK</text>
+        <text encoding="base64">ICAgICAgICAncmVhY3QnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">ICAgICJyZWR1eC1sb2dnZXIiOiAiXjIuNi4xIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIHVwZGF0ZSBmb3Igd2hhdCA/Pwo=</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgIC8vIHVwZGF0ZSBmb3Igd2hhdCA/Pwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBib2FyZHMgPSBnZXRCb2FyZHNMaXN0KHN0YXRlKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RpbWUxMicsIERhdGUubm93KCkgLSBub3cpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBib2FyZHMgPSBnZXRCb2FyZHNMaXN0KHN0YXRlKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmNvbnN0</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RpbWUxMicsIERhdGUubm93KCkgLSBub3cpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>578</text>
