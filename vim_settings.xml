@@ -26,6 +26,7 @@
       </file>
       <file name="D:/baidu/icafe/frontend/output/amd/resources/common/require-conf.js" timestamp="1503294803177" />
       <file name="D:/baidu/icafe/frontend/output/package.json" timestamp="1503315136988" />
+      <file name="D:/baidu/icafe/frontend/src/pages/topbar/components/Help.jsx" timestamp="1503380900510" />
       <file name="D:/baidu/icafe/frontend/output/amd/resources/storyMapping/components/AxisX.js" timestamp="1503055709286" />
       <file name="D:/baidu/icafe/frontend/src/pages/sidebar/components/MenuList.jsx" timestamp="1503042360139" />
       <file name="D:/baidu/icode/frontend-v2/src/insights/reducers/queries.jsx" timestamp="1503045365603" />
@@ -43,20 +44,9 @@
         <mark key="." line="30" column="60" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/issueTypes.jsx" timestamp="1503046089127" />
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1503372829003">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="94" column="14" />
-      </file>
-      <file name="D:/baidu/icode/frontend-v2/package.json" timestamp="1503281528561" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1503372829003" />
+      <file name="D:/baidu/icode/frontend-v2/package.json" timestamp="1503380786833" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/reducers/entities/menuItems.jsx" timestamp="1503042610075" />
-      <file name="D:/baidu/icafe/frontend/src/fis-conf.js" timestamp="1503314611301">
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="179" column="0" />
-        <mark key="^" line="99" column="23" />
-        <mark key="." line="179" column="0" />
-      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/searchQ/SearchQ.jsx" timestamp="1503304677418" />
       <file name="D:/baidu/icafe/frontend/src/pages/sidebar/components/MenuItem.jsx" timestamp="1503042331835" />
       <file name="D:/baidu/icafe/frontend/src/pages/issue/searchQ/widget/UserSelect.jsx" timestamp="1503297824459" />
@@ -75,25 +65,16 @@
         <mark key="^" line="801" column="12" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/searchQ/baseSearchItem/ScopeMenu.jsx" timestamp="1503314254996" />
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Board.jsx" timestamp="1503372683712">
-        <mark key="[" line="238" column="27" />
-        <mark key="]" line="238" column="27" />
-        <mark key="." line="238" column="27" />
-        <mark key="^" line="238" column="27" />
-      </file>
       <file name="D:/baidu/intelligent-dev/frontend/src/health/review/actions/summary.js" timestamp="1503044063148" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/issueStatus.jsx" timestamp="1503046135844" />
-      <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1503316862650">
-        <mark key="[" line="24" column="18" />
-        <mark key="]" line="24" column="18" />
-        <mark key="^" line="21" column="24" />
-        <mark key="." line="24" column="18" />
-      </file>
       <file name="D:/baidu/icode/frontend-v2/node_modules/@baidu/icafe-share/index.js" timestamp="1503282149808" />
       <file name="D:/baidu/icafe/frontend/src/pages/sidebar/containers/MenuList.jsx" timestamp="1503043266747">
         <mark key="[" line="48" column="0" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1503380866569">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/helper/components/RichLink.jsx" timestamp="1503042951714">
         <mark key="[" line="15" column="44" />
