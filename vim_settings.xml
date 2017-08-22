@@ -55,7 +55,7 @@
         <mark key="^" line="23" column="98" />
         <mark key="." line="23" column="98" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1503398720262">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1503406943229">
         <mark key="[" line="41" column="27" />
         <mark key="]" line="41" column="33" />
         <mark key="^" line="41" column="33" />
@@ -79,6 +79,8 @@
         <mark key="^" line="45" column="60" />
         <mark key="." line="45" column="60" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/fis-conf.js" timestamp="1503407088357" />
+      <file name="D:/baidu/icafe/frontend/scripts/build.sh" timestamp="1503407069626" />
       <file name="D:/baidu/icafe/frontend/src/pages/widget/spaceSelector/SpaceSelector.jsx" timestamp="1503388286218">
         <mark key="[" line="27" column="24" />
         <mark key="]" line="28" column="20" />
