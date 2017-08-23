@@ -6,6 +6,7 @@
       <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/sideItems/SidePanelHeader.jsx" timestamp="1503477115592">
         <mark key="[" line="26" column="2" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/SelectTree.jsx" timestamp="1503493759682" />
       <file name="/Board.jsx" timestamp="1503468773104" />
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Card.jsx" timestamp="1503458337678">
         <mark key="[" line="42" column="13" />
@@ -13,12 +14,12 @@
         <mark key="^" line="42" column="27" />
         <mark key="." line="42" column="27" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1503492465362">
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1503494283209">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="284" column="62" />
-        <mark key="]" line="284" column="63" />
-        <mark key="." line="284" column="63" />
-        <mark key="^" line="284" column="63" />
+        <mark key="[" line="394" column="63" />
+        <mark key="]" line="395" column="24" />
+        <mark key="." line="395" column="24" />
+        <mark key="^" line="395" column="24" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1503468493139">
         <mark key="[" line="26" column="18" />
@@ -133,11 +134,11 @@
       <jump line="2" column="0" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text>map</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>map</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
