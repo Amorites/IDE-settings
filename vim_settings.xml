@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1503462474394">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/helper/components/RichLink.jsx" timestamp="1503042951714">
         <mark key="[" line="15" column="44" />
         <mark key="]" line="15" column="60" />
@@ -57,8 +60,8 @@
         <mark key="^" line="38" column="16" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" timestamp="1503459778589">
-        <mark key="[" line="41" column="0" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" timestamp="1503460729918">
+        <mark key="[" line="47" column="70" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
         <mark key="^" line="40" column="25" />
