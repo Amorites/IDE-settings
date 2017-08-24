@@ -4,7 +4,7 @@
     <globalmarks />
     <filemarks>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Epic.jsx" timestamp="1503546057886" />
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/SelectTree.jsx" timestamp="1503548498490" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/SelectTree.jsx" timestamp="1503554759431" />
       <file name="/Board.jsx" timestamp="1503468773104" />
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Card.jsx" timestamp="1503458337678">
         <mark key="[" line="42" column="13" />
@@ -12,12 +12,12 @@
         <mark key="^" line="42" column="27" />
         <mark key="." line="42" column="27" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1503552462072">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="385" column="33" />
-        <mark key="]" line="385" column="40" />
-        <mark key="." line="385" column="40" />
-        <mark key="^" line="385" column="40" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1503555880811">
+        <mark key="'" line="2" column="8" />
+        <mark key="[" line="397" column="0" />
+        <mark key="]" line="397" column="8" />
+        <mark key="^" line="397" column="0" />
+        <mark key="." line="397" column="8" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1503541615742">
         <mark key="[" line="38" column="0" />
@@ -41,6 +41,7 @@
         <mark key="." line="48" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/node_modules/reselect/src/reselect.d.ts" timestamp="1503541405942" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/searchQ/baseSearchItem/BaseSearchItem.jsx" timestamp="1503554555948" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/issues.jsx" timestamp="1503372516895">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -70,7 +71,7 @@
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1503495907589" />
       <file name="D:/baidu/icafe/frontend/src/node_modules/reselect/package.json" timestamp="1503542158690" />
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1503480358328">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1503554942099">
         <mark key="[" line="872" column="2" />
         <mark key="]" line="852" column="0" />
         <mark key="^" line="792" column="12" />
@@ -100,6 +101,7 @@
         <mark key="." line="40" column="4" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Featrue.jsx" timestamp="1503546684346" />
+      <file name="/BaseSearchItem.jsx" timestamp="1503554310189" />
       <file name="D:/baidu/icafe/frontend/src/pages/topbar/components/Topbar.jsx" timestamp="1503472834355" />
       <file name="D:/baidu/intelligent-dev/frontend/src/health/review/selectors/summary.js" timestamp="1503541578889" />
       <file name="D:/baidu/intelligent-dev/frontend/package.json" timestamp="1503541589227" />
@@ -122,47 +124,47 @@
       <jump line="371" column="20" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" />
       <jump line="1" column="41" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" />
       <jump line="414" column="40" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" />
-      <jump line="2" column="0" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" />
+      <jump line="2" column="8" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0b2RvIHBsYW4gtcTQxc+i09DKsb/J0tTWsb3TtNNzdG9yZcihCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlzc3VlRmllbGRzOwogICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGluaXREYXRhLmludmlzaWJsZVByb3BzWzQ1Nzg4XSw=</text>
+        <text encoding="base64">IGVsc2Ugew==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHMgaW4gY29ucycsIHByb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICBpc3N1ZUZpZWxkczogdGFza0NyZWF0ZS5nZXQoJ2lzc3VlRmllbGRzJyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0b2RvIHBsYW4gtcTQxc+i09DKsb/J0tTWsb3TtNNzdG9yZcihCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlzc3VlRmllbGRzOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g0OjSqrP1yry7r7zGu67Qxc+io6zV4rK708XRxbCho6zS1Lrzw7+0ztPQ1eLW1tDox/O2vNKq1NptYXDA77zT0rvM9WlmZWxzZaOoyv3X6dbQ1dK1vbzGu66jqaOo1+66w8rH09DSu7j2uq/K/aOs1rsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0b2RvIHBsYW4gtcTQxc+i09DKsb/J0tTWsb3TtNNzdG9yZcihCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwbGFuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2Nyb2xsTGVmdD17KCkgPT4gKHt9KX0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g0OjSqrP1yry7r7zGu67Qxc+io6zV4rK708XRxbCho6zS1Lrzw7+0ztPQ1eLW1tDox/O2vNKq1NptYXDA77zT0rvM9WlmZWxzZaOoyv3X6dbQ1dK1vbzGu66jqaOo1+66w8rH09DSu7j2uq/K/aOs1rsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHMgaW4gZGlkVXBkYXRlJywgdC5wcm9wcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBwbGFuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHMgaW4gY29ucycsIHByb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2Nyb2xsTGVmdD17KCkgPT4gKHt9KX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJyZXNlbGVjdCI6ICJeMi41LjQiLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHMgaW4gZGlkVXBkYXRlJywgdC5wcm9wcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGxhbkluZGV4Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHMgaW4gY29ucycsIHByb3BzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>578</text>
@@ -229,6 +231,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
