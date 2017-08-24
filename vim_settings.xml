@@ -4,20 +4,19 @@
     <globalmarks />
     <filemarks>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Epic.jsx" timestamp="1503546057886" />
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/SelectTree.jsx" timestamp="1503554759431" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/SelectTree.jsx" timestamp="1503561353641" />
       <file name="/Board.jsx" timestamp="1503468773104" />
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Card.jsx" timestamp="1503458337678">
-        <mark key="[" line="42" column="13" />
-        <mark key="]" line="42" column="27" />
-        <mark key="^" line="42" column="27" />
-        <mark key="." line="42" column="27" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Card.jsx" timestamp="1503564336798">
+        <mark key="[" line="267" column="50" />
+        <mark key="]" line="267" column="54" />
+        <mark key="." line="267" column="54" />
+        <mark key="^" line="267" column="54" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1503558269322">
-        <mark key="'" line="2" column="8" />
-        <mark key="[" line="380" column="12" />
-        <mark key="]" line="380" column="25" />
-        <mark key="^" line="380" column="25" />
-        <mark key="." line="380" column="25" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1503562087068">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="386" column="46" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1503541615742">
         <mark key="[" line="38" column="0" />
@@ -32,7 +31,11 @@
         <mark key="." line="44" column="44" />
       </file>
       <file name="/reducer.jsx" timestamp="1503467951363" />
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CreateCard.jsx" timestamp="1503489762048" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CreateCard.jsx" timestamp="1503561894046">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/Index.jsx" timestamp="1503472811437" />
       <file name="D:/baidu/icafe/frontend/src/node_modules/reselect/dist/reselect.js" timestamp="1503542106472" />
       <file name="D:/baidu/icafe/frontend/src/pages/sidebar/containers/MenuList.jsx" timestamp="1503470043981">
@@ -42,22 +45,40 @@
       </file>
       <file name="D:/baidu/icafe/frontend/src/node_modules/reselect/src/reselect.d.ts" timestamp="1503541405942" />
       <file name="D:/baidu/icafe/frontend/src/pages/issue/searchQ/baseSearchItem/BaseSearchItem.jsx" timestamp="1503554555948" />
+      <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/issues.jsx" timestamp="1503372516895">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1503542198782">
         <mark key="[" line="45" column="9" />
         <mark key="]" line="45" column="9" />
         <mark key="." line="45" column="9" />
         <mark key="^" line="45" column="9" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/reducer/CreateAndEdit.jsx" timestamp="1503492892422">
-        <mark key="[" line="221" column="12" />
-        <mark key="]" line="222" column="0" />
-        <mark key="." line="222" column="0" />
-        <mark key="^" line="221" column="40" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/reducer/CreateAndEdit.jsx" timestamp="1503562071382">
+        <mark key="'" line="191" column="20" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
+        <mark key="^" line="191" column="59" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503548523525">
+      <file name="/Dummy.txt" timestamp="1503562078874">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/helper/components/RichLink.jsx" timestamp="1503042951714">
+        <mark key="[" line="15" column="44" />
+        <mark key="]" line="15" column="60" />
+        <mark key="." line="15" column="60" />
+        <mark key="^" line="15" column="60" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/components/CopyMigrateModal.jsx" timestamp="1503548605464" />
+      <file name="D:/baidu/icafe/frontend/src/pages/common/conf.js" timestamp="1503479238896">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="101" />
+        <mark key="^" line="23" column="98" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1503552511377">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="0" />
@@ -77,14 +98,31 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/FieldDirector.jsx" timestamp="1503557974806">
-        <mark key="[" line="137" column="35" />
-        <mark key="]" line="134" column="28" />
-        <mark key="." line="134" column="28" />
-        <mark key="^" line="134" column="28" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/UnMappedCards.jsx" timestamp="1503563918308">
+        <mark key="[" line="107" column="18" />
+        <mark key="]" line="107" column="22" />
+        <mark key="^" line="107" column="22" />
+        <mark key="." line="107" column="22" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Board.jsx" timestamp="1503467714417">
+        <mark key="[" line="236" column="0" />
+        <mark key="]" line="236" column="0" />
+        <mark key="^" line="9" column="28" />
+        <mark key="." line="236" column="0" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/FieldDirector.jsx" timestamp="1503559580953">
+        <mark key="[" line="134" column="0" />
+        <mark key="]" line="134" column="0" />
+        <mark key="." line="134" column="0" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/actions/index.jsx" timestamp="1503304994952">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="38" column="16" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/sidebar/components/Sidebar.jsx" timestamp="1503469826727" />
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" timestamp="1503469047260">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" timestamp="1503562589795">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
@@ -98,6 +136,12 @@
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Featrue.jsx" timestamp="1503546684346" />
       <file name="/BaseSearchItem.jsx" timestamp="1503554310189" />
+      <file name="D:/baidu/icafe/frontend/src/pages/widget/spaceSelector/SpaceSelector.jsx" timestamp="1503388286218">
+        <mark key="[" line="27" column="24" />
+        <mark key="]" line="28" column="20" />
+        <mark key="." line="28" column="20" />
+        <mark key="^" line="28" column="20" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/topbar/components/Topbar.jsx" timestamp="1503472834355" />
       <file name="D:/baidu/intelligent-dev/frontend/src/health/review/selectors/summary.js" timestamp="1503541578889" />
       <file name="D:/baidu/intelligent-dev/frontend/package.json" timestamp="1503541589227" />
@@ -121,13 +165,14 @@
       <jump line="1" column="41" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" />
       <jump line="414" column="40" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" />
       <jump line="2" column="8" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" />
+      <jump line="191" column="20" filename="D:/baidu/icafe/frontend/src/pages/issue/reducer/CreateAndEdit.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>merge</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">bGV0IGRyb3BJZDsK</text>
       </register>
       <register name="-" type="4">
-        <text>merge</text>
+        <text>hhhhhh</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -136,31 +181,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gZmllbGQubWVyZ2Uoewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGlzc3VlRmllbGRzOwogICAgfQo=</text>
+        <text encoding="base64">bGV0IGRyb3BJZDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0b2RvIHBsYW4gtcTQxc+i09DKsb/J0tTWsb3TtNNzdG9yZcihCg==</text>
+        <text encoding="base64">aW1wb3J0IHt0YXNrQ3JlYXRlfSBmcm9tICIuLi9yZWR1Y2VyL0NyZWF0ZUFuZEVkaXQiOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0IH0gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g0OjSqrP1yry7r7zGu67Qxc+io6zV4rK708XRxbCho6zS1Lrzw7+0ztPQ1eLW1tDox/O2vNKq1NptYXDA77zT0rvM9WlmZWxzZaOoyv3X6dbQ1dK1vbzGu66jqaOo1+66w8rH09DSu7j2uq/K/aOs1rsK</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvILK70qppZqOs0MK9qLKiudjBqtKytKuz9cq81rUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBwbGFuCg==</text>
+        <text encoding="base64">ICAgIGlmIChkYXRhLmludmlzaWJsZVByb3BzKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2Nyb2xsTGVmdD17KCkgPT4gKHt9KX0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBsYW5EYXRhID0gZ2V0KGRhdGEsIFsnaW52aXNpYmxlUHJvcHMnLCAnNDU3ODgnXSk7CiAgICBpZiAocGxhbkRhdGEpIHsKICAgICAgICBjb25zdCBwbGFuTmFtZSA9IGdldFN0YXRlKCkuZW50aXRpZXMuZ2V0KCkKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHMgaW4gZGlkVXBkYXRlJywgdC5wcm9wcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFtgJHt5QXhpc0ZpZWxkS2V5fV9uYW1lYF06Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncHJvcHMgaW4gY29ucycsIHByb3BzKTsK</text>
+        <text encoding="base64">ICAgICAgICBkYXRhWzQ1Nzg4XQo=</text>
       </register>
       <register name=":" type="4">
         <text>578</text>
