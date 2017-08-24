@@ -14,12 +14,12 @@
         <mark key="^" line="42" column="27" />
         <mark key="." line="42" column="27" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1503494283209">
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1503497348623">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="394" column="63" />
-        <mark key="]" line="395" column="24" />
-        <mark key="." line="395" column="24" />
-        <mark key="^" line="395" column="24" />
+        <mark key="[" line="377" column="42" />
+        <mark key="]" line="377" column="42" />
+        <mark key="." line="377" column="42" />
+        <mark key="^" line="377" column="44" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1503468493139">
         <mark key="[" line="26" column="18" />
@@ -77,6 +77,7 @@
         <mark key="^" line="41" column="33" />
         <mark key="." line="42" column="0" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/RelIssueTable.jsx" timestamp="1503495907589" />
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1503480358328">
         <mark key="[" line="872" column="2" />
         <mark key="]" line="852" column="0" />
@@ -135,10 +136,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>map</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -147,31 +148,31 @@
         <text encoding="base64">ICAgICAgICAncmVzZWxlY3QnOiBfX3VyaSgnLi4vLi4vbm9kZV9tb2R1bGVzL3Jlc2VsZWN0L2Rpc3QvcmVzZWxlY3QuanMnKSArICc/JyArIG1vZHVsZVsncmVzZWxlY3QnXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcGxhbkluZGV4Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobW9kZSAhPSAnY3JlYXRlQW5kQ29ubmVjdCcpIHsK</text>
+        <text encoding="base64">Ly8gdG9kbyDV+8Dtwt+8raOs1eK+zdKqv7TTw7eowcsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXQsIHByb3BlcnR5fSBmcm9tICdsb2Rhc2gvZnAnOwo=</text>
+        <text encoding="base64">CiAgICBjb21wb25lbnREaWRNb3VudCgpIHsKICAgICAgICBjb25zb2xlLmxvZygnY29tcG9uZW50RGlkTW91bnQnKTsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc29sZS5sb2coJyEhISEhISEhISEhJywgZ2V0KCdhJykoe2E6IDEyM30pKTsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXQsIHByb3BlcnR5fSBmcm9tICdsb2Rhc2gvZnAnOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAobW9kZSAhPSAnY3JlYXRlQW5kQ29ubmVjdCcpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvILjEw/ujuiBpbml0RGF0YSAtPiBpbml0RGF0YQo=</text>
+        <text encoding="base64">aW1wb3J0IHtnZXQsIHByb3BlcnR5fSBmcm9tICdsb2Rhc2gvZnAnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyCg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coJyEhISEhISEhISEhJywgZ2V0KCdhJykoe2E6IDEyM30pKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhgcmVuZGVyIGNhcmRzQ2VsbCAkeysrdGhpcy5yZWRlclRpbWVzfSB0aW1lc2ApOwo=</text>
+        <text encoding="base64">aW1wb3J0IHtnZXQsIHByb3BlcnR5fSBmcm9tICdsb2Rhc2gvZnAnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRpc3BhdGNoKHVwZGF0ZU1hcENhcmRzKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB0b2RvILjEw/ujuiBpbml0RGF0YSAtPiBpbml0RGF0YQo=</text>
       </register>
       <register name=":" type="4">
         <text>578</text>
