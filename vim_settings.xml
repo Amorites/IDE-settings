@@ -137,11 +137,12 @@
         <mark key="^" line="38" column="16" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" timestamp="1503660473819">
-        <mark key="[" line="51" column="15" />
-        <mark key="]" line="51" column="15" />
-        <mark key="." line="51" column="15" />
-        <mark key="^" line="40" column="55" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" timestamp="1503662177414">
+        <mark key="'" line="48" column="12" />
+        <mark key="[" line="39" column="22" />
+        <mark key="]" line="39" column="24" />
+        <mark key="^" line="39" column="24" />
+        <mark key="." line="39" column="24" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/fis-conf.js" timestamp="1503541938603">
         <mark key="[" line="40" column="22" />
@@ -181,10 +182,12 @@
       <jump line="414" column="40" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" />
       <jump line="2" column="8" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" />
       <jump line="191" column="20" filename="D:/baidu/icafe/frontend/src/pages/issue/reducer/CreateAndEdit.jsx" />
+      <jump line="39" column="11" filename="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" />
+      <jump line="48" column="12" filename="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>!!</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjYXJkczJbMF0gJiYgY2FyZHMyWzBdLmNvbG9yKTsKICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="-" type="4">
         <text>!!</text>
@@ -196,31 +199,31 @@
         <text encoding="base64">ICAgICAgICAncmVkdXgtYWN0aW9ucyc6IF9fdXJpKCcuLi8uLi9ub2RlX21vZHVsZXMvcmVkdXgtYWN0aW9ucy9kaXN0L3JlZHV4LWFjdGlvbnMuanMnKSArICc/JyArIG1vZHVsZVsncmVkdXgtYWN0aW9ucyddLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjYXJkczJbMF0gJiYgY2FyZHMyWzBdLmNvbG9yKTsKICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfHwgIWlzRXF1YWwoKQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjYXJkczJbMF0gJiYgY2FyZHMyWzBdLmNvbG9yKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IGRyb3BJZDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhuZXh0UHJvcHMudi4pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHt0YXNrQ3JlYXRlfSBmcm9tICIuLi9yZWR1Y2VyL0NyZWF0ZUFuZEVkaXQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfHwgIWlzRXF1YWwoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgZ2V0IH0gZnJvbSAnbG9kYXNoJzsK</text>
+        <text encoding="base64">bGV0IGRyb3BJZDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0b2RvILK70qppZqOs0MK9qLKiudjBqtKytKuz9cq81rUK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChkYXRhLmludmlzaWJsZVByb3BzKQo=</text>
+        <text encoding="base64">aW1wb3J0IHt0YXNrQ3JlYXRlfSBmcm9tICIuLi9yZWR1Y2VyL0NyZWF0ZUFuZEVkaXQiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBsYW5EYXRhID0gZ2V0KGRhdGEsIFsnaW52aXNpYmxlUHJvcHMnLCAnNDU3ODgnXSk7CiAgICBpZiAocGxhbkRhdGEpIHsKICAgICAgICBjb25zdCBwbGFuTmFtZSA9IGdldFN0YXRlKCkuZW50aXRpZXMuZ2V0KCkKICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgZ2V0IH0gZnJvbSAnbG9kYXNoJzsK</text>
       </register>
       <register name=":" type="4">
         <text>578</text>
