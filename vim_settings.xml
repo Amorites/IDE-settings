@@ -137,10 +137,10 @@
         <mark key="^" line="38" column="16" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" timestamp="1503652749267">
-        <mark key="[" line="40" column="57" />
-        <mark key="]" line="40" column="55" />
-        <mark key="." line="40" column="55" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" timestamp="1503660473819">
+        <mark key="[" line="51" column="15" />
+        <mark key="]" line="51" column="15" />
+        <mark key="." line="51" column="15" />
         <mark key="^" line="40" column="55" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/fis-conf.js" timestamp="1503541938603">
@@ -183,11 +183,11 @@
       <jump line="191" column="20" filename="D:/baidu/icafe/frontend/src/pages/issue/reducer/CreateAndEdit.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IAo=</text>
+      <register name="&quot;" type="4">
+        <text>!!</text>
       </register>
       <register name="-" type="4">
-        <text>actions</text>
+        <text>!!</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
