@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/storyMapping/widget/index.js" timestamp="1503664636647" />
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Card.jsx" timestamp="1503651443390">
         <mark key="[" line="267" column="50" />
         <mark key="]" line="267" column="54" />
@@ -23,8 +24,11 @@
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/Index.jsx" timestamp="1503472811437" />
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardHolder.jsx" timestamp="1503576642632" />
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Cards.jsx" timestamp="1503653654188">
-        <mark key="[" line="201" column="1" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Cards.jsx" timestamp="1503664239529">
+        <mark key="[" line="142" column="31" />
+        <mark key="]" line="142" column="37" />
+        <mark key="^" line="142" column="37" />
+        <mark key="." line="142" column="37" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1503576489737">
         <mark key="[" line="209" column="39" />
@@ -137,7 +141,7 @@
         <mark key="^" line="38" column="16" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" timestamp="1503662177414">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" timestamp="1503664252944">
         <mark key="'" line="48" column="12" />
         <mark key="[" line="39" column="22" />
         <mark key="]" line="39" column="24" />
@@ -186,11 +190,11 @@
       <jump line="48" column="12" filename="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhjYXJkczJbMF0gJiYgY2FyZHMyWzBdLmNvbG9yKTsKICAgICAgICBpZiAoKQo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>!!</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
