@@ -42,13 +42,6 @@
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/reducer/CreateAndEdit.jsx" timestamp="1503562071382">
-        <mark key="'" line="191" column="20" />
-        <mark key="[" line="220" column="0" />
-        <mark key="]" line="220" column="0" />
-        <mark key="." line="220" column="0" />
-        <mark key="^" line="191" column="59" />
-      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/common/conf.js" timestamp="1503479238896">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="101" />
@@ -68,7 +61,7 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Board.jsx" timestamp="1503467714417">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Board.jsx" timestamp="1503890156752">
         <mark key="[" line="236" column="0" />
         <mark key="]" line="236" column="0" />
         <mark key="^" line="9" column="28" />
@@ -94,6 +87,7 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/HighlightCard.jsx" timestamp="1503890188866" />
       <file name="D:/baidu/icafe/frontend/src/node_modules/reselect/dist/reselect.js" timestamp="1503542106472" />
       <file name="D:/baidu/icafe/frontend/src/pages/sidebar/containers/MenuList.jsx" timestamp="1503470043981">
         <mark key="[" line="48" column="0" />
