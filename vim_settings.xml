@@ -4,11 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/storyMapping/widget/index.js" timestamp="1503664636647" />
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Card.jsx" timestamp="1503908213383">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Card.jsx" timestamp="1503909189279">
         <mark key="[" line="235" column="39" />
-        <mark key="]" line="268" column="54" />
-        <mark key="." line="268" column="54" />
-        <mark key="^" line="268" column="54" />
+        <mark key="]" line="235" column="15" />
+        <mark key="." line="235" column="15" />
+        <mark key="^" line="235" column="15" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1503562087068">
         <mark key="[" line="16" column="0" />
