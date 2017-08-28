@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1503916847352">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/storyMapping/widget/index.js" timestamp="1503664636647" />
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Card.jsx" timestamp="1503909189279">
         <mark key="[" line="235" column="39" />
@@ -22,6 +25,7 @@
         <mark key="^" line="44" column="44" />
         <mark key="." line="44" column="44" />
       </file>
+      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/common/widget/top/top_new.jsp" timestamp="1503916936608" />
       <file name="D:/baidu/icafe/frontend/src/pages/issue/Index.jsx" timestamp="1503472811437" />
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardHolder.jsx" timestamp="1503576642632" />
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Cards.jsx" timestamp="1503911258313">
@@ -36,6 +40,13 @@
         <mark key="]" line="2" column="42" />
         <mark key="^" line="2" column="42" />
         <mark key="." line="2" column="42" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/reducer/CreateAndEdit.jsx" timestamp="1503916821267">
+        <mark key="'" line="191" column="20" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
+        <mark key="^" line="191" column="59" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/common/conf.js" timestamp="1503479238896">
         <mark key="[" line="43" column="0" />
@@ -69,6 +80,7 @@
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Epic.jsx" timestamp="1503546057886" />
       <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/SelectTree.jsx" timestamp="1503561353641" />
+      <file name="D:/baidu/icafe/frontend/src/pages/redux/reducers/ui/sidePanel.jsx" timestamp="1503916854982" />
       <file name="/Board.jsx" timestamp="1503468773104" />
       <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1503892014275" />
       <file name="/reducer.jsx" timestamp="1503467951363" />
@@ -92,7 +104,7 @@
         <mark key="." line="46" column="49" />
         <mark key="^" line="46" column="49" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503910987284">
+      <file name="/Dummy.txt" timestamp="1503916841900">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/helper/components/RichLink.jsx" timestamp="1503042951714">
@@ -151,6 +163,7 @@
         <mark key="^" line="45" column="29" />
         <mark key="." line="45" column="29" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/sidePanel.jsx" timestamp="1503916805330" />
       <file name="D:/baidu/icafe/frontend/src/pages/widget/spaceSelector/SpaceSelector.jsx" timestamp="1503388286218">
         <mark key="[" line="27" column="24" />
         <mark key="]" line="28" column="20" />
