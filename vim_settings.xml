@@ -63,7 +63,7 @@
       </file>
       <file name="D:/baidu/icafe/frontend/output/amd/resources/common/require-conf.js" timestamp="1503629389193" />
       <file name="D:/baidu/icafe/frontend/src/node_modules/reselect/package.json" timestamp="1503542158690" />
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1504012431743">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1504013346360">
         <mark key="[" line="878" column="0" />
         <mark key="]" line="878" column="0" />
         <mark key="." line="878" column="0" />
@@ -89,6 +89,7 @@
       <file name="D:/baidu/icafe/frontend/src/pages/issue/components/fields/SelectTree.jsx" timestamp="1503561353641" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/reducers/ui/sidePanel.jsx" timestamp="1503916854982" />
       <file name="D:/baidu/icafe/frontend/src/pages/issue/constants.jsx" timestamp="1503974014587" />
+      <file name="D:/codes/redux-optimistic-thunk/src/index.js" timestamp="1504014112288" />
       <file name="/Board.jsx" timestamp="1503468773104" />
       <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1503892014275" />
       <file name="/reducer.jsx" timestamp="1503467951363" />
@@ -123,6 +124,7 @@
         <mark key="^" line="15" column="60" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/components/CopyMigrateModal.jsx" timestamp="1503548605464" />
+      <file name="D:/codes/redux-optimistic-thunk/README.md" timestamp="1504057532512" />
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1503980227252">
         <mark key="[" line="247" column="0" />
         <mark key="]" line="247" column="0" />
