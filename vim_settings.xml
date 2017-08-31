@@ -30,6 +30,7 @@
         <mark key="." line="66" column="55" />
         <mark key="^" line="66" column="55" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/TransTypeModal.jsx" timestamp="1504169666875" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/users.jsx" timestamp="1504145892345" />
       <file name="D:/codes/redux-optimistic-thunk/example/react/action.js" timestamp="1504076664512">
         <mark key="[" line="28" column="0" />
@@ -60,7 +61,12 @@
         <mark key="^" line="61" column="32" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/.eslintrc.json" timestamp="1504084770714" />
+      <file name="D:/baidu/icafe/frontend/.eslintrc.json" timestamp="1504169603546">
+        <mark key="[" line="32" column="25" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="27" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/HighlightCard.jsx" timestamp="1503974528076">
         <mark key="[" line="25" column="7" />
         <mark key="]" line="25" column="7" />
@@ -132,11 +138,11 @@
       <jump line="895" column="43" filename="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKGlzc3VlSW5mbywgZGF0YSk7CiAgICAvLyBleGNoYW5nZSBpc3N1ZUluZm8gLCB7aWR9CiAgICAvLyBjb25zdCBjYXJkRGF0YSA9IGFzc2lnbih7fSwgaXNzdWVJbmZvLCB7aWQ6IGNhcmRJZH0pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
