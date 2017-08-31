@@ -37,12 +37,12 @@
         <mark key="." line="28" column="7" />
         <mark key="^" line="28" column="7" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1504155634772">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1504156725123">
         <mark key="'" line="874" column="43" />
-        <mark key="[" line="885" column="55" />
-        <mark key="]" line="885" column="55" />
-        <mark key="^" line="790" column="38" />
-        <mark key="." line="885" column="55" />
+        <mark key="[" line="845" column="43" />
+        <mark key="]" line="845" column="43" />
+        <mark key="^" line="846" column="66" />
+        <mark key="." line="845" column="43" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Board.jsx" timestamp="1504084891810">
         <mark key="[" line="237" column="0" />
@@ -144,8 +144,8 @@
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zdCBjYXJkRGF0YSA9IGFzc2lnbih7fSwgaXNzdWVJbmZvLCBkYXRhLCB7aWQ6IGNhcmRJZH0pOwo=</text>
+      <register name="0" type="4">
+        <text>assign({}, issueInfo, data, {id: cardId});</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBjYXJkRGF0YSA9IAo=</text>
