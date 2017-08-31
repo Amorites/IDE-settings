@@ -37,12 +37,12 @@
         <mark key="." line="28" column="7" />
         <mark key="^" line="28" column="7" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1504156725123">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1504159020214">
         <mark key="'" line="874" column="43" />
-        <mark key="[" line="845" column="43" />
-        <mark key="]" line="845" column="43" />
+        <mark key="[" line="888" column="55" />
+        <mark key="]" line="888" column="55" />
         <mark key="^" line="846" column="66" />
-        <mark key="." line="845" column="43" />
+        <mark key="." line="888" column="55" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Board.jsx" timestamp="1504084891810">
         <mark key="[" line="237" column="0" />
@@ -136,10 +136,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
