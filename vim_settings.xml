@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1503916847352">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Card.jsx" timestamp="1503979453096">
         <mark key="[" line="235" column="39" />
         <mark key="]" line="235" column="15" />
@@ -47,6 +50,9 @@
         <mark key="." line="237" column="0" />
         <mark key="^" line="198" column="31" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/sideItems/SidePanelHeader.jsx" timestamp="1503477115592">
+        <mark key="[" line="26" column="2" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/common/api.jsx" timestamp="1504144570066" />
       <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1504082927660">
         <mark key="[" line="61" column="0" />
@@ -73,11 +79,14 @@
         <mark key="." line="47" column="22" />
         <mark key="^" line="46" column="49" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1504146061427">
-        <mark key="[" line="94" column="55" />
-        <mark key="]" line="94" column="55" />
-        <mark key="^" line="94" column="55" />
-        <mark key="." line="94" column="55" />
+      <file name="/Dummy.txt" timestamp="1504147312984">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1504147318159">
+        <mark key="[" line="93" column="8" />
+        <mark key="]" line="93" column="13" />
+        <mark key="^" line="93" column="13" />
+        <mark key="." line="93" column="13" />
       </file>
       <file name="D:/codes/play-ground/src/App.js" timestamp="1503887447559">
         <mark key="[" line="43" column="12" />
@@ -123,11 +132,11 @@
       <jump line="895" column="43" filename="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBjb25zdCBjYXJkRGF0YSA9IGFzc2lnbih7fSwgZGF0YSwge2lkOiBjYXJkSWR9KTsKICAgICAgICAgICAgICAgICAgICAvLyBjb25zdCBjYXJkSWRzID0gKHByZXYgPT4gewogICAgICAgICAgICAgICAgICAgIC8vICAgICBpZiAocHJldikgewogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgcmV0dXJuIG1hcHBlZENhcmRJZHNJbW11Lmluc2VydChtYXBwZWRDYXJkSWRzSW1tdS5pbmRleE9mKHByZXYpICsgMSwgY2FyZERhdGEuaWQpOwogICAgICAgICAgICAgICAgICAgIC8vICAgICB9CiAgICAgICAgICAgICAgICAgICAgLy8gICAgIGVsc2UgewogICAgICAgICAgICAgICAgICAgIC8vICAgICAgICAgcmV0dXJuIG1hcHBlZENhcmRJZHNJbW11LnVuc2hpZnQoY2FyZERhdGEuaWQpOwogICAgICAgICAgICAgICAgICAgIC8vICAgICB9CiAgICAgICAgICAgICAgICAgICAgLy8gfSkocHJldik7CiAgICAgICAgICAgICAgICAgICAgLy8gLy8gzsrM4jGjqNLRveK+9tK7suN0aHVua7XEx+m/9qOpo7rT6yByZXVkeC10aHVuayDSu8bwyrnTw7XEyrG68qOsyOe6zsq508O4tNTTtcRhY3Rpb24gY3JlYXRvcgogICAgICAgICAgICAgICAgICAgIC8vIHB1dElzc3VlKGNhcmREYXRhKShkaXNwYXRjaCk7CiAgICAgICAgICAgICAgICAgICAgLy8gZGlzcGF0Y2godXBkYXRlTGlzdFNoYXBlKHtbU1RPUllfTUFQUElOR19MSVNUX01BUF06IGNhcmRJZHN9KSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">bGV0IA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
