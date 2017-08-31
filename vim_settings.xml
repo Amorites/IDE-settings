@@ -37,12 +37,12 @@
         <mark key="." line="28" column="7" />
         <mark key="^" line="28" column="7" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1504148172345">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1504149785288">
         <mark key="'" line="874" column="43" />
-        <mark key="[" line="879" column="58" />
-        <mark key="]" line="879" column="60" />
-        <mark key="^" line="879" column="60" />
-        <mark key="." line="879" column="60" />
+        <mark key="[" line="874" column="7" />
+        <mark key="]" line="874" column="6" />
+        <mark key="^" line="874" column="6" />
+        <mark key="." line="874" column="6" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Board.jsx" timestamp="1504084891810">
         <mark key="[" line="237" column="0" />
@@ -105,6 +105,9 @@
         <mark key="]" line="29" column="29" />
         <mark key="^" line="29" column="29" />
         <mark key="." line="29" column="29" />
+      </file>
+      <file name="/fragment.js2" timestamp="1504148962900">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
