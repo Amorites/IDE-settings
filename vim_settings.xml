@@ -37,6 +37,7 @@
         <mark key="^" line="109" column="31" />
         <mark key="." line="109" column="31" />
       </file>
+      <file name="D:/baidu/icode/frontend-v2/src/global/reducers/index.jsx" timestamp="1504237406228" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/users.jsx" timestamp="1504145892345" />
       <file name="D:/codes/redux-optimistic-thunk/example/react/action.js" timestamp="1504076664512">
         <mark key="[" line="28" column="0" />
@@ -85,6 +86,12 @@
         <mark key="." line="25" column="7" />
         <mark key="^" line="25" column="8" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/redux/reducers/entitiesMeta/issueTypeOrder.jsx" timestamp="1504237531540">
+        <mark key="[" line="10" column="46" />
+        <mark key="]" line="10" column="46" />
+        <mark key="." line="10" column="46" />
+        <mark key="^" line="10" column="46" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/issues.jsx" timestamp="1504160615867">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -97,11 +104,16 @@
         <mark key="." line="40" column="128" />
         <mark key="^" line="40" column="128" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504235625392">
+      <file name="/Dummy.txt" timestamp="1504237382158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/planAndTrack/widget/config/planTrackConfig.js" timestamp="1504185416485" />
-      <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/issueTypes.jsx" timestamp="1504171541725" />
+      <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/issueTypes.jsx" timestamp="1504237311393">
+        <mark key="[" line="22" column="62" />
+        <mark key="]" line="22" column="71" />
+        <mark key="^" line="22" column="71" />
+        <mark key="." line="22" column="71" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1504147318159">
         <mark key="[" line="93" column="8" />
         <mark key="]" line="93" column="13" />
@@ -114,6 +126,7 @@
         <mark key="^" line="43" column="12" />
         <mark key="." line="43" column="12" />
       </file>
+      <file name="D:/baidu/icode/frontend-v2/package.json" timestamp="1504237381832" />
       <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormDisplay.jsx" timestamp="1504236172154">
         <mark key="o" line="3" column="18" />
       </file>
@@ -165,10 +178,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get(issueTypes, transTypeModal.get('spaceId'))</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
