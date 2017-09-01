@@ -31,11 +31,11 @@
         <mark key="^" line="66" column="55" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/widget/pictureGuide/PictureGuide.jsx" timestamp="1504248896064" />
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/TransTypeModal.jsx" timestamp="1504247869517">
-        <mark key="[" line="60" column="77" />
-        <mark key="]" line="60" column="78" />
-        <mark key="^" line="60" column="78" />
-        <mark key="." line="60" column="78" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/TransTypeModal.jsx" timestamp="1504251200596">
+        <mark key="[" line="60" column="31" />
+        <mark key="]" line="60" column="31" />
+        <mark key="^" line="57" column="25" />
+        <mark key="." line="60" column="31" />
       </file>
       <file name="D:/baidu/icode/frontend-v2/src/global/reducers/index.jsx" timestamp="1504237406228" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/users.jsx" timestamp="1504145892345" />
@@ -52,27 +52,40 @@
         <mark key="^" line="887" column="69" />
         <mark key="." line="887" column="69" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/RemindModal.jsx" timestamp="1504250955147">
+        <mark key="[" line="73" column="24" />
+        <mark key="]" line="73" column="24" />
+        <mark key="^" line="77" column="64" />
+        <mark key="." line="73" column="24" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Board.jsx" timestamp="1504084891810">
         <mark key="[" line="237" column="0" />
         <mark key="]" line="237" column="0" />
         <mark key="." line="237" column="0" />
         <mark key="^" line="198" column="31" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/OperationModals.jsx" timestamp="1504249611609">
-        <mark key="[" line="89" column="71" />
-        <mark key="]" line="89" column="71" />
-        <mark key="." line="89" column="71" />
-        <mark key="^" line="89" column="71" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/DeleteIssueModal.jsx" timestamp="1504251268951">
+        <mark key="[" line="58" column="33" />
+        <mark key="]" line="58" column="33" />
+        <mark key="." line="58" column="33" />
+        <mark key="^" line="66" column="37" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/OperationModals.jsx" timestamp="1504250507118">
+        <mark key="'" line="89" column="25" />
+        <mark key="[" line="89" column="33" />
+        <mark key="]" line="89" column="33" />
+        <mark key="." line="89" column="33" />
+        <mark key="^" line="89" column="32" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/sideItems/SidePanelHeader.jsx" timestamp="1503477115592">
         <mark key="[" line="26" column="2" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/common/api.jsx" timestamp="1504144570066" />
-      <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1504179352095">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="^" line="61" column="32" />
-        <mark key="." line="61" column="0" />
+      <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1504251802496">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="59" column="32" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/.eslintrc.json" timestamp="1504169603546">
         <mark key="[" line="32" column="25" />
@@ -104,8 +117,14 @@
         <mark key="." line="40" column="128" />
         <mark key="^" line="40" column="128" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504247686470">
+      <file name="/Dummy.txt" timestamp="1504251734678">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/CopyMigrateModal.jsx" timestamp="1504250908531">
+        <mark key="[" line="154" column="6" />
+        <mark key="]" line="170" column="81" />
+        <mark key="^" line="170" column="81" />
+        <mark key="." line="170" column="81" />
       </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/planAndTrack/widget/config/planTrackConfig.js" timestamp="1504185416485" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/issueTypes.jsx" timestamp="1504237311393">
@@ -145,7 +164,7 @@
       <file name="/fragment.js2" timestamp="1504148962900">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/reducer/OperationModalsReducer.jsx" timestamp="1504249369865">
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/reducer/OperationModalsReducer.jsx" timestamp="1504250841641">
         <mark key="[" line="11" column="6" />
         <mark key="]" line="11" column="6" />
         <mark key="^" line="11" column="6" />
@@ -175,13 +194,14 @@
       <jump line="48" column="12" filename="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" />
       <jump line="63" column="12" filename="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/HighlightCard.jsx" />
       <jump line="895" column="43" filename="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" />
+      <jump line="89" column="25" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/OperationModals.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>hideTransTypeModal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJjaGFpIjogIl4zLjUuMCIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>hideTransTypeModal</text>
+        <text encoding="base64">LCA=</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -190,31 +210,31 @@
         <text>get(issueTypes, transTypeModal.get('spaceId'))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygn16q7u8Dg0M0nLCBpc3N1ZVR5cGVzLCBnZXQoaXNzdWVUeXBlcywgdHJhbnNUeXBlTW9kYWwuZ2V0KCdzcGFjZUlkJykpKTsK</text>
+        <text encoding="base64">ICAgICJjaGFpIjogIl4zLjUuMCIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHtnZXR9IGZyb20gJ2xvZGFzaCc7Cg==</text>
+        <text encoding="base64">ICAgICJlbnp5bWUiOiAiXjIuNC4xIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJqc2RvbSI6ICJeOS41LjAiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxSZWNlaXZlUHJvcHMobmV4dFByb3BzKSB7CiAgICAgICAgY29uc3QgeyBzcGFjZUlkLCBpc3N1ZVR5cGVzIH0gPSBuZXh0UHJvcHM7CiAgICAgICAgY29uc29sZS5sb2coJ3JlY2VpdmUgdHlwZScsIG5leHRQcm9wcyk7CiAgICAgICAgLy8gaWYgKHNwYWNlSWQgIT09IHRoaXMucHJvcHMuc3BhY2VJZCkgewogICAgICAgIC8vICAgICBzcGFjZS5zaW1wbGVJc3N1ZVR5cGVzKHNwYWNlSWQpLnRoZW4oCiAgICAgICAgLy8gICAgICAgICBpc3N1ZVR5cGVzID0+IHRoaXMuc2V0U3RhdGUoeyBpc3N1ZVR5cGVzIH0pCiAgICAgICAgLy8gICAgICkKICAgICAgICAvLyB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICJtb2NoYSI6ICJeMy4wLjIiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudFdpbGxSZWNlaXZlUHJvcHMobmV4dFByb3BzKSB7CiAgICAgICAgY29uc3QgeyBzcGFjZUlkLCBpc3N1ZVR5cGVzIH0gPSBuZXh0UHJvcHM7CiAgICAgICAgY29uc29sZS5sb2coJ3JlY2VpdmUgdHlwZScsIG5leHRQcm9wcyk7CiAgICAgICAgLy8gaWYgKHNwYWNlSWQgIT09IHRoaXMucHJvcHMuc3BhY2VJZCkgewogICAgICAgIC8vICAgICBzcGFjZS5zaW1wbGVJc3N1ZVR5cGVzKHNwYWNlSWQpLnRoZW4oCiAgICAgICAgLy8gICAgICAgICBpc3N1ZVR5cGVzID0+IHRoaXMuc2V0U3RhdGUoeyBpc3N1ZVR5cGVzIH0pCiAgICAgICAgLy8gICAgICkKICAgICAgICAvLyB9CiAgICB9CgogICAgaGFuZGxlU3VibWl0ID0gKCkgPT4gewo=</text>
+        <text encoding="base64">ICAgICJyZWFjdC1hZGRvbnMtdGVzdC11dGlscyI6ICIxNS4zLjIiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwcm9wcy5pc3N1ZVR5cGVzKTsK</text>
+        <text encoding="base64">ICAgICJyZWR1eC1tb2NrLXN0b3JlIjogIl4xLjIuMSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNzdWVUeXBlczogW10sCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJlc2V0U3RhdGUoKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgIHN0YXRpYyBwcm9wVHlwZXMgPSB7CiAgICAgICAgdmlzaWJsZTogUHJvcFR5cGVzLmJvb2wuaXNSZXF1aXJlZCwKICAgICAgICBjbG9zZU1vZGFsOiBQcm9wVHlwZXMuZnVuYy5pc1JlcXVpcmVkLAogICAgICAgIHNwYWNlSWQ6IFByb3BUeXBlcy5udW1iZXIuaXNSZXF1aXJlZCwKICAgICAgICBpc3N1ZUlkOiBQcm9wVHlwZXMubnVtYmVyLmlzUmVxdWlyZWQsCiAgICAgICAgaXNzdWVFZGl0U3VjY2VzczogUHJvcFR5cGVzLmZ1bmMsCiAgICAgICAgaXNzdWVUeXBlczogUHJvcFR5cGVzLm9iamVjdCwKICAgIH07</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygn16q7u8Dg0M0nLCBpc3N1ZVR5cGVzLCBnZXQoaXNzdWVUeXBlcywgdHJhbnNUeXBlTW9kYWwuZ2V0KCdzcGFjZUlkJykpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aXNzdWVUeXBlcwo=</text>
+        <text encoding="base64">aW1wb3J0IHtnZXR9IGZyb20gJ2xvZGFzaCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>578</text>
