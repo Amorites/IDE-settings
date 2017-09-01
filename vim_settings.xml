@@ -30,12 +30,12 @@
         <mark key="." line="66" column="55" />
         <mark key="^" line="66" column="55" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/widget/pictureGuide/PictureGuide.jsx" timestamp="1504246397876" />
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/TransTypeModal.jsx" timestamp="1504245603826">
-        <mark key="[" line="60" column="32" />
-        <mark key="]" line="60" column="32" />
-        <mark key="^" line="60" column="32" />
-        <mark key="." line="60" column="32" />
+      <file name="D:/baidu/icafe/frontend/src/pages/widget/pictureGuide/PictureGuide.jsx" timestamp="1504248896064" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/TransTypeModal.jsx" timestamp="1504247869517">
+        <mark key="[" line="60" column="77" />
+        <mark key="]" line="60" column="78" />
+        <mark key="^" line="60" column="78" />
+        <mark key="." line="60" column="78" />
       </file>
       <file name="D:/baidu/icode/frontend-v2/src/global/reducers/index.jsx" timestamp="1504237406228" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/users.jsx" timestamp="1504145892345" />
@@ -58,11 +58,11 @@
         <mark key="." line="237" column="0" />
         <mark key="^" line="198" column="31" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/OperationModals.jsx" timestamp="1504245714240">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-        <mark key="^" line="52" column="28" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/OperationModals.jsx" timestamp="1504249611609">
+        <mark key="[" line="89" column="71" />
+        <mark key="]" line="89" column="71" />
+        <mark key="." line="89" column="71" />
+        <mark key="^" line="89" column="71" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/sideItems/SidePanelHeader.jsx" timestamp="1503477115592">
         <mark key="[" line="26" column="2" />
@@ -104,6 +104,9 @@
         <mark key="." line="40" column="128" />
         <mark key="^" line="40" column="128" />
       </file>
+      <file name="/Dummy.txt" timestamp="1504247686470">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/planAndTrack/widget/config/planTrackConfig.js" timestamp="1504185416485" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/issueTypes.jsx" timestamp="1504237311393">
         <mark key="[" line="22" column="62" />
@@ -142,11 +145,11 @@
       <file name="/fragment.js2" timestamp="1504148962900">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/reducer/OperationModalsReducer.jsx" timestamp="1504234194352">
-        <mark key="[" line="135" column="41" />
-        <mark key="]" line="135" column="41" />
-        <mark key="^" line="135" column="41" />
-        <mark key="." line="135" column="41" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/reducer/OperationModalsReducer.jsx" timestamp="1504249369865">
+        <mark key="[" line="11" column="6" />
+        <mark key="]" line="11" column="6" />
+        <mark key="^" line="11" column="6" />
+        <mark key="." line="11" column="6" />
       </file>
     </filemarks>
     <jumps>
@@ -174,11 +177,11 @@
       <jump line="895" column="43" filename="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygn16q7u8Dg0M0nLCBpc3N1ZVR5cGVzLCBnZXQoaXNzdWVUeXBlcywgdHJhbnNUeXBlTW9kYWwuZ2V0KCdzcGFjZUlkJykpKTsK</text>
+      <register name="&quot;" type="4">
+        <text>hideTransTypeModal</text>
       </register>
       <register name="-" type="4">
-        <text>!</text>
+        <text>hideTransTypeModal</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
