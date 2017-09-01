@@ -41,6 +41,7 @@
         <mark key="." line="209" column="39" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/users.jsx" timestamp="1504145892345" />
+      <file name="/webpack.config.js" timestamp="1504253924337" />
       <file name="D:/codes/redux-optimistic-thunk/example/react/action.js" timestamp="1504076664512">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="7" />
@@ -180,6 +181,7 @@
         <mark key="^" line="11" column="6" />
         <mark key="." line="11" column="6" />
       </file>
+      <file name="/README.md" timestamp="1504253361666" />
     </filemarks>
     <jumps>
       <jump line="38" column="32" filename="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" />
