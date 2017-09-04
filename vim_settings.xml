@@ -38,11 +38,11 @@
         <mark key="^" line="57" column="25" />
         <mark key="." line="60" column="31" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/UserTourGuide.jsx" timestamp="1504504420071">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="2" column="50" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/UserTourGuide.jsx" timestamp="1504506845371">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="19" column="24" />
+        <mark key="." line="19" column="24" />
+        <mark key="^" line="19" column="24" />
       </file>
       <file name="D:/baidu/icode/frontend-v2/src/global/reducers/index.jsx" timestamp="1504237406228" />
       <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1503576489737">
@@ -151,11 +151,11 @@
         <mark key="^" line="22" column="71" />
         <mark key="." line="22" column="71" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1504504589338">
-        <mark key="[" line="106" column="20" />
-        <mark key="]" line="106" column="20" />
-        <mark key="." line="106" column="20" />
-        <mark key="^" line="108" column="20" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1504506908674">
+        <mark key="[" line="115" column="20" />
+        <mark key="]" line="115" column="20" />
+        <mark key="." line="115" column="20" />
+        <mark key="^" line="115" column="19" />
       </file>
       <file name="D:/codes/play-ground/src/App.js" timestamp="1503887447559">
         <mark key="[" line="43" column="12" />
@@ -216,10 +216,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
