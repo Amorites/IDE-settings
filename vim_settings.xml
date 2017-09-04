@@ -15,7 +15,7 @@
         <mark key="^" line="174" column="56" />
         <mark key="." line="174" column="56" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/webpack/webpack.config.js" timestamp="1503455354661">
+      <file name="D:/baidu/icafe/frontend/src/webpack/webpack.config.js" timestamp="1504494434211">
         <mark key="[" line="44" column="38" />
         <mark key="]" line="44" column="44" />
         <mark key="^" line="44" column="44" />
@@ -48,12 +48,12 @@
         <mark key="." line="28" column="7" />
         <mark key="^" line="28" column="7" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1504167250919">
-        <mark key="'" line="874" column="43" />
-        <mark key="[" line="887" column="37" />
-        <mark key="]" line="887" column="69" />
-        <mark key="^" line="887" column="69" />
-        <mark key="." line="887" column="69" />
+      <file name="D:/baidu/icode/frontend-v2/webpack/base.config.js" timestamp="1504494014741" />
+      <file name="D:/baidu/icafe/frontend/src/pages/session/actions/index.jsx" timestamp="1504495306800">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="26" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/components/RemindModal.jsx" timestamp="1504250955147">
         <mark key="[" line="73" column="24" />
@@ -72,18 +72,12 @@
         <mark key="." line="237" column="0" />
         <mark key="^" line="198" column="31" />
       </file>
+      <file name="D:/baidu/icode/frontend-v2/webpack/development.config.js" timestamp="1504493725795" />
       <file name="D:/baidu/icafe/frontend/src/pages/issue/components/DeleteIssueModal.jsx" timestamp="1504251268951">
         <mark key="[" line="58" column="33" />
         <mark key="]" line="58" column="33" />
         <mark key="." line="58" column="33" />
         <mark key="^" line="66" column="37" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/OperationModals.jsx" timestamp="1504250507118">
-        <mark key="'" line="89" column="25" />
-        <mark key="[" line="89" column="33" />
-        <mark key="]" line="89" column="33" />
-        <mark key="." line="89" column="33" />
-        <mark key="^" line="89" column="32" />
       </file>
       <file name="D:/baidu/icode/frontend-v2/webpack.config.js" timestamp="1504256905228" />
       <file name="D:/baidu/icafe/frontend/src/pages/common/api.jsx" timestamp="1504144570066" />
@@ -132,9 +126,7 @@
         <mark key="." line="40" column="128" />
         <mark key="^" line="40" column="128" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504252490009">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1504495495085" />
       <file name="D:/baidu/icafe/frontend/src/pages/issue/components/CopyMigrateModal.jsx" timestamp="1504250908531">
         <mark key="[" line="154" column="6" />
         <mark key="]" line="170" column="81" />
@@ -166,11 +158,11 @@
         <mark key="^" line="40" column="4" />
         <mark key="." line="40" column="4" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/redux/store.jsx" timestamp="1504082731332">
-        <mark key="[" line="28" column="24" />
-        <mark key="]" line="29" column="29" />
+      <file name="D:/baidu/icafe/frontend/src/pages/redux/store.jsx" timestamp="1504495172709">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
         <mark key="^" line="29" column="29" />
-        <mark key="." line="29" column="29" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/reducer/OperationModalsReducer.jsx" timestamp="1504250841641">
         <mark key="[" line="11" column="6" />
@@ -179,6 +171,12 @@
         <mark key="." line="11" column="6" />
       </file>
       <file name="/README.md" timestamp="1504253361666" />
+      <file name="D:/baidu/icafe/frontend/src/pages/ueditor/Mention.js" timestamp="1504494557698" />
+      <file name="D:/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1504494594492">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="38" column="32" filename="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" />
@@ -206,11 +204,11 @@
       <jump line="89" column="25" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/OperationModals.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzdHJpcC1kZWJ1ZyI6ICJeMS4xLjEiLAo=</text>
+      <register name="&quot;" type="4">
+        <text>Info</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LCA=</text>
+        <text>Info</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -219,31 +217,31 @@
         <text>get(issueTypes, transTypeModal.get('spaceId'))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzdHJpcC1kZWJ1ZyI6ICJeMS4xLjEiLAo=</text>
+        <text encoding="base64">aW1wb3J0IE1lbnRpb24gZnJvbSAnLi4vdWVkaXRvci9NZW50aW9uLmpzJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IE1lbnRpb24gZnJvbSAnLi4vdWVkaXRvci9NZW50aW9uLmpzJzsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICJzdHJpcC1kZWJ1ZyI6ICJeMS4xLjEiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJiYWJlbC1yZWdpc3RlciI6ICJeNi4xNC4wIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICJjaGFpIjogIl4zLjUuMCIsCg==</text>
+        <text encoding="base64">ICAgICJzdHJpcC1kZWJ1ZyI6ICJeMS4xLjEiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICJlbnp5bWUiOiAiXjIuNC4xIiwK</text>
+        <text encoding="base64">ICAgICJiYWJlbC1yZWdpc3RlciI6ICJeNi4xNC4wIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJqc2RvbSI6ICJeOS41LjAiLAo=</text>
+        <text encoding="base64">ICAgICJjaGFpIjogIl4zLjUuMCIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICJtb2NoYSI6ICJeMy4wLjIiLAo=</text>
+        <text encoding="base64">ICAgICJlbnp5bWUiOiAiXjIuNC4xIiwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJyZWFjdC1hZGRvbnMtdGVzdC11dGlscyI6ICIxNS4zLjIiLAo=</text>
+        <text encoding="base64">ICAgICJqc2RvbSI6ICJeOS41LjAiLAo=</text>
       </register>
       <register name=":" type="4">
         <text>578</text>
