@@ -136,12 +136,12 @@
         <mark key="^" line="57" column="25" />
         <mark key="." line="60" column="31" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/UserTourGuide.jsx" timestamp="1504596951677">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/UserTourGuide.jsx" timestamp="1504597975543">
         <mark key="'" line="3" column="47" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="78" />
-        <mark key="." line="33" column="13" />
-        <mark key="^" line="32" column="15" />
+        <mark key="[" line="111" column="0" />
+        <mark key="]" line="111" column="42" />
+        <mark key="." line="111" column="0" />
+        <mark key="^" line="36" column="29" />
       </file>
       <file name="D:/baidu/icode/frontend-v2/src/global/reducers/index.jsx" timestamp="1504237406228" />
       <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1503576489737">
@@ -276,16 +276,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0VGltZW91dCgoKSA9PiBob3BzY290Y2guc3RhcnRUb3VyKGRlZmF1bHRDZmcpLnNob3dTdGVwKDIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlyc3RUaW1lID0gZmFsc2U7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>7</text>
+        <text>isNew</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0VGltZW91dCgoKSA9PiBob3BzY290Y2guc3RhcnRUb3VyKGRlZmF1bHRDZmcpLnNob3dTdGVwKDcpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlyc3RUaW1lID0gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc2V0VGltZW91dCgoKSA9PiBob3BzY290Y2guc3RhcnRUb3VyKGRlZmF1bHRDZmcpLnNob3dTdGVwKDIpKTsK</text>
