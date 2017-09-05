@@ -149,7 +149,8 @@
       </file>
       <file name="D:/baidu/icode/frontend-v2/src/global/reducers/index.jsx" timestamp="1504237406228" />
       <file name="/webpack.config.js" timestamp="1504253924337" />
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1504167250919">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/CreateCard.jsx" timestamp="1504614319133" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1504614494764">
         <mark key="'" line="874" column="43" />
         <mark key="[" line="887" column="37" />
         <mark key="]" line="887" column="69" />
@@ -200,6 +201,11 @@
         <mark key="]" line="27" column="73" />
         <mark key="^" line="27" column="73" />
         <mark key="." line="27" column="73" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CreateCard.jsx" timestamp="1504614207565">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/topbar/components/MyLinks.jsx" timestamp="1504613218719" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/reducers/entitiesMeta/issueTypeOrder.jsx" timestamp="1504242201547">
