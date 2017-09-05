@@ -142,12 +142,12 @@
         <mark key="^" line="57" column="25" />
         <mark key="." line="60" column="31" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/UserTourGuide.jsx" timestamp="1504603738132">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/UserTourGuide.jsx" timestamp="1504605289286">
         <mark key="'" line="2" column="47" />
-        <mark key="[" line="42" column="47" />
-        <mark key="]" line="42" column="47" />
-        <mark key="." line="42" column="47" />
-        <mark key="^" line="42" column="27" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+        <mark key="^" line="39" column="49" />
       </file>
       <file name="D:/baidu/icode/frontend-v2/src/global/reducers/index.jsx" timestamp="1504237406228" />
       <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1503576489737">
@@ -290,8 +290,8 @@
       <jump line="3" column="47" filename="D:/baidu/icafe/frontend/src/pages/storyMapping/components/UserTourGuide.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRhcmdldDogJ3VubWFwLXRleHQtYnV0dG9uJywK</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -303,31 +303,31 @@
         <text encoding="base64">ICAgICAgICAgICAgZmlyc3RUaW1lID0gZmFsc2U7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlyc3RUaW1lID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHRhcmdldDogJ3VubWFwLXRleHQtYnV0dG9uJywK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlyc3RUaW1lID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlyc3RUaW1lID0gZmFsc2U7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEhBQ0sgs/W0zrTyv6p0b3VyR3VpZGXKsaOs1eK49r/ytcTOu9bD09DOysziCiAgICAgICAgICAgICAgICAvLyB5T2Zmc2V0OiBmaXJzdFRpbWUgPyAtMTAwIDogMCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmlyc3RUaW1lID0gZmFsc2U7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHtTdG9yYWdlfSBmcm9tICcuLi8uLi9jb21tb24vdXRpbHMvQk9NLmpzeCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIEhBQ0sgs/W0zrTyv6p0b3VyR3VpZGXKsaOs1eK49r/ytcTOu9bD09DOysziCiAgICAgICAgICAgICAgICAvLyB5T2Zmc2V0OiBmaXJzdFRpbWUgPyAtMTAwIDogMCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">bGV0IGZpcnN0VGltZSA9IHRydWU7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtTdG9yYWdlfSBmcm9tICcuLi8uLi9jb21tb24vdXRpbHMvQk9NLmpzeCc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdiBzdHlsZT0iaGVpZ2h0OiAxMThweCI+Cg==</text>
+        <text encoding="base64">bGV0IGZpcnN0VGltZSA9IHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0VGltZW91dCgoKSA9PiBob3BzY290Y2guc3RhcnRUb3VyKGRlZmF1bHRDZmcpLnNob3dTdGVwKDIpKTsK</text>
+        <text encoding="base64">PGRpdiBzdHlsZT0iaGVpZ2h0OiAxMThweCI+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogIzAwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0VGltZW91dCgoKSA9PiBob3BzY290Y2guc3RhcnRUb3VyKGRlZmF1bHRDZmcpLnNob3dTdGVwKDIpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpc05ld1VzZXIgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb2xvcjogIzAwMDsK</text>
       </register>
       <register name=":" type="4">
         <text>s/&quot;/'/g</text>
