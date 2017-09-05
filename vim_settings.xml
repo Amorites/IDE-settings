@@ -37,6 +37,13 @@
         <mark key="^" line="49" column="49" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/widget/pictureGuide/pictureGuide.less" timestamp="1504516950183" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/OperationModals.jsx" timestamp="1504250507118">
+        <mark key="'" line="89" column="25" />
+        <mark key="[" line="89" column="33" />
+        <mark key="]" line="89" column="33" />
+        <mark key="." line="89" column="33" />
+        <mark key="^" line="89" column="32" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/common/api.jsx" timestamp="1504144570066" />
       <file name="D:/baidu/icafe/frontend/.eslintrc.json" timestamp="1504169603546">
         <mark key="[" line="32" column="25" />
@@ -76,11 +83,11 @@
         <mark key="^" line="22" column="71" />
         <mark key="." line="22" column="71" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1504523558881">
-        <mark key="[" line="115" column="35" />
-        <mark key="]" line="115" column="38" />
-        <mark key="." line="115" column="38" />
-        <mark key="^" line="115" column="38" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1504595144280">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="109" column="12" />
       </file>
       <file name="D:/codes/play-ground/src/App.js" timestamp="1503887447559">
         <mark key="[" line="43" column="12" />
@@ -123,22 +130,18 @@
         <mark key="^" line="174" column="56" />
         <mark key="." line="174" column="56" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/widget/pictureGuide/PictureGuide.jsx" timestamp="1504510640495">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/components/TransTypeModal.jsx" timestamp="1504251200596">
         <mark key="[" line="60" column="31" />
         <mark key="]" line="60" column="31" />
         <mark key="^" line="57" column="25" />
         <mark key="." line="60" column="31" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/UserTourGuide.jsx" timestamp="1504592636217">
-        <mark key="[" line="28" column="45" />
-        <mark key="]" line="12" column="14" />
-        <mark key="." line="12" column="14" />
-        <mark key="^" line="12" column="14" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/UserTourGuide.jsx" timestamp="1504595824523">
+        <mark key="'" line="3" column="47" />
+        <mark key="[" line="31" column="70" />
+        <mark key="]" line="31" column="70" />
+        <mark key="." line="31" column="70" />
+        <mark key="^" line="31" column="70" />
       </file>
       <file name="D:/baidu/icode/frontend-v2/src/global/reducers/index.jsx" timestamp="1504237406228" />
       <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1503576489737">
@@ -147,6 +150,13 @@
         <mark key="." line="209" column="39" />
       </file>
       <file name="/webpack.config.js" timestamp="1504253924337" />
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" timestamp="1504167250919">
+        <mark key="'" line="874" column="43" />
+        <mark key="[" line="887" column="37" />
+        <mark key="]" line="887" column="69" />
+        <mark key="^" line="887" column="69" />
+        <mark key="." line="887" column="69" />
+      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/issue/components/RemindModal.jsx" timestamp="1504250955147">
         <mark key="[" line="73" column="24" />
         <mark key="]" line="73" column="24" />
@@ -164,6 +174,7 @@
         <mark key="." line="237" column="0" />
         <mark key="^" line="198" column="31" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/RedirectToDefaultBoard.jsx" timestamp="1504593707629" />
       <file name="D:/baidu/icode/frontend-v2/webpack/development.config.js" timestamp="1504493725795" />
       <file name="D:/baidu/icafe/frontend/src/pages/issue/components/DeleteIssueModal.jsx" timestamp="1504251268951">
         <mark key="[" line="58" column="33" />
@@ -171,7 +182,7 @@
         <mark key="." line="58" column="33" />
         <mark key="^" line="66" column="37" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/constant.jsx" timestamp="1504591625863">
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/constant.jsx" timestamp="1504593735277">
         <mark key="[" line="22" column="18" />
         <mark key="]" line="22" column="18" />
         <mark key="^" line="22" column="18" />
@@ -219,7 +230,7 @@
       </file>
       <file name="D:/codes/webpack-demo/dist/main.52f9770898dd9a00dd64.js" timestamp="1504531716483" />
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/storyMapping/widget/index.js" timestamp="1504504057560" />
-      <file name="/Dummy.txt" timestamp="1504525016862">
+      <file name="/Dummy.txt" timestamp="1504595228993">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/pictureGuide.less" timestamp="1504514815235" />
@@ -256,55 +267,56 @@
       <jump line="63" column="12" filename="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/HighlightCard.jsx" />
       <jump line="895" column="43" filename="D:/baidu/icafe/frontend/src/pages/storyMapping/reducer.jsx" />
       <jump line="89" column="25" filename="D:/baidu/icafe/frontend/src/pages/issue/containers/OperationModals.jsx" />
+      <jump line="3" column="47" filename="D:/baidu/icafe/frontend/src/pages/storyMapping/components/UserTourGuide.jsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgd2VicGFjay5vcHRpbWl6ZS5Db21tb25zQ2h1bmtQbHVnaW4oewogICAgICAgICAgICBuYW1lOiAndmVuZG9yJwogICAgICAgIH0pLAo=</text>
+      <register name="&quot;" type="4">
+        <text>7</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KyAgICAg</text>
+        <text>7</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgdGFyZ2V0OiAkKCcudW5tYXAtZXhwYW5kZXIgLnVubWFwLXRpdGxlJylbMF0sCiAgICAgICAgICAgICAgICBjb250ZW50OiBgPGltZyBzcmM9Imh0dHBzOi8vYmouYmNlYm9zLmNvbS92MS9pc3N1ZS1lbnRlcnByaXNlLzYtMjAxNjExMjcyMDUxMDMtdTBtcmpqLmpwZyIgYWx0PSIiIC8+YCwKICAgICAgICAgICAgICAgIHBsYWNlbWVudDogJ3RvcCcsCiAgICAgICAgICAgICAgICB5T2Zmc2V0OiBpc05ldyA/IC0xMDAgOiAwLAogICAgICAgICAgICAgICAgYXJyb3dPZmZzZXQ6IDUwLAogICAgICAgICAgICAgICAgdGl0bGU6IGDS0dPQv6jGrLXEt9bA4LrNuea7rmAKICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2V0VGltZW91dCgoKSA9PiBob3BzY290Y2guc3RhcnRUb3VyKGRlZmF1bHRDZmcpLnNob3dTdGVwKDcpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgd2VicGFjay5vcHRpbWl6ZS5Db21tb25zQ2h1bmtQbHVnaW4oewogICAgICAgICAgICBuYW1lOiAndmVuZG9yJwogICAgICAgIH0pLAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBpc05ld1VzZXIgPSB0cnVlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC0gICBlbnRyeTogJy4vc3JjL2luZGV4LmpzJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gaG9wc2NvdGNoLnNob3dTdGVwKDcpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycm93T2Zmc2V0OiA0MDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaG9wc2NvdGNoLmdldEN1cnJTdGVwTnVtKCksICdzdGVwJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHlPZmZzZXQ6IGlzTmV3ID8gLTEwMCA6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaG9wc2NvdGNoLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9uU2hvdygpIHsKICAgICAgICAgICAgICAgICAgICBjb25zdCB0YXJnZXQgPSAkKCcudW5tYXAtZXhwYW5kZXIgLnVubWFwLXRleHQnKTsKICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3IFN0b3JhZ2UoJ3N0b3J5LW1hcHBpbmctdXNlci1wcmVmZXJlbmNlJywge30pOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0YXJnZXQub2Zmc2V0KCkpOwogICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHRhcmdldC5vdXRlckhlaWdodCgpKTsKICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyh0YXJnZXQucG9zaXRpb24oKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgd2VicGFjay5vcHRpbWl6ZS5Db21tb25zQ2h1bmtQbHVnaW4oewogICAgICAgICAgICBuYW1lOiAndmVuZG9yJwogICAgICAgIH0pLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZpeGVkRWxlbWVudDogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgIC0gICBlbnRyeTogJy4vc3JjL2luZGV4LmpzJywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycm93T2Zmc2V0OiA0MDAsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgdmFsaWQgPSAoY2ZnKSA9PiB7CiAgICByZXR1cm4gKGNmZwogICAgICAgICYmIHR5cGVvZiBjZmcuaWQgPT09ICdzdHJpbmcnCiAgICAgICAgJiYgY2ZnLnN0ZXBzIGluc3RhbmNlb2YgQXJyYXkpCiAgICAgICAgPyBjZmcgOiBmYWxzZTsKfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHlPZmZzZXQ6IGlzTmV3ID8gLTEwMCA6IDAsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>578</text>
+        <text>s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
       <last-search>&quot;</last-search>
       <last-pattern>&quot;</last-pattern>
-      <last-replace>{`</last-replace>
+      <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
@@ -315,10 +327,10 @@
       </history-search>
       <history-cmd>
         <entry>s/&quot;/'</entry>
-        <entry>s/&quot;/'/g</entry>
         <entry>s/&quot;/`/g</entry>
         <entry>s/&quot;/{`/g</entry>
         <entry>578</entry>
+        <entry>s/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />
