@@ -3,18 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Card.jsx" timestamp="1504577812669">
-        <mark key="[" line="295" column="37" />
-        <mark key="]" line="235" column="15" />
-        <mark key="." line="235" column="15" />
-        <mark key="^" line="235" column="15" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1504006467811">
-        <mark key="[" line="174" column="53" />
-        <mark key="]" line="174" column="56" />
-        <mark key="^" line="174" column="56" />
-        <mark key="." line="174" column="56" />
-      </file>
       <file name="D:/baidu/icafe/frontend/src/webpack/webpack.config.js" timestamp="1504494434211">
         <mark key="[" line="44" column="38" />
         <mark key="]" line="44" column="44" />
@@ -27,31 +15,7 @@
         <mark key="." line="66" column="55" />
         <mark key="^" line="66" column="55" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/widget/pictureGuide/PictureGuide.jsx" timestamp="1504510640495">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/TransTypeModal.jsx" timestamp="1504251200596">
-        <mark key="[" line="60" column="31" />
-        <mark key="]" line="60" column="31" />
-        <mark key="^" line="57" column="25" />
-        <mark key="." line="60" column="31" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/UserTourGuide.jsx" timestamp="1504524835941">
-        <mark key="[" line="86" column="29" />
-        <mark key="]" line="86" column="29" />
-        <mark key="." line="86" column="29" />
-        <mark key="^" line="79" column="32" />
-      </file>
-      <file name="D:/baidu/icode/frontend-v2/src/global/reducers/index.jsx" timestamp="1504237406228" />
-      <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1503576489737">
-        <mark key="[" line="209" column="39" />
-        <mark key="]" line="209" column="39" />
-        <mark key="." line="209" column="39" />
-      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/users.jsx" timestamp="1504145892345" />
-      <file name="/webpack.config.js" timestamp="1504253924337" />
       <file name="D:/codes/redux-optimistic-thunk/example/react/action.js" timestamp="1504076664512">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="7" />
@@ -66,66 +30,19 @@
         <mark key="^" line="2" column="26" />
       </file>
       <file name="D:/codes/webpack-demo/dist/runtime.494e42af0157f187335e.js" timestamp="1504531702103" />
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/RemindModal.jsx" timestamp="1504250955147">
-        <mark key="[" line="73" column="24" />
-        <mark key="]" line="73" column="24" />
-        <mark key="^" line="77" column="64" />
-        <mark key="." line="73" column="24" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/AxisX.jsx" timestamp="1503546069108">
-        <mark key="[" line="209" column="0" />
-        <mark key="]" line="209" column="0" />
-        <mark key="." line="209" column="0" />
-      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/topbar/components/Help.jsx" timestamp="1504513998077">
         <mark key="[" line="49" column="45" />
         <mark key="]" line="49" column="49" />
         <mark key="." line="49" column="49" />
         <mark key="^" line="49" column="49" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Board.jsx" timestamp="1504084891810">
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
-        <mark key="^" line="198" column="31" />
-      </file>
-      <file name="D:/baidu/icode/frontend-v2/webpack/development.config.js" timestamp="1504493725795" />
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/DeleteIssueModal.jsx" timestamp="1504251268951">
-        <mark key="[" line="58" column="33" />
-        <mark key="]" line="58" column="33" />
-        <mark key="." line="58" column="33" />
-        <mark key="^" line="66" column="37" />
-      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/widget/pictureGuide/pictureGuide.less" timestamp="1504516950183" />
-      <file name="D:/baidu/icafe/frontend/src/pages/topbar/components/Topbar.jsx" timestamp="1504514142178">
-        <mark key="[" line="31" column="19" />
-        <mark key="]" line="31" column="19" />
-        <mark key="." line="31" column="19" />
-        <mark key="^" line="31" column="19" />
-      </file>
-      <file name="D:/baidu/icode/frontend-v2/webpack.config.js" timestamp="1504256905228" />
-      <file name="D:/codes/webpack-demo/webpack.config.js" timestamp="1504531465222">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="22" column="11" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="19" column="10" />
-      </file>
       <file name="D:/baidu/icafe/frontend/src/pages/common/api.jsx" timestamp="1504144570066" />
-      <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1504252457804">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="28" />
-        <mark key="." line="71" column="0" />
-      </file>
       <file name="D:/baidu/icafe/frontend/.eslintrc.json" timestamp="1504169603546">
         <mark key="[" line="32" column="25" />
         <mark key="]" line="32" column="27" />
         <mark key="." line="32" column="27" />
         <mark key="^" line="32" column="27" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CreateCard.jsx" timestamp="1503561894046">
-        <mark key="[" line="84" column="0" />
-        <mark key="]" line="84" column="0" />
-        <mark key="." line="84" column="0" />
       </file>
       <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/HighlightCard.jsx" timestamp="1503974528076">
         <mark key="[" line="25" column="7" />
@@ -133,31 +50,12 @@
         <mark key="." line="25" column="7" />
         <mark key="^" line="25" column="8" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/redux/reducers/entitiesMeta/issueTypeOrder.jsx" timestamp="1504242201547">
-        <mark key="[" line="3" column="46" />
-        <mark key="]" line="3" column="46" />
-        <mark key="." line="3" column="46" />
-        <mark key="^" line="3" column="46" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/sidebar/containers/MenuList.jsx" timestamp="1503470043981">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/topbar/styles/index.less" timestamp="1504513810018">
-        <mark key="[" line="50" column="25" />
-        <mark key="]" line="51" column="22" />
-        <mark key="^" line="51" column="22" />
-        <mark key="." line="51" column="22" />
-      </file>
-      <file name="D:/codes/webpack-demo/dist/main.52f9770898dd9a00dd64.js" timestamp="1504531716483" />
       <file name="D:/codes/webpack-demo/src/index.js" timestamp="1504531382344">
         <mark key="[" line="0" column="23" />
         <mark key="]" line="0" column="22" />
         <mark key="^" line="0" column="22" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/storyMapping/widget/index.js" timestamp="1504504057560" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/actions/issues.jsx" timestamp="1504160615867">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -169,16 +67,6 @@
         <mark key="]" line="40" column="128" />
         <mark key="." line="40" column="128" />
         <mark key="^" line="40" column="128" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1504525016862">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/pictureGuide.less" timestamp="1504514815235" />
-      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/CopyMigrateModal.jsx" timestamp="1504250908531">
-        <mark key="[" line="154" column="6" />
-        <mark key="]" line="170" column="81" />
-        <mark key="^" line="170" column="81" />
-        <mark key="." line="170" column="81" />
       </file>
       <file name="D:/codes/webpack-demo/package.json" timestamp="1504531314499" />
       <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/planAndTrack/widget/config/planTrackConfig.js" timestamp="1504185416485" />
@@ -205,7 +93,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" timestamp="1504577934307" />
       <file name="D:/baidu/icafe/frontend/src/pages/redux/store.jsx" timestamp="1504495172709">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="0" />
@@ -219,12 +106,131 @@
         <mark key="." line="11" column="6" />
       </file>
       <file name="/README.md" timestamp="1504253361666" />
-      <file name="D:/baidu/icafe/frontend/src/pages/ueditor/Mention.js" timestamp="1504494557698" />
       <file name="D:/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1504494594492">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Card.jsx" timestamp="1504577812669">
+        <mark key="[" line="295" column="37" />
+        <mark key="]" line="235" column="15" />
+        <mark key="." line="235" column="15" />
+        <mark key="^" line="235" column="15" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1504006467811">
+        <mark key="[" line="174" column="53" />
+        <mark key="]" line="174" column="56" />
+        <mark key="^" line="174" column="56" />
+        <mark key="." line="174" column="56" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/widget/pictureGuide/PictureGuide.jsx" timestamp="1504510640495">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/TransTypeModal.jsx" timestamp="1504251200596">
+        <mark key="[" line="60" column="31" />
+        <mark key="]" line="60" column="31" />
+        <mark key="^" line="57" column="25" />
+        <mark key="." line="60" column="31" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/UserTourGuide.jsx" timestamp="1504524835941">
+        <mark key="[" line="86" column="29" />
+        <mark key="]" line="86" column="29" />
+        <mark key="." line="86" column="29" />
+        <mark key="^" line="79" column="32" />
+      </file>
+      <file name="D:/baidu/icode/frontend-v2/src/global/reducers/index.jsx" timestamp="1504237406228" />
+      <file name="D:/baidu/icafe/frontend/src/pages/discuss/containers/ShowPanel.jsx" timestamp="1503576489737">
+        <mark key="[" line="209" column="39" />
+        <mark key="]" line="209" column="39" />
+        <mark key="." line="209" column="39" />
+      </file>
+      <file name="/webpack.config.js" timestamp="1504253924337" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/RemindModal.jsx" timestamp="1504250955147">
+        <mark key="[" line="73" column="24" />
+        <mark key="]" line="73" column="24" />
+        <mark key="^" line="77" column="64" />
+        <mark key="." line="73" column="24" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/AxisX.jsx" timestamp="1503546069108">
+        <mark key="[" line="209" column="0" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/containers/Board.jsx" timestamp="1504084891810">
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="." line="237" column="0" />
+        <mark key="^" line="198" column="31" />
+      </file>
+      <file name="D:/baidu/icode/frontend-v2/webpack/development.config.js" timestamp="1504493725795" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/DeleteIssueModal.jsx" timestamp="1504251268951">
+        <mark key="[" line="58" column="33" />
+        <mark key="]" line="58" column="33" />
+        <mark key="." line="58" column="33" />
+        <mark key="^" line="66" column="37" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/constant.jsx" timestamp="1504591625863">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/topbar/components/Topbar.jsx" timestamp="1504514142178">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="31" column="19" />
+        <mark key="." line="31" column="19" />
+        <mark key="^" line="31" column="19" />
+      </file>
+      <file name="D:/baidu/icode/frontend-v2/webpack.config.js" timestamp="1504256905228" />
+      <file name="D:/codes/webpack-demo/webpack.config.js" timestamp="1504531465222">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="20" column="0" />
+        <mark key="^" line="19" column="10" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/package.json" timestamp="1504252457804">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="28" />
+        <mark key="." line="71" column="0" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CreateCard.jsx" timestamp="1503561894046">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/redux/reducers/entitiesMeta/issueTypeOrder.jsx" timestamp="1504242201547">
+        <mark key="[" line="3" column="46" />
+        <mark key="]" line="3" column="46" />
+        <mark key="." line="3" column="46" />
+        <mark key="^" line="3" column="46" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/sidebar/containers/MenuList.jsx" timestamp="1503470043981">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/topbar/styles/index.less" timestamp="1504513810018">
+        <mark key="[" line="50" column="25" />
+        <mark key="]" line="51" column="22" />
+        <mark key="^" line="51" column="22" />
+        <mark key="." line="51" column="22" />
+      </file>
+      <file name="D:/codes/webpack-demo/dist/main.52f9770898dd9a00dd64.js" timestamp="1504531716483" />
+      <file name="D:/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/storyMapping/widget/index.js" timestamp="1504504057560" />
+      <file name="/Dummy.txt" timestamp="1504525016862">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/pictureGuide.less" timestamp="1504514815235" />
+      <file name="D:/baidu/icafe/frontend/src/pages/issue/components/CopyMigrateModal.jsx" timestamp="1504250908531">
+        <mark key="[" line="154" column="6" />
+        <mark key="]" line="170" column="81" />
+        <mark key="^" line="170" column="81" />
+        <mark key="." line="170" column="81" />
+      </file>
+      <file name="D:/baidu/icafe/frontend/src/pages/storyMapping/components/CardsCell.jsx" timestamp="1504577934307" />
+      <file name="D:/baidu/icafe/frontend/src/pages/ueditor/Mention.js" timestamp="1504494557698" />
     </filemarks>
     <jumps>
       <jump line="38" column="32" filename="D:/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" />
