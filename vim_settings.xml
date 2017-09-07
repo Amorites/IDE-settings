@@ -23,6 +23,12 @@
         <mark key="]" line="46" column="26" />
         <mark key="." line="46" column="26" />
       </file>
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1504763300818">
+        <mark key="[" line="173" column="137" />
+        <mark key="]" line="173" column="137" />
+        <mark key="^" line="173" column="137" />
+        <mark key="." line="173" column="137" />
+      </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/README.md" timestamp="1504681478695" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/package.json" timestamp="1504683814803">
         <mark key="[" line="78" column="29" />
@@ -32,11 +38,11 @@
       <file name="/HTML File.txt.ft" timestamp="1504751789284">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/common/userTrack/userTrack.jsx" timestamp="1504752324668">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-        <mark key="." line="1" column="18" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/common/userTrack/userTrack.jsx" timestamp="1504763775375">
+        <mark key="[" line="8" column="1" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="6" />
       </file>
     </filemarks>
     <jumps />
@@ -45,7 +51,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IG9uQ2xpY2s9e2NvbGxlY3RVc2VyQWN0aW9ufQ==</text>
+        <text>S</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Y29uc3QgdGVzdCA9IDExMjsKY29uc29sZS5sb2coJ2FoaGFoYWhhaGFoYWhhaGh6YScpOwo=</text>
@@ -63,7 +69,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG9uQ2xpY2s9e2NvbGxlY3RVc2VyQWN0aW9ufQ==</text>
+        <text>S</text>
       </register>
     </registers>
     <search>
@@ -77,6 +83,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
