@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1504864863669">
+      <file name="/Dummy.txt" timestamp="1504870871293">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="2" />
-        <mark key="." line="0" column="2" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/webpack/welcome.html" timestamp="1504868572711" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1504773498489">
@@ -15,7 +16,9 @@
         <mark key="^" line="173" column="137" />
         <mark key="." line="173" column="137" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/webpack/base.config.js" timestamp="1504869337724" />
+      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/package.json" timestamp="1504870341131" />
+      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/webpack/base.config.js" timestamp="1504870298749" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack/base.config.js" timestamp="1504871133336" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1504761641874">
         <mark key="[" line="72" column="50" />
         <mark key="]" line="72" column="50" />
@@ -27,6 +30,7 @@
         <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack.config.js" timestamp="1504868771772" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" timestamp="1504870695252" />
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/webpack/env.js" timestamp="1504869108724" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/README.md" timestamp="1504681478695" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/package.json" timestamp="1504683814803">
@@ -51,7 +55,9 @@
         <mark key="." line="0" column="6" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="0" column="0" filename="/Dummy.txt" />
+    </jumps>
     <registers>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ3RyYW5zZm9ybS1kZWNvcmF0b3JzLWxlZ2FjeScsCg==</text>
@@ -59,8 +65,8 @@
       <register name="1" type="2">
         <text encoding="base64">QHRyYWNrKHtwYWdlOiAnYWxsJ30sIHtkaXNwYXRjaDogZGF0YSA9PiBjb25zb2xlLmxvZygndHJhY2tpbmcnLCBkYXRhKX0pCg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">QHRyYWNrKHtwYWdlOiAnYWxsJ30sIHtkaXNwYXRjaDogZGF0YSA9PiBjb25zb2xlLmxvZygndHJhY2tpbmcnLCBkYXRhKX0pCg==</text>
+      <register name="&quot;" type="4">
+        <text>event-track (wip) wait for webpack</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">aW1wb3J0IHRyYWNrIGZyb20gJ3JlYWN0LXRyYWNraW5nJzsK</text>
@@ -84,7 +90,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>event-track (wip) wait for webpack</text>
       </register>
     </registers>
     <search>
