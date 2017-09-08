@@ -8,20 +8,22 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/layout/components/Layout.jsx" timestamp="1504761635037">
-        <mark key="[" line="46" column="86" />
-        <mark key="]" line="46" column="114" />
-        <mark key="." line="46" column="86" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/layout/components/Layout.jsx" timestamp="1504856293196">
+        <mark key="[" line="9" column="59" />
+        <mark key="]" line="9" column="61" />
+        <mark key="." line="9" column="61" />
+        <mark key="^" line="9" column="61" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1504761641874">
         <mark key="[" line="72" column="50" />
         <mark key="]" line="72" column="50" />
         <mark key="." line="72" column="50" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/fis-conf.js" timestamp="1504757315193">
-        <mark key="[" line="46" column="26" />
-        <mark key="]" line="46" column="26" />
-        <mark key="." line="46" column="26" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/fis-conf.js" timestamp="1504856186082">
+        <mark key="[" line="227" column="0" />
+        <mark key="]" line="227" column="50" />
+        <mark key="." line="227" column="0" />
+        <mark key="^" line="100" column="41" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1504773498489">
         <mark key="[" line="173" column="137" />
@@ -38,11 +40,11 @@
       <file name="/HTML File.txt.ft" timestamp="1504751789284">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1504853815712">
-        <mark key="[" line="41" column="9" />
-        <mark key="]" line="41" column="22" />
-        <mark key="." line="41" column="22" />
-        <mark key="^" line="41" column="22" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1504855856257">
+        <mark key="[" line="41" column="100" />
+        <mark key="]" line="41" column="113" />
+        <mark key="." line="41" column="113" />
+        <mark key="^" line="41" column="113" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/common/userTrack/userTrack.jsx" timestamp="1504763775375">
         <mark key="[" line="8" column="1" />
@@ -54,13 +56,13 @@
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAncmVkdXgnOiBfX3VyaSgnLi4vLi4vbm9kZV9tb2R1bGVzL3JlZHV4L2Rpc3QvcmVkdXguanMnKSArICc/JyArIG1vZHVsZVsncmVkdXgnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RyYW5zZm9ybS1kZWNvcmF0b3JzLWxlZ2FjeScsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="&quot;" type="4">
-        <text>redux</text>
+        <text>;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Y29uc3QgdGVzdCA9IDExMjsKY29uc29sZS5sb2coJ2FoaGFoYWhhaGFoYWhhaGh6YScpOwo=</text>
@@ -78,7 +80,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>redux</text>
+        <text>;</text>
       </register>
     </registers>
     <search>
