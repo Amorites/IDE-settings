@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1504870871293">
+      <file name="/Dummy.txt" timestamp="1505115126127">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/widget/Email.jsx" timestamp="1505115039611">
+        <mark key="[" line="17" column="85" />
+        <mark key="]" line="17" column="48" />
+        <mark key="^" line="17" column="48" />
+        <mark key="." line="17" column="48" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1504773498489">
         <mark key="[" line="173" column="137" />
@@ -26,6 +32,9 @@
         <mark key="[" line="46" column="0" />
         <mark key="]" line="46" column="50" />
         <mark key="." line="46" column="0" />
+      </file>
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/widget/pictureGuide/PictureGuide.jsx" timestamp="1505114913533">
+        <mark key="[" line="96" column="52" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/scripts/build.sh" timestamp="1505108509810" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/package.json" timestamp="1504683814803">
