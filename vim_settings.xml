@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1505116706529">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/widget/Email.jsx" timestamp="1505116680538">
         <mark key="[" line="17" column="85" />
         <mark key="]" line="18" column="29" />
@@ -21,8 +15,9 @@
         <mark key="^" line="173" column="137" />
         <mark key="." line="173" column="137" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/package.json" timestamp="1505110866776" />
-      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/npm-debug.log" timestamp="1505109248039" />
+      <file name="$USER_HOME$/codes/baidu/icafe/luigi/README.md" timestamp="1505117480393">
+        <mark key="[" line="1" column="3" />
+      </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1504761641874">
         <mark key="[" line="72" column="50" />
         <mark key="]" line="72" column="50" />
@@ -37,25 +32,33 @@
         <mark key="[" line="96" column="52" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/scripts/build.sh" timestamp="1505108509810" />
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/package.json" timestamp="1504683814803">
-        <mark key="[" line="81" column="29" />
-        <mark key="]" line="81" column="29" />
-        <mark key="." line="81" column="29" />
-      </file>
       <file name="/HTML File.txt.ft" timestamp="1504751789284">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1504855856257">
-        <mark key="[" line="41" column="100" />
-        <mark key="]" line="41" column="113" />
-        <mark key="." line="41" column="113" />
-        <mark key="^" line="41" column="113" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/common/userTrack/userTrack.jsx" timestamp="1504763775375">
         <mark key="[" line="8" column="1" />
         <mark key="]" line="0" column="6" />
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1505116706529">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/package.json" timestamp="1505110866776" />
+      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/npm-debug.log" timestamp="1505109248039" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/package.json" timestamp="1504683814803">
+        <mark key="[" line="81" column="29" />
+        <mark key="]" line="81" column="29" />
+        <mark key="." line="81" column="29" />
+      </file>
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1504855856257">
+        <mark key="[" line="41" column="100" />
+        <mark key="]" line="41" column="113" />
+        <mark key="." line="41" column="113" />
+        <mark key="^" line="41" column="113" />
       </file>
     </filemarks>
     <jumps>
