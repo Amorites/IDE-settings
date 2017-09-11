@@ -9,18 +9,14 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/webpack/welcome.html" timestamp="1504868572711" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/discuss/containers/Layout.jsx" timestamp="1504773498489">
         <mark key="[" line="173" column="137" />
         <mark key="]" line="173" column="137" />
         <mark key="^" line="173" column="137" />
         <mark key="." line="173" column="137" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/package.json" timestamp="1505097129388" />
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack/development.config.js" timestamp="1505095610567" />
-      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/webpack/base.config.js" timestamp="1504871497278" />
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack/base.config.js" timestamp="1505095382113" />
-      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/webpack/production.config.js" timestamp="1505094856748" />
+      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/package.json" timestamp="1505109268144" />
+      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/npm-debug.log" timestamp="1505109248039" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1504761641874">
         <mark key="[" line="72" column="50" />
         <mark key="]" line="72" column="50" />
@@ -31,16 +27,12 @@
         <mark key="]" line="46" column="50" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack.config.js" timestamp="1504868771772" />
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack/webpack.config.js" timestamp="1504870695252" />
-      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/webpack/env.js" timestamp="1505095118321" />
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/README.md" timestamp="1504681478695" />
+      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/scripts/build.sh" timestamp="1505108509810" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/package.json" timestamp="1504683814803">
         <mark key="[" line="81" column="29" />
         <mark key="]" line="81" column="29" />
         <mark key="." line="81" column="29" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/webpack.config.js" timestamp="1504868808880" />
       <file name="/HTML File.txt.ft" timestamp="1504751789284">
         <mark key="[" line="0" column="0" />
       </file>
@@ -99,7 +91,12 @@
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
