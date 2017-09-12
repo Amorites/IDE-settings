@@ -18,6 +18,12 @@
       </file>
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/src/index.ejs" timestamp="1505187871923" />
       <file name="/index.ejs" timestamp="1505136629191" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack/base.config.js" timestamp="1505203248795">
+        <mark key="[" line="40" column="22" />
+        <mark key="]" line="40" column="26" />
+        <mark key="^" line="40" column="26" />
+        <mark key="." line="40" column="26" />
+      </file>
       <file name="$USER_HOME$/codes/baidu/icafe/luigi/README.md" timestamp="1505117480393">
         <mark key="[" line="1" column="3" />
       </file>
@@ -32,6 +38,9 @@
       <file name="$USER_HOME$/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/common/lib/bootstrap/dist/css/bootstrap.min.css" timestamp="1505118622124" />
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/scripts/build.sh" timestamp="1505121323704" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1505134337885" />
+      <file name="/__dummy.js" timestamp="1505203711188">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/HTML File.txt.ft" timestamp="1504751789284">
         <mark key="[" line="0" column="0" />
       </file>
@@ -42,23 +51,19 @@
         <mark key="." line="0" column="6" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/common/lib/bootstrap/src/less/glyphicons.less" timestamp="1505118191105" />
-      <file name="/Dummy.txt" timestamp="1505134189473">
+      <file name="/Dummy.txt" timestamp="1505203763610">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1505201917057" />
+      <file name="/IndexPage.jsx" timestamp="1505203921599" />
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/package.json" timestamp="1505110866776" />
+      <file name="/index.jsx" timestamp="1505203823639" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/output/amd/resources/common/require-conf.js" timestamp="1505198712569" />
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/src/account/components/SSHKeyEditor.jsx" timestamp="1505121473136" />
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/npm-debug.log" timestamp="1505109248039" />
-      <file name="$USER_HOME$/codes/antd-demo/index.js" timestamp="1505119378999">
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="32" column="27" />
-        <mark key="^" line="30" column="43" />
-      </file>
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/src/xly-entry-adapt.jsx" timestamp="1505136172720" />
       <file name="/index.html" timestamp="1505136359882" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/common/require-conf.js" timestamp="1504855856257">
@@ -68,6 +73,10 @@
         <mark key="^" line="41" column="113" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack/production.config.js" timestamp="1505121859630" />
+      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/src/entry.jsx" timestamp="1505203358204" />
+      <file name="/fragment.java" timestamp="1505203687616">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/head-resources.htm" timestamp="1505136443262" />
     </filemarks>
     <jumps>
@@ -81,7 +90,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>autoFocus</text>
+        <text>entry</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">QHRyYWNrKHtwYWdlOiAnYWxsJ30sIHtkaXNwYXRjaDogZGF0YSA9PiBjb25zb2xlLmxvZygndHJhY2tpbmcnLCBkYXRhKX0pCg==</text>
@@ -108,7 +117,7 @@
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="-" type="4">
-        <text>autoFocus</text>
+        <text>entry</text>
       </register>
     </registers>
     <search>
