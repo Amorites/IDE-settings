@@ -10,7 +10,7 @@
         <mark key="^" line="173" column="137" />
         <mark key="." line="173" column="137" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack/loaders.js" timestamp="1505223586759" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack/loaders.js" timestamp="1505267990622" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack/base.config.js" timestamp="1505224232901">
         <mark key="[" line="68" column="21" />
         <mark key="]" line="68" column="21" />
@@ -91,6 +91,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack/env.js" timestamp="1505268251917">
+        <mark key="[" line="18" column="37" />
+        <mark key="]" line="18" column="41" />
+        <mark key="." line="18" column="41" />
+        <mark key="^" line="18" column="41" />
+      </file>
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/package.json" timestamp="1505224386583" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/ScatteredComponents.js" timestamp="1505206469512">
         <mark key="[" line="8" column="3" />
@@ -122,8 +128,8 @@
       <register name="1" type="2">
         <text encoding="base64">cm0gLXJmIGRpc3Qgb3V0cHV0Cg==</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cm0gLXJmIGRpc3Qgb3V0cHV0Cg==</text>
+      <register name="&quot;" type="4">
+        <text>src</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">dGFyIGN6ZiAuLi9vdXRwdXQvdGVzdC50YXIuZ3ogLi8KdGFyIGN6ZiAuLi9vdXRwdXQvb25saW5lLnRhci5neiAuLwo=</text>
@@ -150,7 +156,7 @@
         <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLWNsYXNzLXByb3BlcnRpZXMiLAogICAgICAgICJ0cmFuc2Zvcm0tb2JqZWN0LXJlc3Qtc3ByZWFkIiwKICAgICAgICAidHJhbnNmb3JtLWVzMjAxNS1tb2R1bGVzLXVtZCIK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>src</text>
       </register>
     </registers>
     <search>
