@@ -22,7 +22,7 @@
         <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack.config.js" timestamp="1505270163229" />
-      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/scripts/build.sh" timestamp="1505224425200" />
+      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/scripts/build.sh" timestamp="1505272194063" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1505134337885" />
       <file name="/__dummy.js" timestamp="1505203711188">
         <mark key="[" line="0" column="0" />
@@ -54,19 +54,15 @@
       <file name="$USER_HOME$/codes/baidu/icafe/luigi/README.md" timestamp="1505117480393">
         <mark key="[" line="1" column="3" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1504761641874">
-        <mark key="[" line="72" column="50" />
-        <mark key="]" line="72" column="50" />
-        <mark key="." line="72" column="50" />
-      </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/widget/pictureGuide/PictureGuide.jsx" timestamp="1505114913533">
         <mark key="[" line="96" column="52" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/common/lib/bootstrap/dist/css/bootstrap.min.css" timestamp="1505118622124" />
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/scripts/build.sh" timestamp="1505271498235">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/scripts/build.sh" timestamp="1505271529797">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="1" column="11" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1504751789284">
         <mark key="[" line="0" column="0" />
@@ -84,7 +80,7 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="41" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/package.json" timestamp="1505271450393" />
+      <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/package.json" timestamp="1505272234069" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/ScatteredComponents.js" timestamp="1505206469512">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="8" column="7" />
@@ -113,34 +109,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJ3RyYW5zZm9ybS1kZWNvcmF0b3JzLWxlZ2FjeScsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAiYWRkLXJlYWN0LWRpc3BsYXluYQo=</text>
+        <text encoding="base64">bWtkaXIgb3V0cHV0Cg==</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAiYWRkLXJlYWN0LWRpc3BsYXluYQo=</text>
+        <text encoding="base64">bWtkaXIgb3V0cHV0Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cm0gLXJmIGRpc3Qgb3V0cHV0Cg==</text>
+        <text encoding="base64">ICAgICAgICAiYWRkLXJlYWN0LWRpc3BsYXluYQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGFyIGN6ZiAuLi9vdXRwdXQvdGVzdC50YXIuZ3ogLi8KdGFyIGN6ZiAuLi9vdXRwdXQvb25saW5lLnRhci5neiAuLwo=</text>
+        <text encoding="base64">cm0gLXJmIGRpc3Qgb3V0cHV0Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">dGFyIGN6ZiAuLi9vdXRwdXQvdGVzdC50YXIuZ3ogLi8KdGFyIGN6ZiAuLi9vdXRwdXQvb25saW5lLnRhci5neiAuLwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">dGFyIGN6ZiAuLi9vdXRwdXQvdGVzdC50YXIuZ3ogLi8KdGFyIGN6ZiAuLi9vdXRwdXQvb25saW5lLnRhci5neiAuLwo=</text>
+      </register>
+      <register name="6" type="4">
         <text encoding="base64">ZmlzMyAtdiAtLW5vLWNvbG9yCmZpczMgcmVsZWFzZSBvCmZpczMgcmVsZWFzZSBpCmZpczMgcmVsZWFzZSB0ZXN0CmVjaG8gJyMjIyByZWxlYXNlIHN1Y2Nlc3MgIyMjJwpjZCAuLgpjcCAtUiBiaW4vIGRpc3QvYmluLwpjcCAtUiBiaW4vIHRlc3QvYmluLwpjcCAtUiBjb25maWcvIGRpc3QvY29uZmlnLwpjcCAtUiBjb25maWcvIHRlc3QvY29uZmlnLwpybSAtcmYgb3V0cHV0Cm1rZGlyIG91dHB1dApjZCBkaXN0ICYmIGxzCm1rZGlyIGFtZC9pbnRlcm5hbAptdiAuLi9hbWQvYW1kLyBhbWQvaW50ZXJuYWwvCnRhciBjemYgLi4vb3V0cHV0L29ubGluZS50YXIuZ3ogLi8KY2QgLi4vdGVzdAp0YXIgY3pmIC4uL291dHB1dC90ZXN0LnRhci5neiAuLwplY2hvIGNvbXBpbGVkb25l</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAvLyBuZXcgVWdsaWZ5SlNQbHVnaW4oe3NvdXJjZU1hcDogdHJ1ZX0pLAogICAgICAgIG5ldyAoW3tmcm9tOiAnd2VicGFjay9zaGFyZS1wYWNrYWdlLmpzb24nLCB0bzogJ3BhY2thZ2UuanNvbid9XSkK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgQnVuZGxlQW5hbHl6ZXJQbHVnaW4oe2FuYWx5emVyTW9kZTogJ3N0YXRpYyd9KSwK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgTG9hZGVyT3B0aW9uc1BsdWdpbih7bWluaW1pemU6IHRydWUsIGRlYnVnOiBmYWxzZX0pLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAidHJhbnNmb3JtLWNsYXNzLXByb3BlcnRpZXMiLAogICAgICAgICJ0cmFuc2Zvcm0tb2JqZWN0LXJlc3Qtc3ByZWFkIiwK</text>
+        <text encoding="base64">ICAgICAgICBuZXcgTG9hZGVyT3B0aW9uc1BsdWdpbih7bWluaW1pemU6IHRydWUsIGRlYnVnOiBmYWxzZX0pLAo=</text>
       </register>
       <register name="-" type="4">
         <text>m</text>
