@@ -10,7 +10,9 @@
         <mark key="^" line="54" column="15" />
         <mark key="." line="54" column="15" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/locale/en-US.jsx" timestamp="1505279789893" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/locale/en-US.jsx" timestamp="1505283394352">
+        <mark key="[" line="1" column="24" />
+      </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack/base.config.js" timestamp="1505271204488">
         <mark key="[" line="41" column="32" />
         <mark key="]" line="41" column="32" />
@@ -27,6 +29,7 @@
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/issue/containers/FormTaskCreate.jsx" timestamp="1505134337885" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack-share/DirtyResolvePlugin.js" timestamp="1505220587783" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/webpack-share/webpack.config.js" timestamp="1505224151709" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/storyMapping/components/AxisX.jsx" timestamp="1505282471641" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/storyMapping/components/Board.jsx" timestamp="1505201917057" />
       <file name="/IndexPage.jsx" timestamp="1505203921599" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/.babelrc" timestamp="1505271494192">
@@ -49,6 +52,11 @@
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/src/index.ejs" timestamp="1505187871923" />
       <file name="/index.ejs" timestamp="1505136629191" />
       <file name="$USER_HOME$/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/discuss/widget/index.js" timestamp="1505204570128" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/Index.jsx" timestamp="1505283333449">
+        <mark key="[" line="72" column="50" />
+        <mark key="]" line="72" column="50" />
+        <mark key="." line="72" column="50" />
+      </file>
       <file name="$USER_HOME$/codes/baidu/icafe/luigi/issue-ikafe-web/src/main/webapp/pages/common/lib/bootstrap/dist/css/bootstrap.min.css" timestamp="1505118622124" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/scripts/build.sh" timestamp="1505271529797">
         <mark key="[" line="2" column="0" />
@@ -63,7 +71,7 @@
         <mark key="." line="18" column="35" />
       </file>
       <file name="$USER_HOME$/codes/baidu/icafe/luigi/issue-luigi-web/src/main/webapp/pages/common/lib/bootstrap/src/less/glyphicons.less" timestamp="1505118191105" />
-      <file name="/Dummy.txt" timestamp="1505224155626">
+      <file name="/Dummy.txt" timestamp="1505283258013">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
