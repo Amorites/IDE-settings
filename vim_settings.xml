@@ -53,6 +53,12 @@
       <file name="/index.jsx" timestamp="1505203823639" />
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/src/account/components/SSHKeyEditor.jsx" timestamp="1505121473136" />
       <file name="$USER_HOME$/codes/baidu/icode/frontend-v2/npm-debug.log" timestamp="1505109248039" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/output/require-conf.js" timestamp="1505291160590">
+        <mark key="[" line="112" column="118" />
+        <mark key="]" line="112" column="116" />
+        <mark key="^" line="112" column="116" />
+        <mark key="." line="112" column="116" />
+      </file>
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/package.json" timestamp="1505279171586">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -139,7 +145,7 @@
         <mark key="." line="8" column="7" />
         <mark key="^" line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/codes/baidu/icafe/frontend/output/amd/resources/common/require-conf.js" timestamp="1505198712569" />
+      <file name="$USER_HOME$/codes/baidu/icafe/frontend/output/amd/resources/common/require-conf.js" timestamp="1505291150847" />
       <file name="$USER_HOME$/codes/baidu/icafe/frontend/src/pages/issue/reducer/OperationModalsReducer.jsx" timestamp="1505285252670">
         <mark key="[" line="3" column="37" />
       </file>
@@ -167,7 +173,7 @@
         <text encoding="base64">Ly8gdG9kbyDkv67lpI0gYW5kIGRlbGV0ZQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>(copied from icode</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZXhwb3J0IAo=</text>
@@ -194,7 +200,7 @@
         <text encoding="base64">ICAgICAgICAiYWRkLXJlYWN0LWRpc3BsYXluYQo=</text>
       </register>
       <register name="-" type="4">
-        <text>(copied from icode</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
     </registers>
     <search>
